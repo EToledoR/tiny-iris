@@ -3,3 +3,35 @@ __pycache__/
 *.swp
 .env
 .pylintrc
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / editor
+.env
+*.swp
+.DS_Store
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Large / generated corpus artefacts
+corpus_petete/*.html
+corpus_petete/*_bbox.json
+corpus_petete/*_candidates.json
+
+# Petete intermediate/generated artefacts
+corpus_petete/*_bbox.json
+corpus_petete/*.html
+corpus_petete/*_candidates.json
+corpus_petete/petete_raw.jsonl
+
+
+# Keep source datasets/scripts under version control

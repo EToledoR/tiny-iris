@@ -1,0 +1,147 @@
+Iris vive en una biblioteca.
+Iris lee libros de astronomia.
+Iris lee libros de historia.
+Iris estudia los anillos de Saturno.
+Saturno es un planeta.
+La Tierra es un planeta.
+La Luna gira alrededor de la Tierra.
+Iris mira un mapa.
+Los mapas muestran lugares.
+Iris quiere aprender cosas nuevas.
+
+La astronomia estudia los objetos del universo.
+Las estrellas son enormes esferas de gas.
+El Sol es una estrella.
+La Tierra gira alrededor del Sol.
+La Luna gira alrededor de la Tierra.
+Saturno tiene un sistema de anillos muy conocido.
+Los anillos de Saturno estan formados principalmente por hielo y roca.
+Jupiter es el planeta mas grande del sistema solar.
+Marte es conocido como el planeta rojo.
+Venus tiene una atmosfera muy densa.
+Mercurio es el planeta mas cercano al Sol.
+
+La historia estudia las sociedades humanas del pasado.
+Los seres humanos han construido ciudades durante miles de anos.
+Las bibliotecas conservan textos y conocimientos.
+Los mapas antiguos muestran como las personas entendian el mundo.
+La escritura permite conservar informacion a traves del tiempo.
+Los astronomos antiguos observaban el cielo sin telescopios modernos.
+Muchas civilizaciones desarrollaron calendarios observando el movimiento del Sol y la Luna.
+
+Un mapa es una representacion de un territorio.
+Los mapas pueden mostrar montanas, rios, ciudades y fronteras.
+La cartografia es el estudio y la practica de hacer mapas.
+Un buen mapa necesita una escala.
+Tambien puede utilizar simbolos para representar diferentes lugares.
+Los mapas pueden cambiar cuando cambia nuestro conocimiento del territorio.
+Un atlas contiene una coleccion de mapas.
+
+Iris disfruta mirando mapas antiguos.
+Iris disfruta leyendo sobre astronomia.
+Iris disfruta aprendiendo palabras nuevas.
+Iris guarda sus libros favoritos en una estanteria.
+La biblioteca tiene muchas estanterias llenas de libros.
+Hay libros grandes y libros pequenos.
+Algunos libros hablan de historia.
+Otros libros hablan de astronomia.
+Otros libros hablan de lenguas antiguas.
+
+Un idioma esta formado por palabras y reglas.
+Las palabras pueden cambiar con el tiempo.
+Las lenguas antiguas pueden conservarse en inscripciones.
+Los textos escritos pueden ayudarnos a estudiar sociedades desaparecidas.
+Una inscripcion puede estar grabada en piedra, metal o ceramica.
+Los investigadores comparan textos para estudiar las lenguas.
+La escritura cuneiforme fue utilizada en varias sociedades del antiguo Oriente.
+Los jeroglificos fueron utilizados en el antiguo Egipto.
+
+Un dragon aparece en muchas historias fantasticas.
+Los dragones pueden volar en los cuentos.
+Un dragon puede ser pequeno o enorme.
+Algunos dragones guardan tesoros.
+Otros dragones viven en montanas.
+En una partida de rol los dragones pueden ser enemigos o aliados.
+Un aventurero debe decidir cuando luchar y cuando hablar.
+Un clerigo puede utilizar magia divina.
+Un ladron puede moverse en silencio.
+Un bardo puede contar historias y lanzar hechizos.
+Un mago estudia libros de magia.
+Un guerrero puede llevar una espada y un escudo.
+
+En una partida de Dungeons and Dragons los jugadores crean personajes.
+Cada personaje tiene habilidades diferentes.
+Los personajes pueden explorar ciudades, bosques, ruinas y mazmorras.
+Una mazmorra puede contener trampas, monstruos y tesoros.
+Los jugadores deben tomar decisiones.
+El resultado de algunas acciones depende de una tirada de dados.
+Un dado de veinte caras se llama d20.
+Los personajes pueden subir de nivel y aprender nuevas habilidades.
+
+Iris piensa que los mapas son fascinantes.
+Iris piensa que Saturno es fascinante.
+Iris piensa que los dragones tambien son fascinantes.
+Iris no sabe si los dragones existen.
+Iris sabe que Saturno existe.
+Iris sabe que la Luna existe.
+Iris sabe que los mapas representan lugares.
+Iris quiere aprender mas cosas.
+
+Una biblioteca tranquila puede ser un buen lugar para estudiar.
+Una mesa puede tener libros, mapas y un cuaderno.
+Una lampara ilumina las paginas.
+Fuera de la biblioteca puede llover.
+Dentro de la biblioteca todo esta tranquilo.
+Iris puede pasar muchas horas leyendo.
+Cuando Iris encuentra una palabra desconocida busca su significado.
+Cuando Iris encuentra una pregunta interesante busca informacion en otro libro.
+
+La curiosidad consiste en querer conocer algo.
+Una pregunta puede llevar a otra pregunta.
+Aprender no significa saberlo todo.
+Un investigador puede equivocarse.
+Un investigador puede cambiar de opinion cuando encuentra nueva evidencia.
+Los libros pueden contener errores.
+Los mapas pueden contener errores.
+Los datos deben ser comprobados cuando sea posible.
+La duda puede ser util cuando no tenemos suficiente informacion.
+
+El Sol sale por el este y se pone por el oeste desde el punto de vista de un observador terrestre.
+La Tierra tarda aproximadamente un ano en completar una orbita alrededor del Sol.
+La Tierra tarda aproximadamente un dia en completar una rotacion.
+La Luna tarda aproximadamente un mes en completar su ciclo de fases.
+Las estrellas parecen moverse por el cielo durante la noche debido a la rotacion de la Tierra.
+Los planetas parecen desplazarse entre las estrellas.
+Los antiguos observadores del cielo registraron estos movimientos.
+
+Iris abre un libro.
+Iris lee una pagina.
+Iris cierra el libro.
+Iris abre otro libro.
+Iris encuentra un mapa.
+Iris estudia el mapa.
+Iris encuentra una ciudad.
+Iris busca la ciudad en otro mapa.
+Iris encuentra una diferencia.
+Iris vuelve al primer mapa.
+Iris toma notas.
+Iris sigue estudiando.
+
+A veces una historia necesita un poco de humor.
+Un bardo puede cantar una cancion absurda.
+Un dragon puede tener mal humor.
+Un clerigo puede estar cansado.
+Un mago puede perder sus gafas.
+Un guerrero puede olvidar donde dejo su espada.
+Una biblioteca puede tener una seccion prohibida.
+Una mazmorra puede tener una puerta que no lleva a ninguna parte.
+Un mapa puede tener una X que marca el lugar equivocado.
+
+Iris vive en una biblioteca.
+Iris lee libros de astronomia.
+Iris estudia los anillos de Saturno.
+Iris mira mapas.
+Iris aprende historia.
+Iris estudia lenguas antiguas.
+Iris escucha historias de dragones.
+Iris quiere aprender cosas nuevas.
