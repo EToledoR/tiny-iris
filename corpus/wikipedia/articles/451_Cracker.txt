@@ -1,0 +1,92 @@
+El término cracker o cráquer (literalmente traducido como rompedor, del inglés to crack, que significa romper o quebrar) se utiliza para referirse a las personas que rompen o vulneran algún sistema de seguridad informatica. Usualmente de forma ilícita, los crackers pueden estar motivados por una multitud de razones, incluyendo fines de lucro, protesta, o por el desafío.
+Mayormente, se entiende que los crackers se dedican a la edición desautorizada de software propietario. Sin embargo, debe entenderse que si bien los ejecutables binarios son uno de los principales objetivos de estas personas, una aplicación web o cualquier otro sistema informático representan otros tipos de ataques que de igual forma pueden ser considerados actos de cracking.
+
+Historia 
+A partir de 1980 había aparecido la cultura hacker, programadores aficionados o personas destacadas o con un importante conocimiento de informática. Estos programadores no solían estar del lado de la ilegalidad, y aunque algunos conocían técnicas para violar sistemas de seguridad, se mantenían dentro del ámbito legal. Pero con el tiempo surgieron personas que utilizando su conocimiento en informática, aprovechaban debilidades o errores de algunos sistemas informáticos y los crackeaban, es decir, burlaban el sistema de seguridad muchas veces entrando en la ilegalidad y algunos considerando estas prácticas como negativas. A estas personas se las continuó llamando hackers, por lo que alrededor de 1985 los hackers "originales" empezaron a llamarlos crackers en contraposición al término hacker, en defensa de estos últimos por el uso incorrecto del término.
+
+Por ello los crackers son criticados por la mayoría de hackers, por el desprestigio que les supone ante la opinión pública y las empresas ya que muchas veces, inclusive en los medios de comunicación, no hacen diferencia entre el término hacker y cracker creando confusión sobre la definición de los mismos y aparentando un significado diferente.
+
+Distintos usos del término 
+Se suele referir a una persona como cracker cuando:
+ Mediante ingeniería inversa realiza seriales, keygens y cracks, los cuales sirven para modificar el comportamiento, ampliar la funcionalidad del software o hardware original al que se aplican, etc. Se los suele utilizar para burlar restricciones como, por ejemplo, que un programa deje de funcionar en un determinado tiempo, o que solo funcione si es instalado desde un CD original.
+ Viola la seguridad de un sistema informático y toma el control de este, obtiene información, borra datos, etc.
+ Control total en el mundo informático.
+
+Legalidad 
+Muchos programas informáticos, por lo general los privativos, no permiten la modificación o estudio del código que compone el programa. Esto hace que el hecho de realizar desensamblado o ingeniería inversa al programa sea ilegal. En ocasiones el cracking es la única manera de realizar cambios sobre el software para el que su fabricante no presta soporte, especialmente cuando es menester corregir defectos, o exportar datos a nuevas aplicaciones. En estos casos, no se considera el cracking como actividad ilegal en la mayoría de legislaciones. Incluso a veces la empresa que desarrolló el software ya no existe o ya no posee los derechos sobre el producto.
+A su vez, cuando una persona penetra en un sistema ajeno sin su autorización, se comete una violación de la propiedad privada. También las tácticas utilizadas por los crackers para violar los sistemas de seguridad suelen ser utilizadas por empresas de seguridad informática u otras personas para testear la seguridad de un programa o computadora, en lo que se denominan pruebas de penetración o pentesting. En dicho caso, como se tiene el permiso para realizar el ataque (o bien es el mismo dueño de la computadora el que lo realiza), ya no es una práctica ilegal. Entraría en disputa también el uso del término cracker para dichos actos.
+
+Tipos de crackers
+
+Troyanos vía mensajería instantánea 
+Este tipo de crack se basa en la instalación de un programa con un troyano o caballo de Troya como algunos lo llaman en referencia a la mitología griega, el cual sirve como una herramienta remota para atacar. Tiene la habilidad de ocultarse. Una vez ejecutado controla a la computadora infectada. Puede leer, mover, borrar y ejecutar cualquier archivo. Una particularidad del troyano es que a la hora de ser cargado en un programa de mensajería instantánea de forma remota, el hacker sabrá el momento en que el usuario se conecta. Es aquí donde el intruso podrá robar información. La transmisión de datos de la computadora infectada a la del intruso se lleva a cabo gracias a que el programa de mensajería instantánea abre un túnel de comunicación, el cual será aprovechado por el atacante. Cabe señalar que los troyanos tienen una apariencia inofensiva y no propagan la infección a otros sistemas por sí mismos y necesitan recibir instrucciones directas de una persona para realizar su propósito.
+
+Ejemplos: Backdoor Trojan, AIMVision y Backdoor. Sparta.C., Poison Ivy, NetBus, Back Orifice, Bifrost, Sub7.
+
+Analizador 
+Analizar es la práctica de poder leer tramas de información que viajan sobre la red. Toda la información que viaja sobre el Internet, y que llega a una terminal, como lo es una computadora, es capturada y analizada por dicho dispositivo. Sin embargo, un sniffer o analizador recaba dicha información a la cual se le llama trama, y mediante una técnica llamada inyección de paquetes puede llegar a modificar, corromper y reenviar dicha información. Con esto se logra engañar a los servidores que proveen servicios en Internet.
+
+Fuerza bruta 
+Ataque de fuerza bruta es la práctica de ingresar al sistema a través de "probar" todas las combinaciones posibles de contraseña en forma sistemática y secuencial. Existen distintas variantes para este tipo de ataques, pero todos basados en el mismo principio: agotar las combinaciones posibles hasta que se encuentre un acceso válido al sistema.
+
+Denegación de servicio (Denial of Service, DoS) 
+Un ataque parcial de denegación de servicio hace que la CPU consuma muchos recursos y la computadora se vuelva inestable. Otra forma de ataque es lo que se conoce como inundación, la cual consiste en saturar al usuario con mensajes vía mensajería instantánea al punto que la computadora deje de responder y se bloquee. De ahí que los ataques de denegación de servicio en programas de mensajería instantánea hagan que el programa deje de funcionar.
+
+Phishing 
+El término phishing se empezó a usar en 1996. Es una variante de fishing, pero con ph del inglés phone que significa teléfono. Se refiere al engaño por medio de correos electrónicos a los usuarios que tienen cuentas bancarias. Según estadísticas del Centro de Quejas de Crímenes por Internet en EE. UU., la pérdida debido a estafas por correo fue de 1256 millones de dólares en 2004 y según el Grupo de Trabajo Anti-Phishing ha habido un incremento del 28 % en los últimos cuatro meses en las estafas por correo electrónico.
+
+Sitios web falsos 
+La técnica de crear sitios web falsos se ha vuelto muy popular hoy en día. Se trata de subir a la red, mediante hiperenlaces falsos, interfaces idénticas a páginas web reales. De esta forma el usuario piensa que la página es real y empieza a llenar su información, normalmente bancaria. En la mayoría de los casos piden al usuario poner su clave o que entre al sistema con su información de cuenta. Después manda una alerta de que el servidor no responde para no levantar dudas.
+
+Suplantación 
+Uno de los métodos más usados es el pinchazo el cual pretende recabar información como cuentas de usuario, claves, etc. Esto se logra por la incursión de los troyanos en la computadora, únicamente para recabar información de usuario. Una vez teniendo esa información se puede lograr la suplantación y se sigue con el proceso hasta tener información de gente cercana al usuario infectado.
+
+Ingeniería inversa 
+Ingeniería inversa se refiere al proceso por el que se obtiene o duplica el código fuente de un programa. Asimismo cuando un dispositivo electrónico o de software es procesado para determinar sus componentes, ya sea para hacer modificaciones o copias, estamos hablando de ingeniería inversa. Es decir, este es el proceso mediante el cual se obtiene el código de programación de un software que luego será modificado utilizando esta misma codificación. Por ejemplo, esto es lo que se utiliza al realizar un ejecutable para evadir el código de registro de un producto, de modo que al alterar el programa con su propio código esta modificación resulta compatible y no altera sus funcionalidades. Este proceso se conoce comúnmente como crack o cracking y se diferencia del hack o hacking, pues su concepción es distinta.
+
+PC Magazine define y ejemplifica a la ingeniería inversa de la siguiente forma: "Aislar los componentes de un sistema completo. Cuando un chip es sometido a la ingeniería inversa, todos los circuitos individuales son identificados. El código fuente puede ser sometido a un proceso de ingeniería inversa, para obtener su diseño o especificaciones. El lenguaje de máquina puede ser regresado a lenguaje ensamblador" (PC Magazine 2009).
+
+Sin embargo, el término ingeniería inversa actualmente está ligado al fraude de software, así como a la duplicación de programas, modificación y piratería informática. Tal es el caso de OdinMS, un software realizado bajo ingeniería inversa que funciona como un emulador de un juego en línea titulado Maple Story. El autor de OdinMS al emular un software licenciado por la compañía Nexon fue demandado y el 21 de julio de 2008, y tanto el blog como el contenido en línea subido fue confiscado. Actualmente se sigue el proceso de demanda, por parte de Nexon. Este es un ejemplo de las consecuencias de usar ingeniería inversa como medio para hackear un sistema computacional.
+
+Ingeniería social 
+El término ingeniería social es un término usado para atacar a las personas mediante la psicología. Se usa en sistemas con una seguridad más compleja, como servicios derivados de protocolos seguros que hacen difícil el poder usar las técnicas habituales de un hack. Esta técnica consiste básicamente en usar la psicología para obtener información de la víctima; misma información que puede ser usada para complementar un ataque de hackeo. Asimismo, la ingeniería social puede ayudar al atacante a pasar un programa malicioso a la víctima, que permite complementar el ataque.
+
+En este rubro tenemos a Kevin Mitnick, un afamado hacker, que ayudado de la ingeniería social, consiguió el acceso no autorizado a los sistemas computacionales de Sun Microsystems. Después de cumplir una condena de 48 meses en prisión, es actualmente un consultor de seguridad informática además de fundar su propia compañía, Mitnick Security.
+
+Modo de operación de secuestro colateral 
+Actualmente estamos viviendo una era en la cual la información se transmite a través de distintos medios de comunicación como TV, radio, Internet, etc. Todos estos avances se han dado gracias al esfuerzo de muchos ingenieros y científicos en los distintos campos. El problema es que no siempre este conocimiento se ha utilizado como herramienta en favor de la comunicaciones, sino que se ha utilizado como medio para perjudicar a otras personas. Por eso se ha puesto gran énfasis en el aspecto de la seguridad con respecto a la información que cada individuo maneja a través de Internet; el problema es que incluso así existen distintos métodos para poder seguir robando dicha información. Un ejemplo muy sonado en estos últimos años es el llamado sidejacking, ya que no se necesitan grandes habilidades para poder llevarlo a cabo. Sin embargo, el resultado obtenido es bastante sorprendente. A continuación se detallarán los pasos que se requieren para poder lograr el robo de cuentas de usuario, con lo cual se podrá entender el algoritmo de ataque.
+
+En primera instancia se necesita saber lo que es entrar en modo promiscuo, lo cual es simplemente el hecho de poder hacer que la tarjeta de red inalámbrica conectada al módem inalámbrico pueda ver todo el tráfico que se esté manejando en esa red. Así se comienzan a almacenar los paquetes con respecto a todos los usuarios que estén conectados al mismo módem, todo esto sin la necesidad de siquiera haber necesitado una contraseña o nombre de usuario
+
+Después se procede a utilizar un editor de cookies, el cual viene integrado con muchos exploradores de Internet como Mozilla Firefox. Aquí se puede ver lo que se ha capturado de tráfico de la red y así lograr ubicar lo que son las cuentas de usuario de páginas como Facebook, Hi5, Hotmail, Gmail, etc. Esto se lleva a cabo sin la necesidad de tener que descifrar algún password o saber un nombre de usuario. Esto se debe al hecho de que cuando un usuario trata de entrar a su correo electrónico, realiza una negociación, de tal manera que el servidor recibe un nombre de usuario y una contraseña.
+
+De esta manera el servidor compara con una base de datos que tiene almacenada y devuelve la aprobación o negación sobre la petición que se le realizó. Una vez que ya se está comprobando la cuenta, se siguen enviando datos al servidor para que se encuentre actualizando los parámetros que se estén modificando en ese momento. Mientras el usuario siga conectado a la cuenta y esté enviando datos, la tarjeta de red en modo promiscuo continúa guardando la información que posteriormente se clonará para poder tener acceso a la misma cuenta. Una vez que se tienen los suficientes cookies almacenados, se entra a esa cuenta, haciendo creer al servidor que es el mismo usuario quien sigue modificando los datos. Pero en realidad lo que está ocurriendo es que el atacante está dentro de la cuenta sin la necesidad de tener la contraseña del usuario. Así el atacante tiene la posibilidad de realizar lo que quiera, debido a que ante el servidor él realmente es el usuario.
+
+De esta manera se puede ver que realmente cuando nos conectamos a Internet, no sabemos si realmente somos los únicos que nos encontramos frente a nuestro monitor, ya que personas con gran conocimiento en el área, pueden utilizar este medio para realizar lo que sea. Por eso la nueva tendencia de las redes computacionales es ser lo más seguras posibles, debido a que la identidad de la gente se encuentra ahora en el vasto mundo de Internet.
+
+Ejemplos de secuestro 
+ Secuestro de IP: secuestro de una conexión TCP/IP.
+ Secuestro de web: modificaciones sobre una página web.
+ Secuestro de dominio: secuestro de un dominio.
+ Secuestro de sesión: secuestro de sesión de usuario.
+ Secuestro de navegador: modificaciones sobre la configuración del navegador web.
+ Secuestro de módem: secuestro del módem.
+
+Véase también 
+ Trol (Internet)
+ Pirata Informático
+ Seguridad informática
+ Hacker
+ Troyano
+ Derechos de autor
+
+Referencias 
+
+panda
+
+Enlaces externos 
+ CrackZ's Reverse Engineering Page (1997-2005) (en inglés)
+ Qué son los crackers. Diferencia entre crackers y hackers
+
+Seguridad informática
+Hacking

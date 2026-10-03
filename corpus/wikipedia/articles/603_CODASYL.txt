@@ -1,0 +1,79 @@
+CODASYL (también escrito Codasyl) es el acrónimo para "Conference on Data Systems Languages", un consorcio de industrias informáticas formado en 1959 con el objeto de regular el desarrollo de un lenguaje de programación estándar que pudiera ser utilizado en multitud de ordenadores. De todos estos esfuerzos resultó el lenguaje COBOL.
+
+Los miembros de CODASYL pertenecían a industrias e instituciones gubernamentales relacionadas con el proceso de datos. Su principal meta era promover un análisis, diseño e implementación de los sistemas de datos más efectivos. La organización trabajó en varios lenguajes a lo largo del tiempo pero nunca llegaron a establecer estándar alguno, proceso que dejaron en manos de ANSI.
+
+En 1965 CODASYL formó la List Processing Task Force (en español, Grupo de Trabajo para el Procesado de Listas). Este grupo se dedicó a desarrollar extensiones del lenguaje COBOL para el procesamiento de colecciones de registros; el nombre surgió a causa del sistema IDS (Integrated Data System) desarrollado por Charles Bachman (sistema que supuso el mayor aporte técnico al proyecto), y que manejaba las distintas relaciones mediante cadenas de punteros. En 1967 el grupo fue renombrado como Grupo de Trabajo sobre Bases de Datos, y su primer informe fechado en enero de 1968 se tituló COBOL extensions to handle data bases (en español, Extensiones COBOL para el manejo de bases de datos). En octubre de 1969 el DBTG publicó las primeras especificaciones para el modelo de base de datos en red, el cual acabó por ser conocido como Modelo Codasyl. Propiamente estas especificaciones definían varios lenguajes por separado: un lenguaje de descripción de datos (DDL, siglas en inglés) para definir el esquema de la base de datos, otro DDL para crear uno o más subesquemas para definir vistas de la base de datos en aplicaciones; y un lenguaje de manipulación de datos (DML) que definía palabras clave para incluir en el código COBOL las llamadas y actualizaciones de la base de datos. Aunque los trabajos siempre se centraron en COBOL, la idea de un lenguaje independiente comenzó a emerger, impulsada por las pretensiones de IBM de utilizar el PL/I como reemplazo de COBOL.
+
+En 1971, en gran parte como respuesta a la necesidad de la independencia del nuevo lenguaje de programación, el trabajo fue reorganizado: el desarrollo del DDL fue continuado por el Data Description Language Committee, mientras que el desarrollo del COBOL DML fue asumido por el COBOL Language Committee. En retrospectiva, esta división tuvo desafortunadas consecuencias. Los dos grupos nunca fueron capaces de sincronizar sus especificaciones, obligando a los distribuidores a subsanar los problemas generados por las diferencias entre ellas. Finalmente se hizo inevitable la aparición de una falta de interoperabilidad entre implementaciones.
+
+Algunas empresas implementaron productos de bases de datos rudamente conformes a las especificaciones del DBTG, siendo de todas ellas las más conocidas: Honeywell Integrated Data Store (IDS/2), Cullinet Integrated Database Management System (IDMS), Univac DMS-1100 o Digital Equipment Corporation DBMS32.
+
+El modelo CODASYL
+
+El modelo Codasyl definió una serie de elementos básicos que definían su estructura de
+datos. Son los siguientes:
+
+- Elemento de datos.- Unidad de datos más pequeña que se puede referenciar. Puede ser de distintos tipos, y puede definirse como dependiente de valores de otros elementos (datos derivados).
+
+- Agregado de datos.- Se asemeja a los campos de un fichero o a los atributos de otros modelos.
+
+- Registro.- Colección nominada de elementos de datos. Unidad básica de acceso y manipulación. Se asemeja a los registros en ficheros y a las entidades en el modelo E/R.
+
+- Conjunto (SET).- Colección nominada de dos o más tipos de registros que establece una vinculación entre ellos. Origen de muchas restricciones. Las interrelaciones 1:N se representan aquí mediante SET.
+
+- Área.- Subdivisión nominada del espacio direccionable de la base de datos que contiene ocurrencias de registros.
+
+- Clave de base de datos 􀃆 identificador interno único para cada ocurrencia de registro.
+
+Proporciona su dirección en la base de datos. Es un obstáculo para conseguir la independencia lógica / física. Suponía problemas el reutilizar una clave cuando se reorganizaba la base de datos.
+
+CODASYL: CONJUNTOS (SET)
+
+El conjunto es uno de los más importantes elementos del modelo Codasyl, pues constituye el elemento básico para la representación de interrelaciones. Mediante SET se establecen relaciones jerárquicas (1:N) a dos niveles. El nodo raíz es el propietario y los nodos descendientes (pueden ser de varios tipos) son los miembros.
+
+CARACTERÍSTICAS BÁSICAS DEL MODELO CODASYL
+
+Se pueden resumir las características básicas del modelo en :
+
+- Un SET es una colección nominada de dos o más tipos de registros que representan un tipo de interrelación 1:N (en consecuencia también 1:1).
+
+- Cada SET tendrá un tipo de registro propietario y uno o más tipos de registros miembro.
+
+- El número de SET que se pueden declarar en el sistema es ilimitado.
+
+- Cualquier registro puede ser propietario de uno o varios SET.
+
+- Cualquier registro puede ser miembro de uno o varios SET.
+
+- Podrán existir SET singulares en los que el propietario es el sistema (una entidad se interrelaciona consigo mismo).
+
+- A pesar de que una entidad sea miembro de un SET, existe la posibilidad de que ciertas ocurrencias de esa entidad no estén ligadas al SET, con lo que no tendrían propietario y quedarían no ligadas respecto de ese SET.
+
+RESTRICCIONES INHERENTES DEL MODELO CODASYL.
+
+Cuando hablábamos del modelo en red general, decíamos que era un modelo muy flexible a coste de no tener restricciones inherentes. Esta ausencia de restricciones hace que sea muy difícil de implementar, y a la larga suele reportar escaso rendimiento, por lo que como también decíamos no pasa de ser un modelo teórico.
+
+El modelo Codasyl está basado en el modelo en red general, pero a diferencia de este, es un modelo utilizado. Esto es debido a que Codasyl ha incluido restricciones inherentes que hacen que sea posible su implementación y que se obtenga un alto rendimiento del sistema. 
+
+Las restricciones son las siguientes:
+
+- Solo se admiten tipos de interrelaciones jerárquicas de dos niveles (propietario y miembro). Si se admite la combinación de varios SET para generar jerarquías multinivel.
+
+- En el nivel propietario solo se permite un tipo de registro.
+
+- En el mismo SET no se permite que a un registro ser a la vez propietario y miembro, no está admitida la reflexividad. Aunque esta restricción se eliminó con el tiempo, los productos basados en Codasyl la siguen utilizando.
+
+- Una misma ocurrencia de miembro no puede pertenecer en un mismo tipo de SET a más de un propietario. Esto hace que se simplifique la implementación física de los SET, ya que sus ocurrencias se pueden organizar como una cadena.
+
+Referencias 
+The Codasyl Approach to Data Base Management. T. William Olle. Wiley, 1978. ISBN 0-471-99579-7.
+The Codasyl Model. J.S. Knowles y D.M.R. Bell, en Databases - Role and Structure, ed. P.M. Stocker, P.M.D. Gray y M.P. Atkinson, CUP, 1984. ISBN 0-521-25430-2
+
+Enlaces externos 
+Charles Babbage Institute
+
+Gobierno de Estados Unidos
+Acrónimos de informática
+Informática de 1959
+Organizaciones informáticas
+Estados Unidos en 1959

@@ -1,0 +1,56 @@
+Véase Pinidae para una introducción a estos grupos
+
+Las araucariáceas (nombre científico Araucariaceae) son una familia de coníferas del Orden Araucariales, comprende 3 géneros. Son árboles de larga vida altamente resinosos, usualmente muy simétricos y cónicos. Los conos son solitarios, más o menos erectos, y pesados, las escamas ovulíferas cada una con un óvulo, semillas grandes. La familia está prácticamente restringida al Hemisferio Sur.
+
+ Descripción Introducción teórica en Terminología descriptiva de las plantas
+
+Árboles de larga vida, hasta 65 m de alto y 6 m de diámetro en la base, altamente resinosos, usualmente muy simétricos y cónicos en su forma de crecimiento. Hojas simples, enteras, variadas en forma (como punzones, escamas, lineales, oblongas o elípticas), a veces en el mismo individuo, persistentes, con la punta aguzada en algunas especies de Araucaria, de disposición espiralada u opuesta. Dioicos o monoicos. Estróbilos microsporangiados cilíndricos, con numerosos microsporofilos dispuestos en espiral, cada uno con 4-20 microsporangios, polen sin "sacca", la exina con hoyuelos. Conos solitarios, más o menos erectos, pesados, madurando en 2-3 años y finalmente desintegrándose en el árbol, escamas ovulíferas cada una con 1 óvulo, numerosas, dispuestas en espiral, aplanadas, lineales a peltadas, la bráctea más o menos larga que la escama y fusionada a ella, semillas grandes, con o sin alas marginales. 2 cotiledones, a veces altamente divididos y pareciendo 4.
+
+Ecología 
+
+Araucariaceae está casi restringida al Hemisferio Sur, desde el sudeste de Asia a Australia, Nueva Zelanda, y el sur de Sudamérica. 
+
+Los miembros de esta familia usualmente crecen en bosques lluviosos tropicales y subtropicales como también en áreas más templadas. 
+
+La familia es más diversa en Nueva Caledonia, donde hay 5 especies de Agathis y 13 especies de Araucaria endémicas. Las especies de esta área de cada género forman un grupo monofilético de acuerdo con análisis de rbcL. El pequeño monto de diversificación genética de las especies dentro de cada género sugiere una radiación relativamente reciente en el suelo inusual (ultramáfico) de Nueva Caledonia. 
+
+En algunas especies de Araucaria, las hojas que terminan en puntas aguzadas, la habilidad de regenerar ramas, y la protección del ápice de crecimiento por las ramas que lo rodean sugieren una adaptación contra herbívoros hoy extintos.
+
+Uno de los árboles más grandes y de larga vida de esta familia es Agathis australis, comúnmente llamado Kauri. Un individuo particular en el norte de Nueva Zelanda tenía 51,5 m de altura y 13,8 m de circunferencia y unos 2000 años de vida a principios del 2001. El nombre maorí para este individuo es Tane Mahuta, que se traduce como "dios del bosque".
+
+Filogenia 
+Introducción teórica en Filogenia
+
+Las secuencias de 28S rRNA fuertemente sugieren una relación de hermanos entre Podocarpaceae y Araucariaceae, compartiendo las siguientes sinapomorfías: un óvulo por escama ovulífera, la escama ovulífera cercanamente asociada a la semilla, y posiblemente la bráctea fusionada a la escama. Agathis y Araucaria difieren una de otra fuertemente en sus estructuras foliares y reproductivas. Las hojas de Agathis son opuestas y amplias, mientras que las de Araucaria son de disposición espiralada y lineales a amplias. Agathis es monoico con óvulos libres de la escama del cono y tiene semillas aladas. Araucaria es dioico, con óvulos fusionados a la escama del cono y usualmente tiene semillas sin alas. Las secuencias de ADN de rbcL también sostienen una monofilia de los dos géneros. Los datos de rbcL también están de acuerdo con la división del género en 4 secciones basados en caracgteres no moleculares como el número de cotiledones, posición de los conos microsporangiados, y caracteres celulares de la epidermis de las hojas. Wollemia nobilis fue encontrado en 1994 en el Parque nacional Wollemi en Sídney, Australia, por el oficial del "National Park and Wildlife Service" David Noble. Era conocido para la ciencia antes de 1994 solo como un fósil que se extendía hasta hace 150 millones de años, y es uno de los árboles del mundo más raros, con solo unos 43 adultos en dos poblaciones que distan unos 1,5 km entre ellas. Los árboles, algunos de los cuales tienen entre 500 y 1000 años, tienen una corteza inusual, descripta como "chocolate burbujeante".
+
+ Taxonomía Introducción teórica en Taxonomía
+
+3 géneros, 32 especies. Los géneros más representados son Araucaria (18 especies) y Agathis (13 especies).
+
+La clasificación, según Christenhusz et al. 2011, que también provee una secuencia lineal de las gimnospermas hasta género:
+
+ Familia 8. Araucariaceae Henkel & W.Hochst., Syn. Nadelhölz.: xvii, 1 (1865), nom. cons. Tipo: Araucaria Juss. Sinónimos: Dammaraceae Link, Abh. Konigl. Akad. Wiss. Berlín 1827: 157 (1830), nom. illeg. Tipo: Dammara Link. Agathidaceae (Vierh.) Baum.-Bodenh. ex A.V.Bobrov & Melikian, Komarovia 4: 61 (2006). Tipo: Agathis Salisb.
+3 géneros, 41 especies, Sudeste de Asia y Filipinas a Australasia, Pacífico, sur de Sudamérica.
+ 8.1. Araucaria Juss., Gen. 413 (1789). Tipo: A. imbricata Pav., nom. illeg. (≡ Pinus araucana Molina) Dombeya Lam., Encycl. Meth., Bot. 2: 301 (1786), nom. illeg., non L’Hér. (1785), nom. rej. Tipo: D. chilensis Lam., nom. illeg. (≡ Pinus araucana Molina) Sinónimos: Columbea Salisb., Trans. Linn. Soc. London 8: 317 (1807), nom. illeg. Tipo: C. quadrifaria Salisb., nom. illeg. (≡ Pinus araucana Molina) Eutassa Salisb., Trans. Linn. Soc. London 8: 316 (1807). Tipo: E. heterophylla Salisb. (≡ Araucaria heterophylla). Eutacta Link, Linnaea 15: 543 (1842). Tipo: E. cunninghamii (Aiton ex A. Cunn.) Link (tipo designado aquí por Mill & Farjon) (≡ Araucaria cunninghamii Aiton ex A.Cunn.). Quadrifaria Manetti ex Gordon, Pinet. Suppl. 14 (1862). Tipo: Q. imbricata (Pav.) Manetti ex Gordon (≡ Araucaria araucana). Marywildea A.V.Bobrov & Melikian, Komarovia 4: 57 (2006). Tipo: M. bidwillii (Hook.) A.V.Bobrov & Melikian (≡ Araucaria bidwillii Hook.). Titanodendron A.V.Bobrov & Melikian, Komarovia 4: 60 (2006). Tipo: T. hunsteinii (K.Schum.) A.V.Bobrov & Melikian (≡ Araucaria hunsteinii K.Schum.).
+
+ 8.2. Wollemia W.G.Jones, K.D.Hill & J.M.Allen, Telopea 6: 173 (1995). Tipo: W. nobilis W.G.Jones, K.D.Hill & J.M.Allen
+
+ 8.3. Agathis Salisb., Trans. Linn. Soc. London 8: 311 (1807), nom. cons. Tipo: A. loranthifolia Salisb., nom. illeg. (≡ Pinus dammara (Lamb.) L.C.Rich.) Sinónimos: Dammara Link, Enum. Pl. Horti Berol. 2: 411 (1822), nom. illeg., non Gaertner (1790). Salisburyodendron A.V.Bobrov & Melikian, Komarovia 4: 62 (2006). Tipo: S. australis (Lamb.) A.V.Bobrov & Melikian (≡ Agathis australis Salisb.).
+
+Evolución 
+
+Araucariaceae, como Podocarpaceae, es una familia distintiva casi exclusiva del Hemisferio Sur. Su registro fósil, en particular el de Araucaria, se extiende hasta el Jurásico.
+
+Importancia económica 
+
+Los dos géneros más representados producen madera. Los individuos más grandes, como los de Agathis australis de Nueva Zelanda, que llegan a 65 m de altura y 6 m de diámetro, contienen grandes cantidades de madera de alta calidad. 
+
+Araucaria heterophylla y Araucaria araucana de Chile son ornamentales muy preciados, tanto como plantas de prados como plantas de interior.
+
+Enlaces externos 
+
+ Stevens, P. F. 2001 en adelante. Angiosperm Phylogeny Website Versión 7, mayo de 2006 .
+
+Referencias 
+
+ Judd, Campbell, Kellogg, Stevens, Donoghue. 2007. Plant Systematics, a phylogenetic approach, third edition. Sinauer associates, inc. USA.

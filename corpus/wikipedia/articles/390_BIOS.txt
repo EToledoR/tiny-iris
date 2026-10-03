@@ -1,0 +1,94 @@
+El sistema básico de entrada-salida o BIOS (del inglés Basic Input/Output System) es un estándar de facto que define la interfaz de firmware para computadoras IBM PC compatibles. También es conocido como BIOS del sistema, ROM BIOS y BIOS de PC. El nombre se originó en 1975, en el BIOS usado por el sistema operativo CP/M.
+
+El firmware del BIOS es instalado dentro de la computadora personal (PC), y es el primer programa que se ejecuta cuando se enciende la computadora.
+
+El propósito fundamental del BIOS es iniciar, y probar el hardware del sistema y cargar un gestor de arranque o un sistema operativo desde un dispositivo de almacenamiento de datos. Además, el BIOS provee una capa de abstracción para el hardware, por ejemplo, que consiste en una vía para que los programas de aplicaciones y los sistemas operativos interactúen con el teclado, el monitor y otros dispositivos de entrada/salida. Las variaciones que ocurren en el hardware del sistema quedan ocultas por el BIOS, ya que los programas usan servicios de BIOS en lugar de acceder directamente al hardware. Los sistemas operativos modernos ignoran la capa de abstracción provista por el BIOS y acceden al hardware directamente.
+
+El BIOS del PC/XT de IBM original no tenía interfaz interactiva con el usuario. Los mensajes de error eran mostrados en la pantalla, o codificados por medio de una serie de sonidos. Las opciones en la PC y el XT se establecían por medio de interruptores y jumpers en la placa base y en las placas de los periféricos. Las modernas computadoras compatibles Wintel proveen una rutina de configuración, accesible al iniciar el sistema mediante una secuencia de teclas específica. El usuario puede configurar las opciones del sistema usando el teclado y el monitor.
+
+El software del BIOS es almacenado en un circuito integrado de memoria ROM no volátil en la placa base. Está específicamente diseñado para trabajar con cada modelo de computadora en particular, interconectando los diversos dispositivos que componen el conjunto de chips complementarios del sistema. En computadoras modernas, el BIOS está almacenado en una memoria flash, por lo que su contenido puede ser reescrito sin retirar el circuito integrado de la placa base. Esto permite que el BIOS sea fácil de actualizar para agregar nuevas características o corregir errores, pero puede hacer que la computadora sea vulnerable a los rootkit de BIOS.
+
+El MS-DOS (PC DOS) fue el sistema operativo de PC dominante desde principios de la década de 1980 hasta mediados de la década de 1990. Dependía de los servicios del BIOS para las funciones de disco, teclado y visualización de textos. Windows NT, Linux y otros sistemas operativos de modo protegido en general no lo usan después de cargarse en memoria.
+
+La tecnología de BIOS está en un proceso de transición hacia la interfaz de firmware extensible unificada (UEFI) desde el año 2010.
+
+Historia 
+
+El acrónimo BIOS fue inventado por Gary Kildall y apareció por primera vez en 1975 en el sistema operativo CP/M describiendo la parte específica de la máquina del CP/M cargado durante el arranque que interactúa directamente con el hardware (por lo general, una máquina de CP/M solo tiene un simple arranque en su ROM).
+
+Las versiones de MS-DOS o PC DOS contienen un archivo denominado bajo alguno de los siguientes nombres: IO.SYS, IBMBIO.COM, IBMBIO.SYS, o DRBIOS.SYS. Este archivo se conoce como el BIOS DOS o Sistema I/O DOS, y contiene la parte de hardware específico de bajo nivel del sistema operativo. Junto con el hardware específico, pero independiente del BIOS del sistema subyacente al sistema operativo que reside en la memoria ROM, este representa el análogo al CP/M BIOS.
+
+En otros tipos de computadoras, se emplean en su lugar los términos monitor de arranque, gestor de arranque, y ROM de arranque. Algunos equipos basados en PowerPC y Sun utilizan Open Firmware para este propósito.
+
+Con la introducción de las máquinas PS/2, IBM dividió el sistema BIOS en porciones en modo real y modo protegido. La porción de modo real estaba destinada a proporcionar retrocompatibilidad con los sistemas operativos como DOS, y por lo tanto fue nombrado CBIOS (para compatibilidad del BIOS), mientras que el ABIOS (por Advanced BIOS) proporcionaba nuevas interfaces adaptadas específicamente para sistemas operativos multitarea como OS/2.
+
+Hay algunas alternativas a la funcionalidad de la legacy BIOS en el mundo x86: Extensible Firmware Interface, Open Firmware (usado en la OLPC XO-1), y Coreboot.
+
+Funcionamiento 
+
+Cuando se reinicia el procesador x86, se carga el contador de programa con una dirección fija en la parte superior del espacio de direccionamiento en modo real de 1 megabyte. La dirección de la memoria del BIOS está situado de tal manera que se ejecutará cuando el equipo se pone en marcha primero. Entonces, una instrucción de salto dirige el procesador para iniciar la ejecución de código en el BIOS. Si el sistema acaba de ser encendido o el botón de reinicio fue presionado (arranque en frío), se ejecuta completamente la autoprueba de encendido (POST). Si se inició ("arranque en caliente"), se detecta un valor de indicador especial en la memoria no volátil (NVRAM) y la BIOS no ejecuta el POST. Esto ahorra un tiempo que es utilizado para detectar y probar toda la memoria. La NVRAM está en el reloj en tiempo real (RTC).
+
+El indicador de pruebas de autodiagnóstico identifica e inicializa los dispositivos del sistema, como la CPU, la RAM, interruptores y controladores DMA y otras partes del chipset, tarjeta de vídeo, teclado, unidad de disco duro, unidad de disco óptico y otro hardware básico. La BIOS localiza el software gestor de arranque localizado en un dispositivo almacenamiento designado como dispositivo de arranque, tal como un disco duro, un disquete, CD o DVD, carga y ejecuta ese software, dándole el control del PC. Este proceso se conoce como arranque o secuencia de arranque.
+
+Actualización Firmware 
+
+Para una referencia de placa base el fabricante puede publicar varias revisiones del BIOS, en las cuales se solucionan problemas detectados en los primeros lotes, se codifican mejores controladores o se da soporte a nuevos procesadores.
+
+La actualización de este firmware puede ser realizado con algún programa para quemar una nueva versión directamente desde el sistema operativo, los programas son propietarios de cada compañía desarrolladora del firmware y por lo general pueden conseguirse en internet junto al BIOS propiamente dicho.
+
+La actualización del BIOS es percibida como no exenta de riesgos, dado que un fallo en el procedimiento conduce a que la placa base no arranque. Debido a ello algunos fabricantes usan sistemas como el bloqueo de arranque, que es una porción de BIOS que está protegida y que no es actualizable a diferencia del resto del firmware.
+
+Overclocking 
+
+Algunos chips de BIOS permiten el overclocking, una acción en el que la CPU se ajusta a una velocidad de reloj más alta que su ajuste de fábrica. De manera previsora, es altamente recomendable realizar la implementación de un sistema de refrigeración y control de temperatura correcto y confiable que asegure la preservación de la integridad estructural de los componentes electrónicos que serán afectados por la acción del overclocking, incluyendo la protección de componentes como el bus, chips y múltiples dispositivos electrónicos adicionales, considerando la regla de proporcionalidad descrita como el Efecto Joule: "la cantidad de calor producido por un alambre (conductor eléctrico), es proporcional al cuadrado de la corriente que pasa a través del alambre conductor, multiplicado por la resistencia eléctrica del mismo." El overclocking podría comprometer seriamente la confiabilidad del sistema en computadoras insuficientemente refrigeradas y provocar la reducción de la vida útil de sus componentes. De realizarse correctamente, el overclocking puede asegurar la integridad estructural e incremento en el rendimiento de los componentes electrónicos en la placa base, de otro modo podría ocasionar el sobrecalentamiento de los componentes y su autodestrucción instantánea.
+
+Firmware en tarjetas adaptadoras 
+
+Un sistema puede contener diversos chips con firmware BIOS además del que existe en la placa base: tarjetas de vídeo, de red y otras cargan trozos de código en la memoria (con ayuda de la BIOS principal) que permite el funcionamiento de esos dispositivos.
+
+Tarjetas de vídeo 
+
+A diferencia de otros componentes del sistema, la tarjeta de vídeo debe funcionar desde el arranque inicial, mucho antes de que cualquier sistema operativo esté siendo cargado en la memoria RAM: en los sistemas con vídeo integrado, el BIOS de la placa base contiene las rutinas necesarias para hacer funcionar el vídeo de la placa.
+
+Los primeros ordenadores (que no poseían vídeo integrado) tenían BIOS capaces de controlar cualquier tarjeta adaptadora MDA y CGA. En 1984 cuando aparecieron sistemas nuevos como el EGA fue necesario agregar una BIOS de vídeo para mantener la compatibilidad con esos sistemas que no tenían las rutinas de manejo para el nuevo estándar; desde esa época las tarjetas de vídeo incluyen un firmware propio.
+
+El BIOS de estas adaptadoras provee herramientas básicas para manejar el hardware de vídeo que ofrece la tarjeta. Cuando el computador inicia, algunas de esas tarjetas muestran en pantalla la marca de la misma, el modelo y la versión del firmware además del tamaño de la memoria de vídeo.
+
+El mercado de los BIOS 
+
+La gran mayoría de los proveedores de placas base de arquitectura x86 delegan a terceros la producción de los BIOS. Los fabricantes suelen escribir y publicar actualizaciones del firmware en las cuales se corrigen problemas o se da compatibilidad a nuevos productos.
+
+Los principales proveedores de BIOS son American Megatrends (AMI) y Phoenix Technologies (que compró Award Software International en 1998).
+
+Existen proyectos de BIOS bajo el esquema de Software libre, como Coreboot, que ofrecen firmware alternativos para unas pocas referencias de placas base.
+
+Alternativas y sucesores 
+Para obtener software comparable en otros sistemas informáticos, consulte Arranque (informática)
+
+La Unified Extensible Firmware Interface (UEFI) complementa el BIOS en muchas máquinas nuevas. Inicialmente escrito para la Arquitectura Intel Itanium, UEFI ahora está disponible para plataformas de arquitectura x86 y ARM; el desarrollo de especificaciones está dirigido por el Unified EFI Forum, un grupo de interés especial de la industria. El arranque EFI solo ha sido compatible con las versiones de Microsoft Windows compatibles con la Tabla de particiones GUID, el Núcleo Linux 2.6.1 y posteriores, y macOS en Mac basados ​​en Intel. A partir de 2014, el nuevo hardware de PC se envía predominantemente con firmware UEFI. La arquitectura de protección de rootkit también puede evitar que el sistema ejecute los cambios de software propios del usuario, lo que hace que UEFI sea controvertido como un reemplazo de BIOS heredado en la comunidad de Hardware libre. Además, Windows 11 requiere UEFI para arrancar.
+
+Véase también 
+ Arranque (informática)
+ Coreboot
+ Direcciones base de entrada/salida
+ Extensible Firmware Interface
+ Firmware
+ IBM PC ROM BIOS
+ Llamada de interrupción del BIOS
+ OpenBIOS
+ Open Firmware
+ Placa base
+ POST
+
+Referencias
+
+Bibliografía
+
+Enlaces externos 
+
+ Ayuda para la configuración del BIOS
+ Tutorial para entrar al BIOS y qué hacer si no puedes
+ Cómo programar tu propio boot loader
+
+ 
+Acrónimos de informática

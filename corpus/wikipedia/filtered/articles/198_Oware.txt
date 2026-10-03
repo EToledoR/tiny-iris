@@ -1,0 +1,69 @@
+Oware (también denominado con otros términos: wari, warri, ware, ourri, owari, awele, walle, awalé, aware, awaoley, wouri...) es un juego abstracto, que se practica entre dos personas, originario de África Occidental.
+
+Descripción 
+Pertenece a la familia de los juegos mancalas, y son uno de los juegos de tablero más antiguos de los que se tiene constancia.
+
+Requiere un tablero oware, que es una tabla rectangular que posee dos hileras excavadas de seis hoyos. En los extremos de la tabla hay otras dos cavidades, un poco más grandes, que son depósitos para las piezas capturadas.
+
+Las piezas que se usan son semillas o guijarros (del tamaño de un garbanzo o poco más). Hacen falta 48.
+
+Los juegos mancalas tienen las siguientes características:
+
+ No hay fichas de uno u otro jugador, sino un campo propio y uno del contrario.
+ Cada campo está formado por una fila de seis casillas.
+ Las semillas (fichas) se siembran y recogen.
+ La siembra se hace cogiendo todas las semillas y dejándolas de una en una en las casillas siguientes.
+
+Reglas
+
+Disposición inicial 
+
+Los jugadores ocupan sus puestos junto a los flancos largos del tablero. Cada jugador es dueño de toda la hilera de su lado (6 hoyos) y del depósito que está a su derecha.
+
+Para iniciar la partida se cargan los seis hoyos de cada campo con semillas: 4 semillas por hoyo. Quedan así ubicadas las 24 semillas.
+
+Movimientos 
+El jugador que empieza elige cualquier hoyo de su campo y alza en la mano todas las semillas depositadas ahí. Las lleva luego en sentido antihorario, sembrándolas una a una en cada hoyo que encuentra en el trayecto. El adversario juega después en forma similar. 
+jugadores continúan moviendo así alternativamente.
+
+Puede ocurrir que un hoyo muy cargado contenga 12 o más semillas, con lo que su siembra dará más de una vuelta entera al tablero. El jugador que sale desde tal hoyo, debe saltárselo dejándolo vacío. Es decir, que el hoyo desde el cual se parte, debe quedar vacío tras la siembra.
+
+Capturas 
+Cuando la última semilla sembrada cae en un hoyo del campo adversario, completando allí una carga de 2 o 3 semillas, el jugador que hizo el movimiento captura estas 2 o 3 semillas y las guarda en su depósito. Si los hoyos anteriores al recién capturado contienen 2 o 3 semillas, también todas estas semillas son capturadas. Esto permite capturar una seguidilla de varios hoyos, que se interrumpe con un hoyo que tiene más de 3 semillas o menos de 2. Pero en todo caso téngase en cuenta que solo se captura en el campo adversario.
+
+Ejemplo:
+
+Posición de partida en la imagen de la izquierda. Se juega desde hoyo “E” sembrando 6 semillas...
+
+Posición tras el movimiento en la imagen de la derecha. Como la última semilla sembrada cayó en “e”, que es un hoyo adversario y se completaron allí 3 semillas, el jugador que sembró captura esas 3 semillas y también las 2 de “d” y las 3 de “c”. En total captura 8 semillas.
+
+El tablero queda como se ve en la figura abajo...
+
+Situaciones especiales 
+ Un jugador no puede vaciar completamente el campo adversario. Debe intentar jugar desde otro hoyo. Pero puede suceder que desde cualquier hoyo que salga, siempre capture todo el campo adversario: en tal caso, no se efectúa la jugada y la partida termina aquí. Cada jugador agregará a su depósito las semillas de su campo.
+
+ Cuando por la jugada de un jugador, este se queda con su campo completamente vacío, el adversario está obligado, de ser posible, a sembrar algo en ellos. Si no fuera posible, el juego se da por terminado y el jugador con semillas todavía en los hoyos propios, las añadirá a su depósito.
+
+ Cuando solo quedan algunas pocas semillas que pueden circular sin posibilidad de capturas para ninguno de los dos jugadores, el juego finaliza y cada contendiente agrega a su depósito las semillas de su campo.
+
+Ganador 
+Como se acaba de describir, el juego finaliza cuando no se pueden hacer más capturas o cuando algún jugador queda sin posibilidades de mover. Se cuentan entonces los contenidos de los depósitos y el que tiene más, gana.
+
+También se puede dar por terminada la partida si uno de los jugadores rebasa la cantidad de 24 semillas en su depósito.
+
+Variantes 
+
+Otros juegos similares, de la familia de los moncadas son:
+ El awari, variante de las Antillas. La única diferencia es que al tomar las semillas del contrario, se pueden recoger tanto las anteriores como las posteriores.
+ El bantumi, en el que hay una casilla de la casa a la derecha del tablero, en el que se van dejando las semillas. Se repite tirada si la última semilla es depositada en la casa. Además, si la última semilla es depositada en una casilla del propio campo previamente vacía, se tomarán las semillas de la casilla del contrario que esté enfrente, en el caso de que contenga semillas. La empresa de teléfonos móviles Nokia tiene incluido en el firmware de algunos modelos de su móviles este juego.
+ Mancala
+
+Enlaces externos 
+ Mundo Awalé (en español).
+ Descripción, Reglamentos y tutorial de los juegos Mancala Oware y Bao (en español).
+ Oware/Awale y otros Juegos Mancala - página informativa
+ Federación Internacional de Awale
+ Juego de awale gratuito (licencia GNU) para Windows, GNU/Linux, Mac.
+ Juego de Oware gratuito (licencia MIT) para Android, FirefoxOS, Windows, GNU/Linux, Mac. (HTML5 / Javascript)
+
+Mancala

@@ -1,0 +1,37 @@
+Un agujero negro de Schwarzschild o agujero negro estático es aquel que se define por un solo parámetro, la masa M, más concretamente el agujero negro de Schwarzschild es una región del espacio-tiempo que queda delimitada por una superficie imaginaria llamada horizonte de sucesos. Esta frontera describe un espacio del cual ni siquiera la luz puede escapar, de ahí el nombre de agujero negro. Dicho espacio forma una esfera perfecta en cuyo centro se halla la singularidad; su radio recibe el nombre de radio de Schwarzschild. La fórmula de dicho radio como se ha dicho depende únicamente de la masa del agujero:
+
+Donde G es la constante gravitatoria, M es la masa del agujero y c la velocidad de la luz. Cuanto mayor es la masa del agujero negro, la cual determina el grado de curvatura espacio-temporal, mayor es el radio de Schwarzschild. La geometría del espacio-tiempo alrededor de un agujero u hoyo de Schwarschild viene dada por la métrica de Schwarzschild:
+
+Esta fue una de las primeras soluciones exactas de las ecuaciones de campo de Einstein de la relatividad general debida al físico alemán Karl Schwarzschild. Además las peculiaridades de la métrica para r < 2GM/c2 dieron lugar al concepto de agujero negro mismo.
+
+Descripción fenomenológica 
+La teoría de la relatividad predice que, dentro de un agujero negro de Schwarzschild, aparecerá una hipersuperficie límite teórica, tal que al acercarnos a ella el tensor de curvatura crece y crece sin límite. Ese tipo de objeto geométrico se conoce como singularidad espaciotemporal, y puede entenderse como un límite a partir del cual el espacio-tiempo no puede ser modelizado dentro de la teoría (se supone que cerca de la singularidad los efectos cuánticos son importantes). 
+
+Además el espacio-tiempo dentro de la región de agujero de Schwarzschild es geodésicamente incompleto para cualquier geodésica temporal dentro del agujero, lo cual significa que una partícula en caída libre dentro del agujero pasado un tiempo finito alcanzará la singularidad indefectiblemente. Actualmente no disponemos de ninguna teoría que nos diga qué pasa exactamente cuando una partícula alcanza la singularidad.
+
+En el caso de Schwarzschild esta singularidad es de tipo temporal, si resultara que el hecho de llegar a una distancia suficientemente pequeña de la singularidad supusiera la destrucción de la partícula misma, como se supone a veces, entonces las partículas que se mueven a mayor velocidad dentro del agujero desaparecerían "volatizadas" más tarde y las más lentas antes. Ese hecho encaja con el carácter temporal de la singularidad, a diferencia de una singularidad espacial que puede entenderse más bien como un lugar geométrico.
+
+Otros tipos de agujero negro 
+Sin embargo, existen otros modelos más complicados de agujeros negros:
+
+ El agujero negro de Kerr es un agujero negro en rotación definido no solo por su masa sino también por su momento angular. Dicho agujero tiene una dirección privilegiada en el espacio y, por tanto, deja de ser isótropo. Este es el modelo que más se ajusta al tipo de agujeros negros que se pueden observar fruto del colapso de estrellas supermasivas.
+
+ El agujero negro de Reissner-Nordström es un agujero con carga eléctrica y estático, que posee unas propiedades especiales ya que no solo se forma una singularidad gravitacional sino también una singularidad en el campo eléctrico generado por el agujero. Dicho agujero está sujeto también a dos parámetros: masa y carga. La existencia de tales agujeros no ha sido observada pero se podría concebir la posibilidad de crearlos en condiciones controladas tales como las de los aceleradores de partículas.
+
+ Finalmente está el agujero negro de Kerr-Newman. Este tercer tipo de agujeros son el resultado de la combinación de los dos anteriores. Se trataría de los agujeros negros con carga y en rotación. Estos agujeros dependerían de los tres parámetros: masa, momento angular y carga. Además, al rotar se provocaría un movimiento de cargas en su seno que conllevaría a la generación también de un campo magnético.
+
+Véase también 
+agujero blanco
+agujero negro
+agujero negro de Kerr
+agujero negro de Reissner-Nordström
+agujero negro de Kerr-Newman
+diagrama de Penrose-Carter
+ergosfera
+singularidad desnuda
+singularidad gravitacional
+Anexo:Glosario de relatividad
+
+Schwarzschild,Agujero negro de
+Soluciones de la ecuación de Einstein
+Epónimos relacionados con la astronomía y astrofísica

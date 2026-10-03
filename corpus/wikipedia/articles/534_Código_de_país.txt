@@ -1,0 +1,45 @@
+Los códigos de países son los códigos cortos alfabéticos o numéricos creados para representar a los países y sus áreas dependientes, para usar en el proceso de datos y comunicaciones. El sistema más extendido es ISO 3166-1.
+
+ISO 3166-1 
+ 
+
+Para la mayor parte de los países del mundo, y sus territorios dependientes, esta norma define:
+ un código de dos letras (ISO 3166-1 alfa-2)
+ un código de tres letras (ISO 3166-1 alfa-3)
+ un código numérico de tres cifras (ISO 3166-1 numérico)
+
+El código de dos letras se utiliza como base para algún otro código o aplicación, como:
+ en los códigos de divisas ISO 4217.
+ en los códigos de país de los nombres de dominio de Internet de nivel superior: lista de dominios de Internet.
+
+Otros códigos de país 
+ Los códigos de tres letras del Comité Olímpico Internacional (COI), que se usan en pruebas deportivas: lista de los códigos nacionales del COI
+ La FIFA también ha implementado un sistema de códigos de tres letras.
+ El sistema de codificación para placas de matrícula bajo las Convenciones de las Naciones Unidas para el Tráfico Rodado de 1949 y 1968 (distinción de signos de vehículos en el tráfico internacional): lista de códigos de placas de matrícula internacional
+ Los códigos de dos letras de la Norma Federal para el Procesado de Información (Federal Information Processing Standard, FIPS) usado por el gobierno de Estados Unidos de América y en el CIA World Factbook
+ De la Unión Internacional de Telecomunicaciones (UIT):
+ los códigos de llamada telefónica internacional E.164 de 1-3 cifras: lista de códigos telefónicos,
+ los códigos de país para móviles (mobile country codes, MCC), para direcciones de telefonía móvil/sin hilos,
+ los primeros caracteres de las señales de llamada en las estaciones de radio (marítima, aeronáutica, radioaficionados, radiodifusión, etc.) definen el país: los prefijos de la UIT,
+ los códigos de países miembros la UIT en letras,
+ los códigos de tres cifras usados para identificar los países en las radiotransmisiones móviles marítimas, llamados número de identificación marítima
+ Unión Europea:
+ Hasta la ampliación de la Unión Europea de 2004 la UE usaba las Convenciones de la ONU sobre el Tráfico para los códigos de placas de matrícula; desde entonces, usa los códigos ISO 3166-1, con dos excepciones: EL (y no GR) se usa para Grecia, y UK (y no GB) se usa para el Reino Unido.
+ La Nomenclatura de las Unidades Territoriales Estadísticas (NUTS), que se ocupa principalmente de las subdivisiones de los estados miembro de la UE.
+ De la Organización de Aviación Civil Internacional (OACI)
+ prefijos del registro de aeronaves,
+ letras de nacionalidad para los indicadores de localización.
+
+Los desarrolladores de la ISO 3166 pretenden que, con el tiempo, reemplace a otros códigos de identificación existentes.
+
+Otras codificaciones 
+Las siguientes, pueden representar países:
+ Las cifras iniciales del número ISBN son identificadores para países, zonas, o regiones lingüísticas.
+ Las tres primeras cifras del número de artículo en los códigos de barras EAN-UCC
+
+Véase también 
+ Anexo:Comparación de los códigos de países del COI, la FIFA, y la ISO 3166
+ Códigos de idioma
+
+Telecomunicaciones
+ Códigos de países

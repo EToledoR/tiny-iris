@@ -1,0 +1,118 @@
+Las agavóideas (nombre científico Agavoideae) forman una subfamilia de plantas monocotiledóneas distribuidas más o menos por todo el mundo y especialmente diversas en México, donde Agave tiene importantes usos económicos (por ejemplo es utilizado para elaborar tequila y mezcal). Muchos miembros de esta subfamilia son arborescentes, como el árbol de Josué (una especie de Yucca). Las hojas son muchas veces grandes, xeromórficas, fibrosas o raramente suculentas, en rosetas en la base o el final de las ramas. Las flores presentan 6 tépalos y 6 estambres, y el ovario es súpero o ínfero. La subfamilia fue reconocida por sistemas de clasificación modernos como el sistema de clasificación APG III (2009) y el APWeb (2001 en adelante), y ya había sido reconocida por el APG II que dejaba como opción excluirla de un Asparagaceae sensu stricto como la familia Agavaceae (ver Asparagales para una discusión sobre estos clados).
+
+Descripción 
+Usualmente hierbas grandes arrosetadas, o árboles, o arbustos, o subarbustos. Rizomatosas, algunas con tallos con crecimiento secundario anómalo. Presentan cristales de oxalato de calcio de tipo rafidio y saponinas esteroideas. Pelos simples. Son acaulescentes (carecen de tallo salvo el que da las flores y frutos), o poseen rizoma, o bulbo, o son arborescentes. En los taxones con tallos, son ramificados simpodiales.
+
+Hojas muchas veces grandes, xeromórficas, fibrosas o raramente suculentas, alternas y espirales, en rosetas en la base o el final de las ramas, simples, de margen entero a espinoso-serrado, y usualmente con una espina aguda en el ápice, con venación paralela, los haces vasculares asociados con fibras gruesas y fuertes, envainadoras en la base, sin estípulas.
+
+La inflorescencia es una panícula, un racimo, o una espiga en algunas que producen plántulas vegetativas.
+
+Flores usualmente bisexuales, radiales a ligeramente bilaterales, muchas veces vistosas, bracteadas, hipóginas o epíginas. 
+
+El perianto es biseriado (posee dos verticilos), homoclamídeo (6 tépalos iguales dispuestos en dos verticilos de 3 piezas cada uno), separados a connados, y perianto entonces tubular a acampanado, imbricado, petaloideos, no punteados, y usualmente blancos a amarillos. Hipanto presente en algunas.
+
+6 estambres, filamentos separados, a veces adnatos al perianto, filamentos largos y delgados a cortos y gruesos. Anteras dorsifijas, versátiles, de dehiscencia longitudinal e introrsa, tetrasporangiadas, ditecas.
+
+Polen monosulcado.
+
+3 carpelos, connados, 3 lóculos, ovario súpero o ínfero, con placentación axilar, estilo solitario, estigma diminuto, capitado a 3-lobado. Óvulos más o menos numerosos en cada lóculo y en 2 filas por carpelo, anátropos, bitégmicos.
+
+Presentan nectarios en los septos del ovario.
+
+El fruto es una cápsula loculicida o septicida, o indehiscente, pero a veces es carnoso y de tipo baya.
+
+Las semillas son aplanadas, la cubierta seminal con una costra negra (con fitomelaninas) y las capas interiores más o menos colapsadas.
+
+El cariotipo es usualmente de 5 cromosomas grandes y 25 cromosomas pequeños.
+
+Ver Verhoek (1998) para información adicional sobre la familia.
+
+Ecología 
+
+Ampliamente distribuidas en regiones templado-cálidas a tropicales del Nuevo Mundo, y especialmente diversas en México, pero introducidas en el Viejo Mundo.
+
+Características de hábitats áridos y semiáridos. Muchas veces tienen fotosíntesis de tipo CAM.
+
+Las vistosas flores de Yucca y Hesperoyucca son visitadas por pequeñas polillas del género Tegeticula que tienen una relación simbiótica con estas plantas, las polillas hembra transportan el polen y oviponen en los ovarios (las larvas que se desarrollan dentro se comen algunas semillas). Otros géneros son polinizados por pájaros (muchas especies de Beschornea) o murciélagos (muchas especies de Agave) o abejas. 
+
+Las semillas negras son típicamente dispersadas por viento, y las especies de frutos carnosos son dispersadas por animales.
+
+Filogenia 
+
+Agavoideae está relacionada con Scilloideae (Hyacinthaceae) y Brodiaeoideae (Themidaceae), y la posición filogenética de algunos géneros es problemática. Sin embargo, tanto los caracteres fenotípicos como del ADN sostienen la monofilia de la subfamilia (Bogler y Simpson 1995, 1996, Bogler et al. 2006, Chase et al. 2000, Pires et al. 2004). 
+
+Camassia, Hastingsia, y Chlorogalum (usualmente tratadas en Hyacinthaceae, como la subfamilia Chlorogaloideae) y Hosta (usualmente ubicada en Hostaceae) están incluidas aquí (ver Chase et al. 1995a, 2000, Bogler y Simpson 1995, 1996, Bogler et al. 2006, Pfosser y Speta 1999). Hosta es un género de hierbas rizomatosas con hojas de lámina ancha con venas paralelas prominentes, racimos de un solo lado de flores de tipo lirio, y cápsulas con semillas negras. Estos 4 géneros también tienen un cariotipo distintivo bimodal.
+
+Los datos moleculares (Chase et al. 1995a, 2000, Rudall et al. 1997b) también sostienen la inclusión aquí de Anthericum, Chlorophytum y afines (usualmente ubicados en Anthericaceae), un grupo de hierbas rizomatosas con hojas en roseta basal, lo que lleva a un Agavoideae "en sentido amplio", que no es fácil de caracterizar.
+
+Las agavóideas leñosas son usualmente divididas entre el clado de Yucca (que contiene por ejemplo a Yucca, Hesperaloe, Hesperoyucca) con un ovario súpero y anteras pequeñitas, y el clado de Agave (que contiene por ejemplo a Agave, Furcraea, Manfreda, Polianthes), con un ovario ínfero y anteras elongadas (Dahlgren et al. 1985). Los dos son monofiléticos (Bogler y Simpson 1995, 1996). 
+
+La subfamilia muchas veces ha sido circunscripta de una forma más amplia (Cronquist 1981), incluyendo géneros que aquí son incluidos en Nolinoideae (antes Ruscaceae, Nolina, Dasylirion, Beaucarnea, Dracaena, y Sansevieria), y Cordyline (en Lomandroideae, antes Laxmanniaceae). Una subfamilia así definida es morfológicamente heterogénea, unificada solo por el hábito leñoso, y claramente polifilética (Dahlgren et al. 1985, Chase et al. 1995a, b, Bogler y Simpson 1995, 1996, Rudall et al. 1997a).
+
+Taxonomía 
+
+La subfamilia fue reconocida por el APG III (2009). La subfamilia ya había sido reconocida por el APG II (2003) que dejaba como opción excluirla de un Asparagaceae sensu stricto como la familia Agavaceae.
+
+La subfamilia consta de 25 géneros y 637 especies (Judd et al. 2007). Los géneros más representados son Agave (300 especies), Chlorophytum (150 especies), Anthericum (65 especies), Yucca (40 especies) y Hosta (40 especies).
+
+Géneros 
+ Agave
+ Allibertia
+ Anemarrhena
+ Anthericum
+ Behnia
+ Beschorneria
+ Bravoa
+ Calodracon
+ Camassia
+ Chamaescilla
+ Charlwoodia
+ Chlamydia
+ Chlorogalum
+ Chlorophytum
+ Clistoyucca
+ Cohnia
+ Comospermum
+ Cordyline
+ Delpinoa
+ Dracaenopsis
+ Echeandia
+ Fourcroea
+ Furcraea
+ Furcroya
+ Ghiesbreghtia
+ Herreria
+ Hesperaloe
+ Hesperocallis
+ Hesperoyucca
+ Leucocrinum
+ Littaea
+ Manfreda
+ Pasithea
+ Polianthes
+ Prochnyanthes
+ Pseudobravoa
+
+Sinonimia 
+
+Estos nombres son sinónimos de alguna de las tribus de Agavoideae, según el APWeb (visitado en enero de 2009): Anemarrhenaceae, Anthericaceae, Behniaceae, Chlorogalaceae, Funkiaceae, Herreriaceae, Hesperocallidaceae, Hostaceae, Nolinaceae, Yuccaceae.
+
+Importancia económica 
+
+Muchas especies de Agave, Furcraea, y Yucca son usadas como fuente de fibra, por ejemplo las hojas de Agave sisalana.
+
+Agave fourcroydes es la fuente del henequén.
+
+Unas pocas especies de Agave se fermentan para producir tequila (los tallos con flores jóvenes fermentados y destilados de Agave tequilana) y mezcal. 
+
+Tanto Agave como Yucca son utilizadas en la manufactura de contraceptivos orales (debido a sus saponinas esteroideas). 
+
+Algunas culturas indígenas utilizan plantas de esta familia como fuente de fibra, alimentación, bebidas, jabón y medicinas.
+
+Finalmente, muchos géneros, como Agave, Hosta, Manfreda, Polianthes, y Yucca, son utilizadas como ornamentales.
+
+Bibliografía
+
+Referencias citadas
+
+Enlaces externos

@@ -1,0 +1,100 @@
+Barrapunto era un sitio web de noticias relacionadas con el software libre, la tecnología y los derechos digitales. 
+
+Se actualizaba varias veces al día con artículos que solían ser breves resúmenes de noticias en otros sitios web, enlaces a esas noticias y además permiten al lector comentar dichas noticias. El sitio se asemeja a un blog en muchos aspectos, no obstante tiene comentarios en hilo. El nombre proviene del sitio web que sirvió de inspiración a Barrapunto, Slashdot, y fue escogido con la intención de confundir a aquellos que tratasen de pronunciar la URL del sitio web («h-t-t-p-dos puntos-barra-barra-barrapunto-punto-com»).
+
+En agosto de 2019, y a falta de una declaración oficial al respecto, el sitio web dejó de responder.
+
+Historia 
+Barrapunto salió por primera vez a la luz el 7 de junio de 1999, inspirada en Slashdot. En un principio utilizó el mismo software que Slashdot, luego desarrolló algunas adaptaciones propias, para finalmente volver a la distribución original. El software que usa es Slash y es software libre. Barrapunto fue creado por personas procedentes del ambiente universitario y de la comunidad de software libre, que a la vez, se constituyeron en los editores originales del sitio.
+
+Barrapunto es un referente en la Internet hispana, es un sistema de publicación de noticias abierto pero controlado por los editores. Desde julio de 2004, el material publicado en Barrapunto se encuentra protegido por una licencia Creative Commons-By.
+
+Barrapunto resultó ser la ganadora de los Premios 20Blogs organizados por el periódico en línea 20 minutos, en la categoría de «Mejor comunidad de un blog».
+
+El 4 de noviembre de 2006 se anunció la remodelación del sitio, muy esperada por sus lectores.
+
+Lectores 
+
+Los lectores habituales de Barrapunto son en su mayoría seguidores de la informática y la tecnología, en especial del movimiento software libre y GNU/Linux. La participación de los visitantes es fundamental debido a que el sitio se basa en el debate de noticias de actualidad, y en menor medida en las entradas en bitácoras personales y encuestas (donde cualquiera puede votar). De hecho, en algunas ocasiones es posible encontrar información más útil entre los comentarios que en la propia noticia.
+
+Algunos de los temas que se tratan en Barrapunto son: ciencia, formación y empleo, libros, ocio, y, por encima de todos, ciberderechos y software libre, la base del proyecto.
+
+Funcionamiento 
+Barrapunto es un weblog colaborativo, donde los lectores son parte indisociable de la dinámica del sitio. Los usuarios envían historias (artículos) a la cola de contribuciones y, si son usuarios registrados, pueden ponerlas en su propia bitácora. Un equipo de editores filtran la cola y, tras revisarlas, pasan a portada aquellas historias en función de sus propios gustos y el interés general. Los usuarios, además, pueden publicar comentarios en las historias.
+
+Para promover comentarios de calidad, los comentarios pueden recibir puntuaciones (positivas o negativas) a través de los puntos de moderación que se reparten pseudoaleatoriamente entre los usuarios. Estas puntuaciones afectan al karma del usuario, que a su vez influye en la puntuación inicial de los comentarios del usuario. Los comentarios de los usuarios no registrados tienen 0 puntos iniciales, los comentarios de los usuarios registrados con menos de 20 puntos de karma tienen 1 punto inicial y los comentarios de los usuarios registrados con 20 o más puntos de karma tienen 2 puntos iniciales (estos últimos pueden tener un punto inicial a elección suya). Un usuario puede tener como máximo 50 puntos de karma.
+
+Los usuarios no registrados tienen todos el seudónimo pobrecito hablador, apelativo basado en el nombre del periódico de crítica social creado por Mariano José de Larra (anteriormente los anónimos eran denominados pendejo sin nombre, modificado por ser demasiado ofensivo); los pobrecitos habladores son un clásico de Barrapunto. Desde el pobrecito hablador perezoso que es un usuario que no se ha molestado en registrarse, hasta los también clásicos trolls, ya sean temáticos, políticos u ortográficos.
+
+Para controlar la moderación, Barrapunto utiliza la metamoderación (moderar a los moderadores), que ayuda a contener casos de abuso existentes ocasionalmente.
+
+Efecto Barrapunto 
+Debido al gran tráfico que generaba el sitio el paso a portada de una noticia producía un incremento notable en las visitas de las páginas web enlazadas. 
+
+Se dan casos en los que el servidor enlazado se satura debido a la cantidad de visitas recibidas, de forma que va muy lento, no responde a algunas peticiones, o incluso deja de funcionar por completo (se «cae»). Las consecuencias son las mismas que las de un ataque de denegación de servicio, aunque, comúnmente, se dice que entonces el sitio ha sido barrapunteado, o que ha caído por efecto Barrapunto. Esto suele pasar con páginas personales alojadas en servidores con poco ancho de banda disponible.
+
+Estos efectos duraban alrededor de 2 o 3 días, ya que se publicaban noticias nuevas y las antiguas quedaban olvidadas. La mayoría de visitantes solo leían las noticias que aparecían en portada; por tanto, una vez que la noticia se archiva, el ritmo de visitas baja y se suele quedar prácticamente igual que antes. A veces puede ser ligeramente superior, ya que los buscadores web indexarán la página junto con la discusión en Barrapunto, si aún no lo habían hecho.
+
+Estos términos tienen su origen en el mismo efecto que se produce en Slashdot, el sitio original en que se inspiró Barrapunto, si bien el volumen de tráfico que genera un «efecto Slashdot» es mucho más importante por la gran cantidad de usuarios de Slashdot en comparación con una comunidad más local como es Barrapunto.
+
+Críticas a Barrapunto 
+Barrapunto fue objeto de diversas críticas:
+
+ Inconformidad con la selección de noticias: algunos usuarios se quejan de que salen a portadas noticias que son menos interesantes que algunas que se quedan en la cola de envíos. Esto podría estar enlazado con la reciente discusión sobre los distintos tipos de control editorial: el de tener una serie de usuarios con privilegios para destacar noticias, contra el modelo en el que los usuarios votan las noticias para su salida a portada.
+
+ La tardanza en la publicación de muchas noticias: de esta crítica se han defendido los moderadores argumentando que el principal objetivo de Barrapunto es generar debate en torno a las noticias y no ser los primeros en hablar de ellas.
+
+ Demasiados trolls: en Barrapunto no se borra ningún comentario, esto, unido a la gran popularidad del sitio, hace que haya una cantidad considerable de comentarios troll. Esto se soluciona con el correcto uso de la moderación y los umbrales, pero muchas veces por culpa de estos comentarios las discusiones degeneran de forma excesiva en fueras de tema.
+
+ Sectarismo: algunos usuarios suelen quejarse de una supuesta radicalización de la comunidad de Barrapunto, especialmente en temas como software libre vs. software propietario, partidarios de una u otra distribución de Linux, gestión de derechos de autor, entre otros. Estas polémicas sin embargo son consustanciales a cualquier foro de publicación abierta, y no han variado sustancialmente desde los inicios del weblog, como no han variado las quejas por ello.
+
+ Medidas restrictivas: con el objeto de promocionar los comentarios constructivos y desalentar a los trolls, se modificó el umbral por defecto de los comentarios anónimos, haciéndolos menos visibles de inicio. Asimismo, los usuarios registrados con un karma negativo no ven reflejada la actualización de su bitácora en portada, aunque pueden seguir publicándolos sin traba alguna, pese a lo cual los críticos consideran que limita de forma importante su visibilidad tanto a usuarios como a buscadores. Sus defensores sostienen que estos cambios estimulan el registro y la participación constructiva.
+
+Noticias cubiertas 
+A través de los años que ha estado activa, Barrapunto ha cubierto noticias de gran interés para muchos lectores, como fueron los atentados de Madrid de 2004 (11 M), o sobre las salidas profesionales para la carrera de Ingeniería Informática.
+
+Fin del sitio
+En una sección titulada "Un lentísimo adiós", Xataka en 2017 decía que la portada de Barrapunto mostraba contenidos de hacía 42 y más días.
+
+En agosto de 2019, la web dejó de responder a visitas de usuarios.
+
+Véase también 
+ Slashdot
+
+Referencias
+
+Enlaces externos 
+
+ Barrapunto.com.
+ Registros en Barrapunto.
+
+Análisis de la web 
+ Filtrado colaborativo: la dimensión sociotécnica de una comunidad virtual, Adolfo Estalella.
+ La identidad, mecanismo clave en la producción de información de una comunidad abierta colaborativa, Adolfo Estalella.
+ Pobrecito hablador. Conflictos por la libre participación en una comunidad colaborativa, Adolfo Estalella
+ La Web como memoria organizada: el hipocampo colectivo de la red, Javier Candeira. Se centra en Slashdot, pero las explicaciones sobre el modelo de filtrado colaborativo son aplicables a Barrapunto.
+
+Efecto Barrapunto 
+ El efecto Barrapunto .
+ Más sobre el efecto.
+
+Sitios similares 
+
+ Slashdot, en inglés.
+ Gildot, en portugués.
+ Puntbarra, en catalán.
+ Marrapuntu, en euskera.
+
+ Wykop, en polaco.
+ Linuxfr, en francés.
+ Heise y Symlink, en alemán.
+
+ Solidot, chino.
+ Slashdot.jp, en japonés.
+ Tweakers.net, en neerlandés.
+
+Comunidades virtuales
+Sitios web de noticias
+Sitios web de tecnología
+Sitios web en español
+Blogs

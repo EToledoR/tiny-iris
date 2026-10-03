@@ -1,0 +1,52 @@
+La candela (símbolo: cd) es la unidad básica del Sistema Internacional que mide la intensidad luminosa. Se define como la intensidad luminosa en una dirección dada, de una fuente que emite una radiación monocromática de frecuencia 5,4×1014 hercios y de la cual la intensidad radiada en esa dirección es 1/683 vatios por estereorradián.
+
+Esta cantidad es equivalente a la que, en 1948 en la Conferencia General de Pesas y Medidas, se definió como una sexagésima parte de la luz emitida por un centímetro cuadrado de platino puro en estado sólido a la temperatura de su punto de fusión (2046 K).
+
+Historia
+Antes de 1948, varios estándares de intensidad luminosa estaban en uso en varios países. Por lo general, se basaban en el brillo de la llama de una "vela estándar" de composición definida, o el brillo de un filamento incandescente de diseño específico. Uno de los más conocidos fue el estándar inglés de la potencia de las velas. Una potencia de vela era la luz producida por una vela pura de espermaceti que pesaba un sexto de libra y ardía a una velocidad de 120 granos por hora. Alemania, Austria y Escandinavia utilizaron la Hefnerkerze, una unidad basada en la salida de una lámpara Hefner.
+
+Quedó claro que se necesitaba una unidad mejor definida. Jules Violle había propuesto un estándar basado en la luz emitida por 1 cm2 de platino en su punto de fusión (o punto de congelación), llamándolo Violle. La intensidad de la luz se debió al efecto del radiador de Planck (un cuerpo negro) y, por lo tanto, era independiente de la construcción del dispositivo. Esto facilitó que cualquiera pudiera medir el estándar, ya que el platino de alta pureza estaba ampliamente disponible y se preparaba fácilmente.
+
+La Commission Internationale de l'Éclairage (Comisión Internacional de Iluminación) y el CIPM propusieron una "nueva candela" basada en este concepto básico. Sin embargo, el valor de la nueva unidad se eligió para que fuera similar a la anterior unidad candela, dividiendo la Violle por 60. La decisión fue promulgada por el CIPM en 1946:
+El valor de la nueva candela es tal que la luminosidad del radiador lleno a la temperatura de solidificación del platino es de 60 nuevas candelas por centímetro cuadrado.
+
+Posteriormente, fue ratificado en 1948 por el noveno CGPM que adoptó un nuevo nombre para esta unidad, la candela. En 1967, la 13.ª CGPM eliminó el término vela nueva y dio una versión modificada de la definición de candela, especificando la presión atmosférica aplicada al platino congelado:
+La candela es la intensidad luminosa, en la dirección perpendicular, de una superficie de metro cuadrado de un cuerpo negro a la temperatura del platino congelado bajo una presión de  newtons por metro cuadrado.
+
+En 1979, debido a las dificultades para realizar un radiador Planck a altas temperaturas y a las nuevas posibilidades que ofrecía la radiometría, el decimosexto CGPM adoptó una nueva definición de la candela:
+
+La candela es la intensidad luminosa, en una dirección determinada, de una fuente que emite radiación monocromática de frecuencia 540x1012 hertz y que tiene una intensidad radiante en esa dirección de  vatio por estereorradián.
+
+La definición describe cómo producir una fuente de luz que (por definición) emite una candela, pero no especifica la función de luminosidad para ponderar la radiación en otras frecuencias. Una fuente de este tipo podría utilizarse para calibrar instrumentos diseñados para medir la intensidad luminosa con referencia a una función de luminosidad especificada. Un apéndice del folleto del SI aclara que la función de luminosidad no está especificada de forma única, sino que debe seleccionarse para definir completamente la candela.
+
+El término arbitrario (1/683) se eligió para que la nueva definición coincidiera exactamente con la antigua. Aunque la candela se define ahora en términos del segundo (una unidad base del SI) y del vatio (una unidad derivada del SI), la candela sigue siendo una unidad base del sistema SI, por definición.
+
+La 26ª CGPM aprobó la definición moderna de la candela en 2018 como parte de la redefinición de las unidades base del SI de 2019, que redefinió las unidades base del SI en términos de constantes físicas fundamentales.
+
+Luminosidades típicas en candelas (cd) 
+Dado que resulta un poco más complejo evaluarlas teóricamente, la valoración de las intensidades medidas en candela son señaladas a través de algunos ejemplos que podemos observar:
+
+La curva de sensibilidad 
+
+Para ser de utilidad práctica, la candela debe poder indicar la intensidad luminosa de una fuente de luz de cualquier color. Por ejemplo, en la realización de un panel luminoso donde se ubican dispositivos que emiten luces de diversos colores se debe tener una medida que indique cómo son percibidos por el ojo humano.
+
+Ya que el ojo humano no posee la misma sensibilidad a los diversos colores, puesto que es máxima para el color verde, y siempre más baja para el rojo y violeta, este problema es similar a aquel de la percepción de los sonidos donde se encuentra establecida una curva que define la sensibilidad del oído humano a las diversas frecuencias denominada curva isofónica.
+
+Para la percepción de los colores, ha sido definido un estándar de sensibilidad para un ojo normal en una curva obtenida con una prueba sobre muestras o ejemplos representativos de la población humana. La curva obtenida es generalmente llamada y tiene un valor de longitud de onda de aproximadamente 555 nm descendiendo hasta cero sea hacia longitudes de onda más cortas luego del color violeta o, por el contrario, hacia longitudes de onda mayores que la del color rojo.
+
+Otros usos del término 
+El término candela se usa como sinónimo de fuego en países como Cuba, Puerto Rico, República Dominicana y Venezuela.
+
+Véase también 
+ Lumen
+ Lux
+ Candela estándar
+ Luz
+ Luminancia
+ Vela (medida) (también llamada en español bujía)
+ Vatio
+
+Referencias 
+
+Unidades básicas del Sistema Internacional
+Fotometría

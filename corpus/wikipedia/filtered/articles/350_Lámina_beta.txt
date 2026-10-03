@@ -1,0 +1,44 @@
+La lámina beta, hoja plegada β (β-sheet en inglés) es una de las estructuras secundarias posibles adoptada por las proteínas. Se forma por el posicionamiento paralelo de dos cadenas de aminoácidos dentro de la misma proteína, en el que los grupos N-H de una de las cadenas forman enlaces de hidrógeno con los grupos C=O de la opuesta.
+Es una estructura muy estable que puede llegar a resultar de una ruptura de los enlaces de hidrógeno durante la formación de la hélice alfa.
+Los grupos R de esta estructura están posicionados sobre y bajo el plano de las láminas. Estos R no deben ser muy grandes, ni crear un impedimento estérico, ya que se vería afectada la estructura de la lámina . Son hidrófobas. Las laminas beta se presentan en las queratinas y en otras proteínas clasificadas como fibrosas, como el pelo de los mamíferos y la seda.
+
+Tipos 
+
+ Cadenas paralelas. Aquellas que ambas van de grupo amino a carboxilo
+ Cadenas antiparalelas. Aquellas que una va de amino a carboxilo y otra de carboxilo a amino. 
+
+Los enlaces de hidrógeno aportan estabilidad a la proteína. Se presenta en las proteínas fibrosas y en las globulares.
+
+Historia 
+La primera estructura β fue propuesta por William Astbury en la década de 1930. Propuso la idea del puente de hidrógeno entre los enlace peptídicos de paralelo o antiparalelo extendido en filamentos. Sin embargo, Astbury no tenía los datos necesarios respecto de la geometría del enlace de los aminoácidos para construir modelos precisos, sobre todo porque no sabía entonces que el enlace peptídico era planar. Una versión refinada fue propuesta por Linus Pauling y Robert Corey en 1951.
+
+Motivos estructurales comunes 
+
+Una forma muy sencilla estructural que implican las hojas β es la horquilla beta, en la cual un antiparalelo de dos filamentos están vinculadas por un trocito de residuos de dos a cinco, de los cuales uno es con frecuencia una glicina o una prolina, los cuales pueden asumir las conformaciones de Ángulo diedro inusuales requeridas para un apretado giro. Sin embargo, los filamentos individuales también pueden vincularse de manera más elaborada con bucles largos que pueden contener hélices alfa o incluso dominios de la proteína entera.
+
+Clave griega 
+
+El motivo dominante de clave griega consta de cuatro hilos adyacentes antiparalelos y sus lazos de vinculación. Consta de tres filamentos antiparalelos conectados por horquillas, mientras que la cuarta es adyacente a la primera y se vincula con el tercero por un lazo más. Este tipo de estructura se forma fácilmente durante el proceso de plegamiento de la proteína. fue nombrado después sobre la base de un patrón común del arte ornamental griega (véase meandro (arte)).
+
+Del β - α - β 
+Debido a la quiralidad de sus componente aminoácidos, todos los filamentos exhiben un giro "diestro" evidente en la mayoría de las estructuras de la hoja β de orden superior. En particular, el lazo del enlace entre dos líneas paralelas casi siempre tiene una quiralidad cruce diestro, que es fuertemente favorecido por la torcedura inherente de la hoja. Este bucle vinculación con frecuencia contiene una región helicoidal, en cuyo caso se llama un motivo β-α-β. Un tema estrechamente relacionado llamado motivo de β-α-β-α forma el componente básico de la proteína más comúnmente observado en la estructura terciaria, la Barril TIM.
+
+Adorno bucle psi 
+
+El bucle psi, o bucle Ψ, es un motivo que consiste en dos hebras antiparalelas con una sola hebra intermedia que está conectado a ambos por enlaces de hidrógeno. hay cuatro topologías posibles filamento para solos Ψ-bucles citado por Hutchinson et al (1990). Este motivo es raro ya que el proceso da lugar a su formación que parece poco probable que ocurra durante el plegamiento de la proteína. El Ψ-lazo fue identificado en la familia del ácido aspártico
+
+Interés médico 
+
+Algunas proteínas tales como el β amiloide puede formar β-hojas- estructuras oligoméricas asociadas con estados patológicos como la proteína amiloide β implicada como una causa del Alzhéimer. Aunque su estructura aún debe ser determinada en su totalidad, datos recientes sugieren que puede asemejarse a una hélice inusual de dos hebras β.
+
+Véase también 
+ Hélice alfa
+ Barril beta
+ Estructura primaria de las proteínas
+ Estructura terciaria de las proteínas
+
+Referencias 
+
+Estructuras secundarias de proteínas
+Ciencia de los años 1950
+1951

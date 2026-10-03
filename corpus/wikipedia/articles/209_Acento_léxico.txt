@@ -1,0 +1,173 @@
+El acento léxico es una característica suprasegmental por la cual se produce un realce fonético de una sílaba dentro de una palabra; en palabras muy largas puede darse en más de una sílaba. La manera de producir este realce varía de lengua a lengua, pero suele incluir variación en el tono, intensidad y duración de la sílaba. Según el tipo de características suprasegmentales una lengua puede tener acento léxico que sea predominantemente un acento de intensidad o un acento tonal.
+
+En español, el acento léxico acústicamente no involucra solo intensidad (aunque se considera predominantemente un acento de intensidad), sino que el análisis del habla mediante instrumentación moderna ha revelado que combinan características de intensidad, tono y duración de la vocal. Desde un punto de vista ortográfico convencional, el acento léxico primario se indica mediante las llamadas reglas de acentuación mediante el signo ortográfico llamado tilde o acento gráfico. La sílaba sobre la que recae el acento léxico se denomina sílaba tónica o acentuada, y a la que carece de él, átona o inacentuada. Aunque en castellano el acento léxico y el acento tonal coinciden, no son exactamente el mismo concepto. El griego antiguo es uno de los mejores ejemplos de lengua con acento tonal, ya que el acento parece haber sido principalmente de este tipo.
+
+En muchas lenguas el acento recae en un una sílaba fija (como el francés o el turco), por lo que no es distintivo aunque sea fonéticamente audible. También se ha señalado que algunas lenguas, por ejemplo en algunas variantes del japonés (Kagoshima, Miyakonojo, Sendai) todas las palabras tienen acento. Según algunos autores, tampoco existiría acento en ciertas lenguas tonales como el chino o el mende.
+
+Tipos de acento léxico 
+La naturaleza fonética del acento léxico varía de lengua a lengua e incluye varios mecanismos como el tono, la intensidad y a veces la calidad y cantidad de la vocal o segmento que recibe el acento.
+
+Hay lenguas, como el inglés, el alemán, el español, el francés o el italiano en las que el relieve en la voz consiste en una mayor intensidad, es decir, un mayor esfuerzo al expirar el aire, lo que se traduce en un sonido un poco más potente. Este acento recibe el nombre de acento de intensidad, dinámico, espiratorio, articulatorio o de sonoridad.
+
+Tradicionalmente se consideraba que el carácter principal del acento léxico en español era la intensidad, sin embargo las últimas investigaciones realizadas han demostrado que el factor determinante es la elevación del tono, acompañada normalmente de una mayor duración o intensidad de la pronunciación de la sílaba tónica.
+
+En otras lenguas, como el griego antiguo, el acento consiste en la elevación del tono de la voz, en una mayor tensión de las cuerdas vocales al emitir la sílaba acentuada. En este caso el acento recibe los nombres de acento tónico, musical, de altura, tonal, cromático o melódico.
+
+Hay lenguas de acento fijo, en las que el acento recae sobre una sílaba determinada, según la estructura de la lengua, como en el esperanto, o en el latín, donde el acento siempre recae en la penúltima o en la antepenúltima sílaba; y otras que poseen un acento condicionado o libre, cuyo lugar está determinado por circunstancias fonéticas, morfológicas o sintácticas, como en el francés.
+
+Funciones del acento 
+El acento desempeña cuatro funciones fundamentales:
+
+ Función contrastiva: se ejerce en el eje sintagmático. Pone de relieve las sílabas acentuadas frente a las no acentuadas. Esta función se da tanto en las lenguas de acento fijo, es decir, aquellas en las que el acento recae siempre sobre la misma sílaba de la palabra (francés, turco, finés, checo, etc.), como en las lenguas de acento libre, en las que el acento puede recaer en cualquier sílaba de la palabra (español, inglés).
+ Función distintiva: se ejerce en el eje paradigmático. Esta función solo se da en las lenguas de acento libre. En ellas, la posición en la que se encuentra el acento nos permite distinguir significados. Ej. número/numero/numeró.
+ Función demarcativa: esta función se da en las lenguas de acento fijo, en las que permite señalar los límites de las distintas unidades de una secuencia. En el francés y en el turco puede indicar el final de una palabra; en el checo, el principio, y en lenguas como el polaco puede ocupar una posición fija en relación con el principio y el final.
+ Función culminativa: señala, en las lenguas de acento libre, la presencia de una unidad acentual sin indicar exactamente los límites. La existencia de una cima de intensidad separa los elementos fonemáticos en dos grupos: fonemas intensivos y fonemas normales.
+
+El acento léxico en diversas lenguas
+
+En latín 
+En latín el acento léxico era predecible y recaía en la penúltima sílaba o antepenúltima sílaba (excepto en monosílabos). El acento recae en la penúltima sílaba si su vocal es larga o es sílaba cerrada, en caso contrario el acento cae sobre la antepenúltima (obviamente las palabras monosílabas lo llevaban en la única sílaba que tenían, mientras que las bisílabas, en la primera); en caso contrario recaía en la antepenúltima. Este tipo de acento podía interpretarse en temas de moras, siendo que las sílabas largas tenían dos moras y las otras una mora, así el acento recaía en la penúltima mora antes de la última vocal. Debido a esta predecibilidad del acento latino, este no tenía valor fonológico distintivo.
+
+El sistema vocálico del latín tenía los fonemas /ă ā ĕ ē ĭ ī ŏ ō ŭ ū/ que, según la cantidad, se dividían en vocales breves /ă, ĕ, ĭ, ŏ, ŭ/ y largas /ā, ē, ī, ō, ū/.
+
+La sílaba latina será larga si contiene un diptongo, una vocal larga por naturaleza o si es una sílaba cerrada (aquella que termina en consonante). Vemos entonces que la cantidad vocálica era un rasgo distintivo que hay que tener en cuenta para la acentuación.
+
+Reglas de acentuación en latín
+
+ Si la penúltima sílaba es larga, se acentúa llana: amatur
+ Si la penúltima sílaba es breve, se acentúa esdrújula: dicitur
+ No hay apenas palabras agudas en latín, por lo que las palabras bisílabas serán por lo general llanas.
+ No hay palabras sobresdrújulas.
+
+En español
+
+Funciones del acento español 
+Antonio Quilis habla de tres funciones que desempeña el acento español:
+ Función contrastiva: entre sílabas acentuadas e inacentuadas, y palabras acentuadas e inacentuadas.
+ Función distintiva: que da lugar al esquema léxico acentual que conocemos.
+ Función culminativa: agrupando alrededor de la unidad central otras unidades inacentuadas. La función culminativa es especialmente importante en la poesía, pues en la sílaba que configura la rima, recae también el acento.
+
+El acento del español, aunque heredado del latín, presenta variación libre, es decir, recae en una de las cinco últimas sílabas de una palabra, normalmente en alguna de las tres últimas. La evolución entre el latín y el español se debe a una serie de cambios fonéticos como las elisiones; por lo tanto, en español, el acento de una palabra no resulta predecible y tiene un valor fonológico importante, particularmente en los verbos, donde la posición del acento permite distinguir por ejemplo animo (primera presente) de animó (tercera pasado) de un sustantivo como ánimo. Los tres tipos de acentuación más frecuentes en castellano son:
+
+ Proparoxítona o esdrújula: ánimo, cálculo, próximo.
+ Paroxítona o grave: animo, calculo, aproximo.
+ Oxítona o aguda: animó, calculó, aproximó.
+
+La acentuación paroxítona es la más frecuente, seguida por la oxítona y proparoxítona (además existen un pequeño número de palabras con acento en la cuarta o quinta sílabas: simultáneamente, raramente).
+
+Aunque en castellano desapareció la cantidad vocálica (o silábica) en la pronunciación, el acento precisamente indica las huellas de esta. Un buen ejemplo son las palabras cóncavo y convexo. La lógica nos diría que son dos palabras gemelas; entonces ¿Por qué la primera es esdrújula y la segunda llana? En la palabra cóncavo, la penúltima sílaba en latín era breve, porque lleva una consonante y una vocal (-ca-), pero en la segunda era larga, porque lleva dos consonantes en la pronunciación (la x) /kon-bék-so/ (aunque la x es una letra, fonológicamente representa aquí dos fonemas consonánticos distintos yuxtapuestos, que en la pronunciación pertenecen a dos sílabas diferentes); de manera que para los latinos habría sido imposible pronunciar esta palabra como esdrújula, pues la X "atrae" el acento.
+
+En español también existen palabras agudas; o sea, las que llevan el acento léxico en la última sílaba. Este rasgo también ha sido heredado del latín: las palabras españolas agudas, originalmente fueron llanas (o graves) en latín y en castellano medieval, pero luego perdieron la última sílaba, convirtiéndose en agudas. Por ejemplo, la palabra castellana amor no viene del nominativo latino AMOR (que en latín se pronunciaba llana: /ámor/), sino del acusativo AMORE(M) /amóre/ (en latín vulgar no se pronunciaba la M final) que, al perder la E final, se convirtió en amor /amór/.
+
+Para marcar gráficamente el acento léxico, en español se utiliza la tilde (á, é, í, ó, ú), cuando le corresponda, de acuerdo con unas normas establecidas, que están diseñadas para utilizar la tilde en el menor número de ocasiones. La tilde es una pequeña virgulilla sobre la vocal tónica, también llamada acento, aunque se prefiere la denominación tilde para no confundir el acento gráfico con el léxico. Para saber si una palabra lleva tilde, es necesario separar las sílabas de la palabra en cuestión y señalar cuál es la sílaba tónica (aquella que tiene el acento léxico). Aquellas palabras con el acento en la última sílaba son agudas, las que lo tienen en la penúltima son llanas, las que lo tienen en la antepenúltima son esdrújulas, y las que lo tienen en la anterior a la antepenúltima son sobresdrújulas. Las normas son las siguientes:
+
+ Las palabras sobresdrújulas se acentúan siempre. Hay que señalar que solo son sobresdrújulas aquellas formas verbales (habitualmente del modo imperativo) con pronombres enclíticos. Ejemplos: cuéntamelo, cómpraselos.
+ Las palabras esdrújulas (proparoxítonas) se acentúan siempre. Ejemplos: término, público, política.
+ Las palabras llanas (paroxítonas) no se acentúan cuando acaban en vocal, o en vocal seguida de -n o -s. Por ejemplo: débil, nenúfar, árbol, Sáenz, bíceps.
+ Las palabras agudas (oxítonas) se tildan cuando acaban en vocal, o en vocal seguida de -n o -s. Se exceptúan las palabras monosílabas, que solo se acentúan en determinadas ocasiones (ver el tercer inciso de los casos particulares, más abajo). Por ejemplo: camión, comió, venís, Orleans, vendrán, dieciséis, teméis, Bernabéu.
+
+Palabras acentuadas e inacentuadas en español 
+En español, una palabra solo tiene una sílaba acentuada, que se denomina sílaba tónica para diferenciarla del resto, que son sílabas átonas. Solo en los adverbios en –mente, encontramos dos sílabas tónicas, la del adjetivo del que derivan y la sílaba –men. /léntaménte/.
+
+Cualquier palabra aislada, sacada fuera de contexto, tiene alguna carga acentual, pero esto cambia si esa palabra está dentro de una secuencia hablada. Dentro de una frase, encontramos sílabas tónicas en unas palabras y palabras que no poseen ninguna sílaba de este tipo.
+
+Palabras acentuadas (siempre llevan una sílaba acentuada):
+
+ El sustantivo: /la mésa/ /la cása/
+ El adjetivo: /el gáto négro/
+ El pronombre tónico (que funciona de sujeto o complemento con preposición): /tú sábes/
+ Los indefinidos (adjetivos o pronombres, independientemente de si están apocopados): /algúN óNbre/
+ Los pronombres posesivos: /la kúlpa és mía/
+ Los demostrativos (pronombres y adjetivos): /ese líbro/
+ Los numerales (cardinales y ordinales): /dós kásas/
+ El verbo (aunque sea auxiliar): /el gáto á komído/
+ El adverbio: /kóme póko/
+ Las formas interrogativas (qué, cuál, quién, dónde, cuándo, cuánto, cómo): /ké és/
+
+Palabras inacentuadas (no llevan acento):
+
+ El artículo determinado: /el álma/
+ La preposición (excepto según): /trabáxa para koméR/
+ Las conjunciones (excepto ora, ya, bien, así, apenas y las compuestas): /ábla pero mál/
+ Los términos de tratamiento: /doN xosé/
+ El primer elemento de los compuestos: /dos míl/ /maria xosé/
+ Los clíticos y el reflexivo se: /se lo díxe/
+ Los adjetivos posesivos, independientemente de si están apocopados: /mi pádre/
+ Las formas que, cual, quien, donde, cuando, cuanto, como (si no son exclamativas ni interrogativas): /lo dexé komo lo bí/
+ En los vocativos y expresiones exclamativas cortas de cariño o reproche son inacentuados los elementos que acompañan al núcleo: /nó puédo | bueN óNbre/
+
+Hay palabras que son átonas o tónicas según su función:
+ Luego: es tónica con función temporal y átona con función consecutiva.
+ Aún: es tónica con función adverbial y átona con función preposicional.
+ Mientras: es tónica con función adverbial y átona con función conjuntiva.
+ Medio: es tónica con función adjetival y átona en las formas compuestas.
+ Más: es tónica con función adverbial y átona con función de nexo.
+ Menos: es tónica con función adverbial y átona como nexo.
+
+Casos particulares:
+
+ Los adverbios acabados en -mente tienen doble acentuación, es decir, la parte de la palabra anterior a ese sufijo tiene una sílaba tónica y deberá acentuarse como si la palabra acabase antes del sufijo; el sufijo -mente, por su parte, también tiene su propia acentuación: es llana y como acaba en vocal, nunca se acentúa. Ejemplos: cortésmente (si cortés tiene tilde, también cuando se le añade el sufijo), políticamente, finalmente (si final no tiene tilde, tampoco cuando se le añada el sufijo).
+ Para marcar los hiatos (y romper el diptongo), se debe tildar la vocal cerrada (u, i), aunque no siga las cuatro normas anteriormente expuestas. Ejemplos: mayoría (es una palabra llana y, al acabar en vocal, no debería llevar tilde, sin embargo, como ia es un diptongo, debe tildarse para que el acento léxico caiga en la sílaba -ri-; si no la tildásemos, la sílaba tónica sería -yo-).
+ Algunas palabras monosílabas suenan igual y, para no confundirlas al leerlas, se ha acordado tildar siempre una de las dos, que en general es la que es tónica. Esta tilde se llama diacrítica. Por ejemplo:
+ sí (adverbio para asentir; pronombre) - si (para iniciar las condicionales; nota musical);
+ mí (pronombre) - mi (posesivo; nota musical);
+ té (infusión) - te (pronombre);
+ tú (pronombre personal) - tu (posesivo).
+ Las palabras que, quien, cuando, cuanto, donde, adonde, como, cual y cuan (y en castellano antiguo también cuyo) se acentúan en la vocal tónica cuando actúan como adverbio interrogativo o exclamativo (en oraciones exclamativas, interrogativas o en proposiciones subordinadas sustantivas de interrogativa indirecta). Ejemplos: ¿Cuándo vendrás? Vendré cuando yo quiera. ¿Qué es esto? Yo creo que es un balón. ¿Quién ha venido? No sé quién haya venido, pero quien haya venido puede irse ya. ¿Cuánto quieres? Quiero cuanto sea necesario. ¿Cuál es esa canción? ¿Adónde vas? Voy adonde nadie me vea. No sé adónde va él.
+
+Acento enfático o de insistencia 
+Aunque las palabras acentuadas en español solo posean una sílaba acentuada, a veces señalamos por medio de un segundo acento una sílaba no acentuada:
+
+ Para poner de relieve una palabra
+ Llama al fóntanéro.
+ Por afectación personal
+ Es mi ópinión.
+
+También puede utilizarse para reforzar un acento que ya existe, lo que nos permite enfatizar alguna parte del enunciado o evitar confusiones:
+- Me lo diste tú.
+- ¿Quién te lo dio?
+- TÚ me lo diste.
+
+ Dame un melón (uno cualquiera)
+ Dame ÚN melón (uno solo)
+
+Frecuencia de los esquemas acentuales en español 
+Antonio Quilis realizó un estudio de la frecuencia de los esquemas acentuales en español, que sustituye al anterior estudio realizado por Pierre Delattre que consideraba todos los monosílabos como acentuados, y no distinguía entre bisílabos acentuados e inacentuados.
+
+Reglas de acentuación en la transcripción fonética y fonológica 
+En la transcripción fonética y fonológica se marca con una tilde la sílaba tónica de todas las palabras acentuadas, lleven o no tilde.
+ Ej. "Mi casa"
+ [mi kása]: transcripción fonética
+ /mi kása/: transcripción fonológica
+
+En inglés 
+En inglés el acento léxico tiene valor fonológico. Eso significa que la posición del acento tiene un valor distintivo y permite diferenciar unas palabras de otras, en particular existen muchas parejas de verbo y sustantivo que se diferencia por la posición del acento: áccess 'acceso' / accéss 'acceder'; ímport 'bien importado' / impórt 'importar', etc.
+
+En francés 
+En francés el acento no tiene valor fonológico distintivo y es fijo en la última sílaba de la palabra.
+
+El acento en catalán 
+En catalán hay cinco vocales a la hora de escribir, pero estas pueden sonar de diferentes maneras en lo que respecta a la pronunciación.
+
+Para saber cómo suena una vocal debemos tener en cuenta si se encuentra en una sílaba tónica o átona.
+
+Vocales acentuadas
+ La /a/, si acentuada, siempre tiene acento abierto [à] Ej. dàtil
+ La /e/, si acentuada, puede tener acento abierto [è] o cerrado [é] Ej. paté, cafè.
+ La /i/, si acentuada, siempre lleva acento cerrado [í] Ej. pastís
+ La /o/, si acentuada, puede tener acento abierto [ò] o cerrado [o] Ej. arròs
+ La /u/, si acentuada, siempre lleva acento cerrado [ú] Ej. púding
+
+Reglas de acentuación
+ Las palabras agudas llevan tilde si terminan en vocal, -en o –in.
+ Las palabras llanas llevan tilde si no terminan en vocal, -en o –in.
+ Todas las palabras esdrújulas y sobresdrújulas llevan tilde.
+ Los monosílabos no llevan tilde a no ser que sea una tilde diacrítica.
+
+Referencias
+
+Bibliografía 
+ Harry van der Hulst: Word Accent
+ Las unidades prosódicas o suprasegmentales: el acento en Quilis, A. (2008): El comentario fonológico y fonético de textos. Teoría y práctica, 3.ª ed., Madrid, Arco Libros.
+
+Fonología

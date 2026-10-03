@@ -1,0 +1,154 @@
+Una bomba hidráulica o bomba de agua es una máquina generadora que transforma la energía con la que es accionada (generalmente energía mecánica) en energía del fluido incompresible que mueve. El fluido incompresible puede ser líquido o una mezcla de líquidos y sólidos como puede ser el hormigón antes de fraguar o la pasta de papel. Al incrementar la energía del fluido, se aumenta su presión, su velocidad o su altura, todas ellas relacionadas según el principio de Bernoulli. En general, una bomba se utiliza para incrementar la presión de un líquido añadiendo energía al sistema hidráulico, para mover el fluido de una zona de menor presión a otra de mayor presión.
+
+Existe una ambigüedad en la utilización del término bomba, ya que generalmente es utilizado para referirse a las máquinas de fluido que transfieren energía, o bombean fluidos incompresibles, y por lo tanto no alteran la densidad de su fluido de trabajo, a diferencia de otras máquinas como lo son los compresores, cuyo campo de aplicación es la neumática y no la hidráulica. Pero también es común encontrar el término bomba para referirse a máquinas que bombean otro tipo de fluidos, así como lo son las bombas de vacío o las bombas de aire.
+
+Historia 
+La primera bomba conocida fue descrita por Arquímedes en el  a. C. y se conoce como tornillo de Arquímedes, aunque un sistema parecido había sido utilizado anteriormente por Senaquerib, rey de Asiria en el  a. C.
+
+En el , Al Jazarí describió e ilustró diferentes tipos de bombas, incluyendo bombas reversibles, bombas de doble acción, bombas de vacío, bombas de agua y bombas de desplazamiento positivo.<ref>Derek de Solla Price (1975). Review of Ibn al-Razzaz al-Jazari, The Book of Knowledge of Ingenious Mechanical Devices. Technology and Culture 16 (1), p. 81.</ref>
+
+ Tipos de bombas 
+
+ Según el principio de funcionamiento 
+La principal clasificación de las bombas se establece según el sistema de funcionamiento en el que se basan.Bombas volumétricas, en las que su principio de funcionamiento está basado en la hidrostática, de modo que el aumento de presión se realiza por el empuje de las paredes de las cámaras que varían su volumen. En este tipo de bombas, en cada ciclo el órgano propulsor genera de manera positiva un volumen dado o cilindrada. En caso de poder variar el volumen máximo de la cilindrada se habla de bombas de volumen variable. Si ese volumen no se puede variar, entonces se dice que la bomba es de volumen fijo. A su vez este tipo de bombas pueden subdividirse en:
+ Bombas de émbolo alternativo, en las que existe uno o varios compartimentos fijos, pero de volumen variable, por la acción de un émbolo o de una membrana. En estas máquinas, el movimiento del fluido es discontinuo y los procesos de carga y descarga se realizan por válvulas que abren y cierran alternativamente. Algunos ejemplos de este tipo de bombas son la bomba alternativa de pistón, la bomba rotativa de pistones o la bomba pistones de accionamiento axial.
+ Bombas volumétricas rotativas o rotoestáticas, en las que una masa fluida es confinada en uno o varios compartimentos que se desplazan desde la zona de entrada (de baja presión) hasta la zona de salida (de alta presión) de la máquina. Algunos ejemplos de este tipo de máquinas son la bomba de paletas, la bomba de lóbulos, la bomba de engranajes, la bomba de tornillo o la bomba peristáltica.Bombas rotodinámicas, en las que el principio de funcionamiento está basado en el intercambio de cantidad de movimiento entre la máquina y el fluido, aplicando la hidrodinámica. En este tipo de bombas hay uno o varios rodetes con álabes que giran generando un campo de presiones en el fluido. En este tipo de máquinas el flujo del fluido es continuo. Estas turbomáquinas hidráulicas generadoras pueden subdividirse en:
+ Radiales o centrífugas, cuando el movimiento del fluido sigue una trayectoria perpendicular al eje del rodete impulsor.
+ Axiales, cuando el fluido pasa por los canales de los álabes siguiendo una trayectoria contenida en un cilindro.
+ Diagonales o helicocentrífugas cuando la trayectoria del fluido se realiza en otra dirección entre las anteriores, es decir, en un cono coaxial con el eje del rodete.
+
+ Según el tipo de accionamiento 
+ Electrobombas. Genéricamente, son aquellas accionadas por un motor eléctrico, para distinguirlas de las motobombas, habitualmente accionadas por motores de combustión interna.
+ Bombas neumáticas que son bombas de desplazamiento positivo en las que la energía de entrada es neumática, normalmente a partir de aire comprimido.
+ Bombas de accionamiento hidráulico, como la bomba de ariete o la noria.
+ Bombas manuales. Un tipo de bomba manual como la bomba de balancín.
+ Motobombas diésel'. Un tipo de bomba movido por un motor diésel.
+
+ Tipos de bombas de émbolo 
+ Bomba aspirante 
+
+En una "bomba aspirante", un cilindro que contiene un pistón móvil está conectado con el suministro de agua mediante un tubo. Una válvula bloquea la entrada del tubo al cilindro. La válvula es como una puerta con goznes, que solo se abre hacia arriba, dejando subir, pero no bajar, el agua. Dentro del pistón, hay una segunda válvula que funciona en la misma forma. Cuando se acciona la manivela, el pistón sube. Esto aumenta el volumen existente debajo del pistón, y, por lo tanto, la presión disminuye. La presión del aire normal que actúa sobre la superficie del agua, del pozo, hace subir el líquido por el tubo, franqueando la válvula —que se abre— y lo hace entrar en el cilindro. Cuando el pistón baja, se cierra la primera válvula, y se abre la segunda, que permite que el agua pase a la parte superior del pistón y ocupe el cilindro que está encima de este. El golpe siguiente hacia arriba hace subir el agua a la espita y, al mismo tiempo, logra que entre más agua en el cilindro, por debajo del pistón. La acción continúa mientras el pistón sube y baja.
+
+Una bomba aspirante es de acción limitada, en ciertos sentidos. No puede proporcionar un chorro continuo de líquido ni hacer subir el agua a través de una distancia mayor a 10 m. entre la superficie del pozo y la válvula inferior, ya que la presión normal del aire solo puede actuar con fuerza suficiente para mantener una columna de agua de esa altura. Una bomba impelente vence esos obstáculos.
+
+ Bomba de Sevilla 
+Un tipo de bomba aspirante que puede elevar agua a más de diez metros es el de la bomba de Sevilla, descubierta accidentalmente en 1798, que fue citada y comentada en obras extranjeras. Esta bomba eleva una mezcla de aire y agua. Se trataría del caso inverso de la trompa de agua.
+
+ Bomba impelente 
+La bomba impelente consiste en un cilindro, un pistón y un caño que baja hasta el depósito de agua. Asimismo, tiene una válvula que deja entrar el agua al cilindro, pero no regresar. No hay válvula en el pistón, que es completamente sólido. Desde el extremo inferior del cilindro sale un segundo tubo que llega hasta una cámara de aire. La entrada a esa cámara es bloqueada por una válvula que deja entrar el agua, pero no salir. Desde el extremo inferior de la cámara de aire, otro caño lleva el agua a un tanque o a una manguera.
+
+Reparación de bombas
+
+Examinar los registros de reparación de bombas y el tiempo medio entre fallos (MTBF) es de gran importancia para los usuarios de bombas responsables y concienciados. En vista de ello, el prefacio del Manual del usuario de bombas 2006 alude a las estadísticas de "averías de bombas". Por comodidad, estas estadísticas de fallos se traducen a menudo en MTBF (en este caso, vida útil instalada antes del fallo).
+
+A principios de 2005, Gordon Buck, ingeniero jefe de John Crane Inc. para operaciones de campo en Baton Rouge, Luisiana, examinó los registros de reparación de varias refinerías y plantas químicas para obtener datos significativos sobre la fiabilidad de las bombas centrífugas. Se incluyeron en el estudio un total de 15 plantas en funcionamiento con casi 15 000 bombas. La más pequeña de estas plantas tenía unas 100 bombas; varias plantas tenían más de 2000. Todas las instalaciones estaban situadas en Estados Unidos. Además, se consideraban "nuevas", otras "renovadas" y otras "establecidas". Muchas de estas plantas -pero no todas- tenían un contrato de alianza con John Crane. En algunos casos, el contrato de alianza incluía la presencia in situ de un técnico o ingeniero de John Crane Inc. para coordinar diversos aspectos del programa.
+
+Sin embargo, no todas las plantas son refinerías y los resultados son diferentes en otros lugares. En las plantas químicas, las bombas han sido históricamente artículos de "usar y tirar", ya que el ataque químico limita su vida útil. Las cosas han mejorado en los últimos años, pero el espacio algo restringido disponible en los "antiguos" prensaestopas DIN y ASME limita el tipo de cierre que cabe. A menos que el usuario de la bomba mejore la cámara de sellado, la bomba sólo admite versiones más compactas y sencillas. Sin esta mejora, la vida útil en instalaciones químicas suele rondar entre el 50% y el 60% de los valores de refinería.
+
+El mantenimiento no programado suele ser uno de los costes de propiedad más significativos, y los fallos de cierres mecánicos y cojinetes se encuentran entre las principales causas. Tenga en cuenta el valor potencial de seleccionar bombas que cuestan más inicialmente, pero duran mucho más entre reparaciones. El MTBF de una bomba mejor puede ser de uno a cuatro años mayor que el de su homóloga no mejorada. Hay que tener en cuenta que los valores medios publicados de averías de bombas evitadas oscilan entre 2600 y 12 000 dólares. Esto no incluye los costes de oportunidad perdidos. Se produce un incendio en una bomba por cada 1000 averías. Tener menos fallos de bombas significa tener menos incendios destructivos de bombas.
+
+Como ya se ha señalado, una avería típica de una bomba, basada en informes reales del año 2002, tiene un coste medio de 5000 dólares. Esto incluye costes de material, piezas, mano de obra y gastos generales. Prolongar el MTBF de una bomba de 12 a 18 meses ahorraría 1.667 dólares al año, lo que podría ser mayor que el coste de mejorar la fiabilidad de la bomba centrífuga.Bombas de lodos sumergibles muy solicitadas. Engineeringnews.co.za. Recuperado el 2011-05-25.
+
+ Cebado de bombas rotodinámicas 
+Para el correcto funcionamiento de las bombas rotodinámicas se necesita que estén llenas de fluido incompresible, es decir, de líquido, pues en el caso estar llenas de fluido compresible (cualquier gas como el aire) no funcionarían correctamente.
+
+El cebado de la bomba consiste en llenar de líquido la tubería de aspiración succión y la carcasa de la bomba, para facilitar la succión de líquido, evitando que queden bolsas de aire en el interior. Al ser necesaria esta operación en las bombas rotodinámicas, se dice que no tienen capacidad autocebante. Sin embargo, las bombas de desplazamiento positivo son autocebantes, es decir, aunque estén llenas de aire son capaces de llenar de fluido el circuito de aspiración.
+
+En un circuito como el mostrado en el esquema adjunto sin ningún dispositivo adicional, al detener la bomba centrífuga el fluido del circuito de aspiración cae hacia el depósito vaciándose la bomba por el vacío creado por el circuito primario.
+
+La altura de elevación que proporciona la bomba es siempre la misma y responde a la siguiente fórmula:
+
+donde es la presión de impulsión, es la presión de aspiración, es la densidad del fluido y la aceleración de la gravedad.
+
+Despejando la diferencia de presiones se tiene que:
+
+De esta fórmula se puede observar que la diferencia de presiones que consigue la bomba entre la impulsión y la aspiración es mayor cuanto mayor sea la densidad del fluido a mover.
+De tal forma que para el caso concreto del agua se tiene:
+
+Con lo cual:
+
+Es decir, si la bomba está llena de aire la presión de aspiración es 0,00129 veces la que conseguiría dicha bomba si estuviese llena de agua, es decir, si estuviese cebada. Por lo que si la bomba está vacía la altura que se eleva el agua en el circuito de aspiración sobre el nivel del agua en el depósito es mínima y totalmente insuficiente para que el agua llegue a la bomba.
+
+Por otra parte el funcionamiento de una bomba centrífuga en vacío puede estropear el sellado de la bomba debido a una deficiente refrigeración dado que no circula fluido por su interior que ayuda a mejorar la disipación del calor producido por la bomba.
+
+Por lo tanto en instalaciones de bombeo cuyo esquema coincide con el indicado en el esquema adjunto es necesario un sistema adicional para evitar que la bomba se descebe. Algunos de estos sistemas se enumeran a continuación:
+ Se puede construir un orificio en la parte superior de la carcasa de la bomba y arrojar agua sobre el mismo para que la bomba al encenderse esté llena de agua y pueda bombear correctamente. No se trata de un sistema muy eficiente.
+ Se puede usar una válvula de pie (Válvula antirretorno). Permite el paso del líquido hacia la bomba pero impiden su regreso al depósito una vez se ha apagado la bomba con lo que impide el descebe de la tubería de impulsión. Puede presentar problemas cuando el fluido tiene suciedad que se deposita en el asiento de la válvula disminuyendo su estanqueidad, por otra parte supone una pérdida de carga más o menos importante en la tubería de impulsión por lo que aumenta el riesgo de que se produzca cavitación en la bomba.
+ Uso de una bomba de vacío. La bomba de vacío es una bomba de desplazamiento positivo que extrae el aire de la tubería de impulsión y hace que el fluido llegue a la bomba centrífuga y de este modo quede cebada.
+ Por último otra posibilidad consiste en instalar la bomba bajo carga, es decir por debajo del nivel del líquido, aunque esta disposición no siempre es posible, a no ser que se instale sumergida, con lo cual la bomba tiene que ser especial.
+
+ Sellado de bombas 
+
+Las bombas precisan de sellos hidráulicos para impedir que los fluidos que están siendo impulsados salgan al exterior de la máquina a través de la vía de transmisión de movimiento desde el motor a los internos móviles de la bomba.
+
+En el campo del refino de petróleo y de la petroquímica existen sellos mecánicos de bombas estandarizados por API (American Petroleum Institute'') que, aunque se trata de una asociación estadounidense, son de aplicación en todo el mundo. Cada tipo de sello recibe el nombre de PLAN API. Estos sellos pueden ser simples o dobles y, además, pueden disponer o no de un sistema de refrigeración.
+
+También existe una clasificación de sellos de bombas según ANSI.
+
+A continuación se incluye la equivalencia API - ANSI de los sistemas de sellado o planes más utilizados:
+ 
+ PLAN API 11 (ANSI PLAN 7311)
+ PLAN API 12 (ANSI PLAN 7312)
+ PLAN API 21 (ANSI PLAN 7321)
+ PLAN API 22 (ANSI PLAN 7322)
+ PLAN API 31 (ANSI PLAN 7331)
+ PLAN API 41 (ANSI PLAN 7341)
+ PLAN API 13 (ANSI PLAN 7313)
+ PLAN API 23 (ANSI PLAN 7323)
+ PLAN API 32 (ANSI PLAN 7332)
+ PLAN API 62 (ANSI PLAN 7362)
+ PLAN API 52 (ANSI PLAN 7352)
+ PLAN API 53 (ANSI PLAN 7353)
+ PLAN API 54 (ANSI PLAN 7354)
+
+Véase también
+
+Teoría y funcionamiento 
+ Hidráulica
+ Hidrostática
+ Hidrodinámica
+ Principio de Bernoulli
+
+Tipos de bombas 
+
+ Bomba de engranajes
+ Bomba de tornillo
+ Tornillo de Arquímedes
+ Bomba peristáltica
+
+ Bomba centrífuga
+
+ Bomba de ariete
+ Golpe de ariete
+ Noria
+
+Otras bombas y aplicaciones especiales 
+ Bomba de aire
+ Bomba de vacío
+ Bomba neumática
+ Inyector-bomba
+ Bomba sumergible
+
+Máquinas de fluido 
+ Máquina de fluido
+ Máquina hidráulica
+ Turbomáquina
+ Turbina hidráulica
+ Compresor
+ Turbocompresor
+
+Referencias
+
+Enlaces externos 
+
+ Bombas.
+ Bombas y compresores.
+Bombas de desplazamiento Positivo.
+ Animación flash de una bomba de lóbulos dobles.
+ Animación flashlash de una bomba de lóbulos triples.
+ Imagen y vídeo del funcionamiento de una bomba de lóbulos.
+ Funcionamiento de las bombas de engranajes externos.
+ Tipos de bombas de agua, mantenimiento y su funcionamiento.
+
+Sistemas de bombeo
+Conceptos relacionados con la hidráulica

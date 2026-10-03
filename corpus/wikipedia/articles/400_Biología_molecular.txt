@@ -1,0 +1,69 @@
+La biología molecular es la rama de la biología que tiene como objetivo el estudio de los procesos que se desarrollan en los seres vivos desde un punto de vista molecular. En su sentido moderno, la biología molecular pretende explicar los fenómenos de la vida a partir de sus propiedades macromoleculares. Dos macromoléculas en particular son su objeto de estudio: 
+
+Los ácidos nucleicos, entre los cuales el más utilizado es el ácido desoxirribonucleico (ADN), el componente de los genes.
+ Las proteínas, que son los agentes activos de los organismos vivos. 
+
+Dentro del Proyecto Genoma Humano puede encontrarse la siguiente definición sobre la biología molecular: El estudio de la estructura, función y composición de las moléculas biológicamente importantes.
+
+Biología molecular y otras ciencias 
+Esta área está relacionada con otros campos de la biología y la química, particularmente ingeniería genética y bioquímica. La biología molecular concierne principalmente al entendimiento de las interacciones de los diferentes sistemas de la célula, lo que incluye relaciones tales como las que existen entre el ADN y el ARN, la síntesis de proteínas, el metabolismo, y el cómo todas esas interacciones son reguladas para conseguir un correcto funcionamiento de la célula.
+
+La diferencia entre la química orgánica y la biología molecular o química biológica es que en la química biológica las moléculas de ADN tienen una historia y, por ende, en su estructura nos hablan de su historia, del pasado en el que se han constituido, mientras que una molécula orgánica, creada hoy, es solo testigo de su presente, sin pasado y sin evolución histórica.
+
+Características
+
+Al estudiar el comportamiento biológico de las moléculas que componen las células vivas, la Biología molecular roza otras ciencias que abordan temas similares: así, por ejemplo, juntamente con la Genética se interesa por la estructura y funcionamiento de los genes y por la regulación (inducción y represión) de la síntesis intracelular de enzimas y de otras proteínas. Con la Citología, se ocupa de la estructura de los corpúsculos subcelulares (núcleo, nucléolo, mitocondrias, ribosomas, lisosomas, etc.) y sus funciones dentro de la célula. Con la Bioquímica estudia la composición y cinética de las enzimas, interesándose por los tipos de catálisis enzimática, activaciones, inhibiciones competitivas o alostéricas, etc. También colabora con la Filogenética al estudiar la composición detallada de determinadas moléculas en las distintas especies de seres vivos, aportando valiosos datos para el conocimiento de la evolución.Sin embargo, difiere de todas estas ciencias enumeradas tanto en los objetivos concretos como en los métodos utilizados para lograrlos. Así como la Bioquímica investiga detalladamente los ciclos metabólicos y la integración y desintegración de las moléculas que componen los seres vivos, la Biología molecular pretende fijarse con preferencia en el comportamiento biológico de las macromoléculas (ADN, ARN, enzimas, hormonas, etc.) dentro de la célula y explicar las funciones biológicas del ser vivo por estas propiedades a nivel molecular.
+
+Métodos 
+Los métodos que emplea esta nueva ciencia son fundamentalmente los mismos que la Biofísica, Bioquímica, y Biología. Utiliza los análisis químicos, cualitativo y cuantitativo, los conocimientos de la Química orgánica, la Biología de microorganismos y de virus, etc., pero revisten especial importancia los nuevos microanalíticos tanto físicos como químicos. Merecen destacarse la microscopía electrónica, que permite resoluciones que alcanzan los 10 Amstrongs; la difracción de rayos X, que determina la estructura y disposición espacial de los átomos de las macromoléculas; la ultracentrifugación diferencial, tanto analítica como preparativa, que permite separaciones antes imposibles; la cromatografía de gases, y, en fase líquida, la espectrografía de infrarrojos, la Química con isótopos trazadores, la espectrometría de masas, etc.
+
+Técnicas
+
+Clonación molecular
+
+La clonación molecular se utiliza para aislar y luego transferir una secuencia de ADN de interés a un vector plásmido. Esta tecnología de ADN recombinante se desarrolló por primera vez en la década de 1960. En esta técnica, una secuencia de ADN que codifica una proteína de interés se clona mediante reacción en cadena de la polimerasa (PCR), y/o enzima de restricción, en un plásmido (vector de expresión). El plásmido vector suele tener al menos 3 características distintivas: un origen de replicación, un Sitio de Clonación Múltiple (SCM) y un marcador selectivo (normalmente resistencia a antibióticos). Además, aguas arriba del SCM se encuentran la región promotora y la transcripción, que regulan la expresión del gen clonado.
+
+Este plásmido puede insertarse en células bacterianas o animales. La introducción de ADN en células bacterianas puede realizarse mediante transformación por captación de ADN desnudo, conjugación por contacto célula-célula o mediante transducción por vector viral. La introducción de ADN en células eucariotas, como las células animales, por medios físicos o químicos se denomina transfección. Existen diversas técnicas de transfección, como la transfección con fosfato cálcico, la electroporación, la microinyección y la transfección con liposomas. El plásmido puede integrarse en el genoma, dando lugar a una transfección estable, o puede permanecer independiente del genoma y expresarse temporalmente, lo que se denomina transfección transitoria.
+
+El ADN que codifica una proteína de interés se encuentra ahora dentro de una célula y la proteína puede expresarse. Existen diversos sistemas, como promotores inducibles y factores específicos de señalización celular, que ayudan a expresar la proteína de interés a niveles elevados. A continuación, se pueden extraer grandes cantidades de una proteína de la célula bacteriana o eucariota. La proteína puede someterse a pruebas de actividad enzimática en diversas situaciones, puede cristalizarse para estudiar su estructura terciaria o, en la industria farmacéutica, puede estudiarse la actividad de nuevos fármacos contra la proteína.
+
+Reacción en cadena de la polimerasa
+La reacción en cadena de la polimerasa (PCR) es una técnica extremadamente versátil para copiar ADN. En pocas palabras, la PCR permite copiar o modificar una secuencia de ADN específica de formas predeterminadas. La reacción es extremadamente potente y, en condiciones perfectas, podría amplificar una molécula de ADN hasta convertirla en 1.070 millones de moléculas en menos de dos horas. La PCR tiene muchas aplicaciones, como el estudio de la expresión génica, la detección de microorganismos patógenos, la detección de mutaciones genéticas y la introducción de mutaciones en el ADN. La técnica PCR puede utilizarse para introducir sitios de enzimas de restricción en los extremos de las moléculas de ADN, o para mutar bases particulares del ADN, este último es un método conocido como mutagénesis dirigida al sitio. La PCR también puede utilizarse para determinar si un fragmento concreto de ADN se encuentra en una biblioteca de ADNc. La PCR tiene muchas variaciones, como la PCR de transcripción inversa (RT-PCR) para la amplificación de ARN y, más recientemente, la PCR cuantitativa que permite la medición cuantitativa de moléculas de ADN o ARN.
+
+Electroforesis en gel
+
+La electroforesis en gel es una técnica que separa moléculas por su tamaño utilizando un gel de agarosa o poliacrilamida. Esta técnica es una de las principales herramientas de la biología molecular. El principio básico es que los fragmentos de ADN se pueden separar aplicando una corriente eléctrica a través del gel - debido a que la columna vertebral del ADN contiene grupos fosfato cargados negativamente, el ADN migrará a través del gel de agarosa hacia el extremo positivo de la corriente. Las proteínas también pueden separarse en función del tamaño utilizando un gel SDS-PAGE, o en función del tamaño y su carga eléctrica utilizando lo que se conoce como Electroforesis en gel 2D..
+
+Contenido 
+Al profundizar en cualquier fenómeno biológico y pretender explicar la naturaleza íntima de los procesos que determinan una propiedad o una función de los seres vivos, entramos inevitablemente en el campo de la Biología molecular. Veamos, por ejemplo el estudio de los genes. Las clásicas leyes de Mendel tienen su explicación inmediata en el conocimiento morfológico y funcional de los cromosomas. Pero cuando deseamos saber la composición y forma de actuación de un gen necesitamos penetrar a fondo en la estructura del ADN doble helicoide de Watson y Crick, el ordenamiento de bases púricas y pirimidímicas, es decir, la información genética.
+
+Al matizar la posibilidad de sintetizar una enzima por parte de un gen, debemos seguir el proceso de transmisión de esta información genética del ADN nuclear al ARN mensajero; la activación de los aminoácidos por el ARN transportador, la ordenación de estos aminoácidos activados sobre el ribosoma de acuerdo con la pauta prefijada por el ARN mensajero, la obtención de la estructura primaria de la enzima proteína. Todos estos temas son objeto de estudio de la Biología molecular. Pero hay más; la proteína, una vez sintetizada, debe ordenarse en el espacio según determinadas reglas que constituyen la conformación espacial específica (estructuras secundaria y terciaria) y a veces asociarse varias moléculas iguales o diferentes para constituir lo que se ha llamado estructuras cuaternaria y quinaria, de modo que las propiedades biológicas de la molécula como enzima están vinculadas a esta ordenación espacial compleja. La molécula proteica así organizada puede resultar ser una enzima que, en su actividad catalítica, es susceptible de sufrir activaciones o inhibiciones por determinadas sustancias, acciones éstas de trascendental importancia para la vida de la célula. Del mismo modo, la Biología molecular se interesa por la estructura química de las sustancias que componen las membranas biológicas y la ordenación de las enzimas que realizan acciones encadenadas, p. ej., dentro de las mitocondrias, núcleo y otros corpúsculos subcelulares, para explicar la mecánica de los ciclos y procesos bioquímicos determinados por la Topoquímica celular.
+
+Los procesos de reproducción de los virus, de las bacterias, y de los organismos superiores encierran multitud de incógnitas que trata de ir resolviendo la Biología molecular. Las mutaciones producidas por agentes físicos (rayos X, rayos gamma, calor, etc.) o químicos (sustancias mutágenas) tienen una explicación tanto más satisfactoria cuanto mejor se conoce la base molecular de los procesos de alteración en la estructura y ordenación de las bases nitrogenadas del ADN.
+
+El parentesco entre especies diferentes de seres vivos puede establecerse mediante el estudio individual comparado de las sustancias macromoleculares (proteínas) elaboradas por ellos. Así, de la secuencia de aminoácidos en la hemoglobina, mioglobina, citocromos, hormonas hipofisarias o insulina se induce el grado de proximidad filogenética, al demostrarse la evolución de la proteína por mutaciones progresivas. Multitud de fenómenos genéticos como selección natural, adaptación al ambiente, diferenciación de las especies, etc., tienen su última explicación a nivel molecular. Por último, la Biología molecular de microorganismos está aportando datos interesantes para la búsqueda de nuevos antibióticos y antimetabolitos, que permiten atacar eficaz y selectivamente a los gérmenes patógenos.
+
+Con todo esto no queremos afirmar que la Biología molecular sea una ciencia completa ni perfectamente elaborada. Todo lo contrario; los nuevos descubrimientos, al resolver una incógnita plantean muchos más interrogantes que son objeto de investigaciones futuras. Hoy día esta joven ciencia está en expansión explosiva. Por otro lado, la última y definitiva explicación de los comportamientos de las moléculas de los seres vivos requiere, para ser conocida en profundidad, enfrentarse con otras ramas de la ciencia tales como la Biofísica submolecular (orbitales, fuerzas de enlace, hibridación, etc.) e incluso la Física subatómica, para la cual se requiere un bagaje de conocimientos que jamás puede ser patrimonio de investigadores aislados, sino de equipos de trabajo científicamente heterogéneos, pero armónicamente conjuntados.
+
+Biólogos moleculares notables
+ Francis Crick
+ James Dewey Watson
+ Rosalind Franklin
+ Max Perutz
+ François Jacob
+ Christiane Nüsslein-Volhard
+ Severo Ochoa
+ Alberto Kornblihtt
+ Linus Pauling
+
+Referencias
+
+Bibliografía 
+ C. PETIT y G. PRÉVOST, Genetique et évolution, «Journal of Molecular Biologyu, Londres 1967; C. A. VILLE, Biología, México 1966.
+ (accedido el 15 de junio de 2009)
+
+Enlaces externos 
+
+ 
+ADN
+Genética

@@ -1,0 +1,117 @@
+La botánica (del griego βοτάνη, 'hierba') o fitología (del griego φυτόν, 'planta' y λόγος, 'tratado') es la rama de la biología que estudia las plantas bajo todos sus aspectos, incluyendo la descripción, clasificación, distribución, identificación, estudio de la reproducción, fisiología, morfología, relaciones recíprocas, relaciones con los otros seres vivos y efectos provocados sobre el medio en el que se encuentran. 
+
+La botánica estudia las plantas en sentido amplio, abarcando las categorías taxonómicas de las plantas sin flores (criptógamas), las plantas sin flores y sin vasos (briofitas), las plantas sin flores y con vasos (pteridofitas), las plantas con flores (espermatofitas), las plantas con flores y sin fruto (gimnospermas) y las plantas con flores y con fruto (angiospermas), dentro de la clasificación clásica de los organismos vegetales. No obstante, en términos históricos, el objeto de estudio de la botánica no se ha restringido estrictamente al Reino Plantae, sino que ha abarcado un grupo de organismos lejanamente emparentados entre sí, esto es, las cianobacterias, los hongos, las algas y las plantas, los que casi no poseen ningún carácter en común salvo la presencia de cloroplastos (a excepción de los hongos y cianobacterias) o el no poseer capacidad de desplazamiento. En el campo de la botánica hay que distinguir entre la botánica pura, cuyo objeto es ampliar el conocimiento de la naturaleza, y la botánica aplicada, cuyas investigaciones están al servicio de la tecnología agraria, forestal y farmacéutica. Su conocimiento afecta a muchos aspectos de nuestra vida y por tanto es una disciplina estudiada por biólogos y ambientólogos, pero también por farmacéuticos, ingenieros agrónomos, ingenieros forestales, entre otros.
+
+La botánica cubre una amplia gama de contenidos, que incluyen aspectos específicos propios de los vegetales, así como de las disciplinas biológicas que se ocupan de la composición química (fitoquímica), de la organización celular y tisular (histología vegetal), del metabolismo y el funcionamiento orgánico (fisiología vegetal), del crecimiento y el desarrollo, de la morfología (fitografía), de la reproducción, de la herencia (genética vegetal), de las enfermedades (fitopatología), de las adaptaciones al ambiente (ecología), de la distribución geográfica (fitogeografía o geobotánica), de los fósiles (paleobotánica) y de la evolución.
+
+Los organismos que estudia la botánica 
+La idea de que la naturaleza puede ser dividida en tres reinos (mineral, vegetal y animal) fue propuesta por N. Lemery (1675) y popularizada por Linneo en el . Karl Linné, a finales del , introdujo el actual sistema de clasificación. Este incluye los conocimientos sobre las diversas especies vegetales dentro de un sistema más amplio, ofreciendo una versión sintética y enriquecedora. No en vano se ha dicho que el sistema de clasificación de Linneo prefigura lo que después serían las teorías evolutivas.
+
+A pesar de que con posterioridad fueron determinados como reinos separados para los hongos (en 1783), protozoarios (en 1858) y bacterias (en 1925) la concepción del de que solo existían dos reinos de organismos dominó la biología por tres siglos. El descubrimiento de los protozoarios en 1675, y de las bacterias en 1683, ambos realizados por Leeuwenhoek, finalmente comenzó a minar el sistema de dos reinos. No obstante, un acuerdo general entre los científicos acerca de que el mundo viviente debería ser clasificado en al menos cinco reinos, solo fue logrado luego de los descubrimientos realizados por la microscopía electrónica en la segunda mitad del . Tales hallazgos confirmaron que existían diferencias fundamentales entre las bacterias y los eucariotas y, además, revelaron la tremenda diversidad ultraestructural de los protistas. La aceptación generalizada de la necesidad de utilizar varios reinos para incluir a todos los seres vivos también debe mucho a la síntesis sistemática de Herbert Copeland (1956) y a los influyentes trabajos de Roger Y. Stanier (1961-1962) y Robert H. Whittaker (1969).
+En el sistema de seis reinos, propuesto por Thomas Cavalier-Smith en 1983 y modificado en 1998, las bacterias son tratadas en un único reino (Bacteria) y los eucariotas se dividen en 5 reinos: protozoarios (Protozoa), animales (Animalia), hongos (Fungi), plantas (Plantae) y Chromista (algas cuyos cloroplastos contienen clorofilas a y c, así como otros organismos sin clorofila relacionados con ellas). La Nomenclatura de estos tres últimos reinos, clásico objeto de estudio de la botánica, está sujeta a las reglas y recomendaciones del Código Internacional de Nomenclatura Botánica.
+
+Divisiones de la botánica 
+Las plantas pueden estudiarse desde variados puntos de vista. Así, pueden diferenciarse distintas líneas de trabajo de acuerdo con los niveles de organización que se estudien: desde las moléculas y las células, pasando por los tejidos y los órganos, hasta los individuos, las poblaciones y las comunidades vegetales. Otras posibilidades se refieren al estudio de las plantas que vivieron en épocas geológicas pasadas o al de las que viven en la actualidad, al examen de los distintos grupos sistemáticos y a la investigación de cómo pueden ser utilizados los vegetales por el ser humano.
+
+Una de las metas más importantes para la botánica, es que junto a la biotecnología e ingeniería genética puedan llegar a crear vida. Y cruzar dicha frontera para los humanos.
+
+En general, todas esas direcciones de trabajo se basan en el análisis comparativo de los fenómenos particulares y de su variabilidad, para llegar a una generalización y al reconocimiento de las relaciones regulares que unen dichos fenómenos entre sí. Siempre deben asociarse los métodos estático y dinámico: por un lado el reconocimiento y la interpretación de las estructuras y formas y, por el otro, el análisis de los procesos vitales, de funciones y de fenómenos de desarrollo. El fin último de ambos métodos debe ser en todo caso la comprensión de las formas y de las funciones en su dependencia recíproca y en su evolución.
+
+Los distintos puntos de vista descritos y el empleo de diferentes métodos de trabajo han conducido a que dentro de la botánica se hayan desarrollado numerosas disciplinas. En primer lugar, se puede citar a la Morfología, la cual, en sentido amplio, es la teoría general de la estructura y forma de las plantas, e incluye la Citología y la Histología. La primera se ocupa del estudio de la fina constitución de las células y se asocia, en los aspectos relacionados con las moléculas, con algunas partes de la Biología Molecular. La Histología es el estudio de los tejidos de las plantas. Citología e Histología, conjuntamente, son necesarias para comprender la Anatomía de las plantas, o sea, su constitución interna.
+
+Al ocuparse de los procesos de adaptación, la morfología se relaciona con la ecología, disciplina que investiga las relaciones entre la planta y su ambiente. Tales relaciones están basadas en los estudios de la fisiología vegetal, que se ocupa —de modo general— del estudio del modo en que se realizan las funciones de la planta en los campos del metabolismo, del cambio de forma (que incluye el crecimiento y desarrollo de la planta) y de los movimientos. La reproducción de las plantas y el modo en que se heredan y cambian los caracteres a través de las generaciones es el campo de la Genética.
+
+La botánica sistemática trata de averiguar las afinidades que existen entre los diversos tipos de plantas, basándose en los resultados de todas las disciplinas mencionadas previamente, entre las que, al lado de la morfología, son importantes la citología, la anatomía, el estudio de las esporas y del polen (Palinología), el estudio de la generación sexual y del embrión (Embriología), las sustancias producidas y contenidas en las plantas (fitoquímica), la Genética y la Geobotánica. Como parte de la sistemática, se encuentra principalmente la taxonomía, que se ocupa de la descripción, nomenclatura y ordenación de las especies de plantas existentes, las cuales sobrepasan el número de 330 000. A ella se añade el estudio de la historia evolutiva de las plantas (Filogenia), que se apoya especialmente en la Paleobotánica, el estudio de las plantas que vivieron en otras eras geológicas y en la evolución, que ilustra sobre las leyes y las causas que rigen la formación de las estirpes vegetales.
+
+Finalmente, dentro de la botánica existen ramas de estudio que se ocupan de modo especial de grupos particulares de organismos, como la Microbiología (que estudia los microorganismos en general, incluyendo muchos de los que se consideran organismos vegetales), la Bacteriología (que se ocupa de las bacterias), la Micología (que estudia los hongos), la Ficología (que estudia las algas), la Liquenología (estudio de los líquenes), la Briología (estudio de los briófitos: los musgos y las hepáticas), la Pteridología (estudio de los helechos).
+También existen distintas disciplinas aplicadas, que estudian el valor práctico de las plantas para los seres humanos y con ello establecen el enlace con la Agricultura, la Silvicultura y la Farmacia, entre otras. Como ejemplo de estas disciplinas se pueden mencionar el Mejoramiento Genético de Plantas —o fitomejoramiento— (estudia la variabilidad genética y la selección de plantas), la Fitopatología (se ocupa de las enfermedades de las plantas y de los métodos de control de las mismas), la Farmacognosia (estudia las plantas medicinales y sus principios activos).
+
+Historia
+
+La botánica moderna (desde 1945)
+
+Significado de la botánica como ciencia 
+Los distintos grupos de vegetales participan de manera fundamental en los ciclos de la biosfera. Plantas y algas son los productores primarios, responsables de la captación de energía solar de la que depende la mayoría de la vida terrestre, de la creación de materia orgánica y también, como subproducto, de la generación del oxígeno que inunda la atmósfera y justifica que casi todos los organismos saquen ventaja del metabolismo aerobio.
+
+Alimentación humana 
+Casi todo lo que comemos proviene de las plantas, ya sea consumiéndolas directamente (frutas, verduras hortalizas), como indirectamente a través del ganado que se alimenta con plantas que componen el forrajeras. Por lo tanto, las plantas son la base de toda la cadena alimentaria, o lo que los ecólogos llaman el primer nivel trófico. El estudio de las plantas y las técnicas de mejoramiento para producir alimentos son claves para ser capaces de alimentar al mundo y proporcionar una seguridad alimentaria para las generaciones futuras. No obstante, como todas las plantas no son beneficiosas para este fin, la botánica también estudia las especies consideradas nocivas para la agricultura. También estudia los patógenos (fitopatología) que afectan al reino vegetal y la interacción de los humanos con este reino (etnobotánica).
+
+Procesos biológicos fundamentales 
+Las plantas son susceptibles de ser estudiadas en sus procesos fundamentales (como la división celular y síntesis proteica por ejemplo), pero sin los problemas éticos que supone estudiar animales o seres humanos. Las leyes de la herencia fueron descubiertas de esta manera por Gregor Mendel, que estudió cómo se hereda la morfología del guisante. Las leyes descubiertas por Mendel a partir del estudio de plantas han conocido desarrollos posteriores, y se han aplicado sobre las propias plantas para conseguir nuevas variedades beneficiosas. Otro estudio clásico efectuado en plantas fue el realizado por Bárbara McClintock, quien descubrió los 'genes saltarines' (o transposones) estudiando el maíz. Son ejemplos que muestran cómo la botánica ha tenido una importancia capital para el entendimiento de los procesos biológicos fundamentales.
+
+Aplicaciones de las plantas 
+Muchas de nuestras medicinas y drogas, como el cannabis, vienen directamente del reino vegetal. Otros productos medicinales se derivan de sustancias de origen vegetal; así, la aspirina es un derivado del ácido salicílico, que originalmente se obtenía de la corteza de sauce. La investigación sobre productos farmacéuticamente útiles en las plantas es un campo activo de trabajo que rinde buenos resultados. Estimulantes populares como el café (por su contenido en cafeína), el chocolate, el tabaco (por la nicotina), y el té tienen origen vegetal. Muchas bebidas alcohólicas derivan de la fermentación de plantas como la cebada, el maíz y la uva.
+
+Las plantas también nos proveen de muchos materiales, como el algodón, la madera, el papel, el lino, el aceite vegetal, algunos tipos de cuerdas y plásticos. La producción de seda no sería posible sin el cultivo de los árboles de morera. La caña de azúcar y otras plantas han sido recientemente usadas como biomasa para producir una energía renovable alternativa al combustible fósil.
+
+Entendimiento de cambios ambientales 
+Las plantas también pueden ayudar al entendimiento de los cambios del medio ambiente de muchas formas.
+
+ Entendimiento de la destrucción de hábitat y de especies en extinción depende de un catálogo completo y exacto de plantas, de la sistemática y taxonomía.
+ Respuesta de las plantas a radiación ultravioleta puede monitorear problemas como los agujeros en la capa de ozono.
+ El análisis de polen depositado por plantas en miles de millones de años atrás puede ayudar a los científicos a reconstruir los climas del pasado y pronosticar el futuro, una parte esencial de investigaciones sobre cambios climáticos.
+ Recopilar y analizar el tiempo del ciclo de vida es importante para la fenología usado para la investigación de cambios climáticos.
+ Líquenes, sensibles a las condiciones atmosféricas, tienen un uso extensivo como indicadores de contaminación.
+ Las plantas pueden servir como ‘sensores’, una especie de “señales tempranas de aviso” que den la alerta sobre cambios importantes en el ambiente.
+ Por último, las plantas son sumamente valoradas en el aspecto recreativo para millones de personas que disfrutan de su uso en la jardinería, la horticultura y el arte culinario.
+
+Disciplinas
+
+Subdisciplinas de la botánica
+
+Disciplinas relacionadas
+
+Métodos de la botánica
+
+Herbario 
+
+Un herbario (del latín herbarium) es una colección de plantas o partes de plantas, preservadas, casi siempre a través de la desecación, procesadas para su conservación, e identificadas, y acompañadas de información importante, como nombre científico y nombre común, utilidad, características de la planta en vivo y del sitio de muestreo, así como la ubicación del punto donde se colectó. Estas plantas se conservan indefinidamente, y constituyen un banco de información que representa la flora o vegetación de una región determinada en un espacio reducido. Estos especímenes se usan con frecuencia como material de referencia para definir el taxón de una planta; pues contienen los holotipos para estas plantas. El tipo nomenclatural o, simplemente, tipo es un ejemplar de una dada especie sobre el que se ha realizado la descripción de la misma y que, de ese modo, valida la publicación de un nombre científico basado en él.
+
+El tipo del nombre de una especie es por lo general el espécimen de herbario (o pliego de herbario) a partir del cual se ha perfilado la descripción que valida el nombre. El tipo del nombre de un género es la especie sobre la cual se basó la descripción original que validaba el nombre. El tipo del nombre de una familia es el género sobre el cual fue basada la descripción original válida. En los nombres de taxones de rango superior al de familia no se aplica el principio de tipificación.
+
+Jardín botánico 
+
+Los jardines botánicos (del latín hortus botanicus) son instituciones habilitadas por un organismo público, privado o asociativo (en ocasiones la gestión es mixta) cuyo objetivo es el estudio, la conservación y divulgación de la diversidad vegetal. Se caracterizan por exhibir colecciones científicas de plantas vivas, que se cultivan para conseguir alguno de estos objetivos: su conservación, investigación, divulgación y enseñanza.
+
+En los jardines botánicos se exponen plantas originarias de todo el mundo, generalmente con el objetivo de fomentar el interés de los visitantes hacia el mundo vegetal, aunque algunos de estos jardines se dedican, exclusivamente, a determinadas plantas y a especies concretas.
+
+Código Internacional de Nomenclatura para algas, hongos y plantas
+
+Véase también
+
+Referencias
+
+Bibliografía
+
+Libros académicos y científicos sobre botánica 
+En inglés:
+ Buchanan, B.B., Gruissem, W. & Jones, R.L. (2000) Biochemistry & Molecular Biology of Plants. American Society of Plant Physiologists ISBN 81-88237-11-6.
+ Crawford, R. M. M. (1989). Studies in Plant Survival. Blackwell. ISBN 0-632-01475-X
+ Crawley, M. J. (1997). Plant Ecology. Blackwell Scientific. ISBN 0-632-03639-7.
+ Ennos, R. y Sheffield, E. Plant Life, Blackwell Science, ISBN Introduction to plant biodiversity
+ Fitter, A. & Hay, R. Environmental Physiology of Plants 3rd edition Sept 2001 Harcourt Publishers, Academic Press ISBN
+ Lawlor, D.W. (2000) Photosynthesis BIOS ISBN
+ Matthews, R. E. F. Fundamentals of Plant Virology Academic Press,1992.
+ Mauseth, J.D.: Botany: An Introduction to Plant Biology. Jones and Bartlett Publishers, ISBN - A first year undergraduate level textbook
+ Raven, P.H., Evert R.H. and Eichhorn, S.E.: Biology of Plants, Freeman. ISBN - A first year undergraduate level textbook
+ Richards, P. W. (1996). The Tropical Rainforest. 2nd ed. C.U.P. (Pbk) ISBN £32,50
+ Ridge, I. (2002) Plants Oxford University Press
+ Salisbury, FB and Ross, CW: Plant Physiology Wadsworth publishing company ISBN
+ Stace, C. A. A new flora of the British Isles. 2nd ed. C.U.P.,1997. ISBN
+ Strange, R. L. Introduction to Plant Pathology. Wiley-VCH, 2003. ISBN
+ Taiz, L. & Zeiger, E. (1998). Plant Physiology. 3rd ed. August 2002 Sinauer Associates. ISBN
+ Walter, H. (1985). Vegetation of the Earth. 3rd rev. ed. Springer.
+ Willis, K. (2002) The Evolution of Plants Oxford University Press ISBN £22-99
+
+En español:
+ Cárdenas Miranda, Arturo (2007) Planeta vegetal,Organismos primarios de vida. ISBN
+ Sitte, P., Weiler, E.W., Kadereit, J.W., Bresinsky, A., Körner, C. (2004). Strasburger - Tratado de Botánica. 35.ª Edición. Ediciones Omega. Barcelona. Traducido del alemán por Fortés Fortés, M.J. ISBN 84-282-1353-4
+
+Enlaces externos 
+
+ Lecciones hipertextuales de botánica de la Universidad de Hamburgo. Versión original *.
+ Glosario español-inglés-latín de nombres de plantas.
+ Glosario inglés-español de términos de botánica.
+ Sociedad Botánica de Venezuela
+ Anales del Jardín Botánico de Madrid, revista editada por el Real Jardín Botánico, del CSIC
+ Collectanea Botanica, revista editada por el Institut Botànic de Barcelona , del CSIC

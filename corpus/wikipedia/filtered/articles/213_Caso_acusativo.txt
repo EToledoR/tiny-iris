@@ -1,0 +1,59 @@
+El caso acusativo (griego clásico: αἰτιατική; griego moderno: αιτιατική; latín: Accusativus) es uno de los tipos más comunes de caso gramatical. Están en caso acusativo típicamente los nombres y pronombres que forman el núcleo del objeto directo de una frase; además este caso puede tener otros usos que ya varían mucho de una lengua a otra.
+
+El nombre “caso acusativo” (o “cuarto caso”) proviene del llamado por los primeros griegos causal. Apolonio Díscolo vio que el acusativo no era el caso de la causa, sino el caso del efecto. Los romanos, por falsa traducción, le dieron el nombre que aún sigue vigente.
+
+En el acusativo se suele ver la expresión de una relación inmediata entre el verbo y el objeto al que se refiere la acción verbal, siendo, por tanto, el caso por excelencia del complemento directo.
+
+Ejemplos en distintos idiomas
+
+Japonés
+En idioma japonés, el caso acusativo se marca con la partícula postpuesta "-(w)o" を ; aunque se transcribe como wo, normalmente se pronuncia [o], pero puede escucharse como [wo] en canciones o poemas, y tras palabra acabada en -n. Esta partícula identifica principalmente un objeto directo de los verbos transitivos:
+
+ ピザを食べる "piza-o taberu" (comer pizza)
+
+Latín 
+
+En latín se distinguen, entre otros, los siguientes empleos particulares del acusativo:
+ Acusativo complemento de nombre.
+ Acusativo exclamativo
+ Acusativo proléptico
+ Acusativo de cualificación
+ Acusativo de extensión
+ Acusativo de duración
+ Predicativo o adjunto
+ Acusativo de dirección
+ Doble acusativo
+ Acusativo neutro o adverbial
+ Acusativo griego (de relación o de parte)
+
+Polaco 
+El idioma polaco usa el caso acusativo. Ejemplos de sustantivos masculinos:
+ Odebrałem telefon - Tomé el teléfono (Nom. telefon)
+Ejemplos de sustantivos femeninos:
+ Wypiłem filiżankę herbaty - Bebí una taza de té (Nom. filiżanka)
+ Piłem herbatę - Estaba bebiendo el té (Nom. herbata)
+Ejemplos de sustantivos neutros:
+ Zjadłem jabłko - Me comí una manzana (Nom. jabłko)
+ Stracił oko - Perdió un ojo (Nom. oko)
+
+Esperanto 
+En esperanto, mientras que la pluralidad en un sustantivo es indicado por su terminación en -j (al igual que la -s en el Español), el acusativo se indica con la terminación -n; pero este es colocado luego del indicativo de pluralidad (en caso de utilizarse ambos en la misma palabra).
+El objeto directo puede aparecer al principio, medio o final de una oración, y eso en ningún modo modifica el sentido, el cual es indicado por el acusativo. Pero de hecho, los distintos órdenes de palabras pueden usarse para dar énfasis a la frase.
+
+Ejemplos:
+ Mi lavas la novajn tasojn. - Lavo las tazas nuevas.
+ La novan tason lavas mi. - La nueva taza lavo yo.
+ La novan tason mi lavas. - La nueva taza yo lavo.
+
+Ruso 
+En ruso, el acusativo es uno de los seis casos. Tiene la particularidad de que para un sustantivo masculino o neutro, si es animado (o sea, persona o animal, ya sea nombre propio o común), la forma acusativa coincide con el genitivo; acaba en а o я (pronunciado /ya/). En caso contrario, tiene la misma forma que el nominativo. Los sustantivos femeninos tienen en su mayoría la terminación у o ю (pronunciado / u / o /yu/). En ruso no existen los artículos, de ahí que la declinación se manifieste siempre en las terminaciones de los sustantivos y adjetivos. Todo se declina: los numerales, los nombres propios, incluso los nombres extranjeros se someten a las mismas reglas.
+
+Alemán 
+En alemán hay cuatro casos, siendo el acusativo el cuarto. Los nombres no se flexionan mucho, es decir que la mayoría no cambian sus terminaciones, como ocurre en latín o en ruso; son los artículos (definidos e indefinidos) los que indican el caso. De todos modos, solo es el artículo masculino el que cambia al poner el nombre en acusativo: nominativo der Hund, acusativo den Hund (el perro). El acusativo se usa como objeto directo (yo veo el perro: ich sehe den Hund) y después de determinadas preposiciones. El uso más importante es como respuesta a la pregunta wohin? hacia dónde: yo voy al zoo: ich gehe in den Zoo.
+
+Referencias
+
+Véase también 
+ Complemento directo
+
+Acusativo

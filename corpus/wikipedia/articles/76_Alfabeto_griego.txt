@@ -1,0 +1,107 @@
+El alfabeto griego (en griego clásico, τὰ Ἑλληνικὰ ɣράμματα [tà Hĕllēniká grámmata]; en griego moderno, το Eλληνικό αλφάβητο [to Ellinikó alfávito]; en latín, Alphabetum Graecum) consta de veinticuatro letras utilizado para escribir la lengua griega. Desarrollado alrededor del , a partir del alfabeto consonántico fenicio, los griegos adoptaron el primer alfabeto completo de la historia, entendiéndolo como la escritura que expresa los sonidos individuales del idioma, es decir que prácticamente a cada vocal y cada consonante corresponde un símbolo distinto.
+
+Puesto que el alfabeto griego es el origen del abecedario latino y del alfabeto cirílico, toda la escritura europea proviene de este y comparten la forma de sus letras. Respecto al alfabeto latino, 14 de las 24 letras griegas son homóglifas en sus formas mayúsculas (11 con valor similar y 3 con distinto valor: Η, Ρ, Χ); de las 10 restantes 5 tienen equivalente latino pero una forma más angulosa: Γ, Δ, Λ, Π, Σ y otras 5 no existen en el alfabeto latino: Θ, Ξ, Φ, Ψ, Ω.
+
+Su uso continúa hasta nuestros días, tanto como alfabeto nativo del griego moderno como un modo de crear denominaciones técnicas para las ciencias, en especial la lógica, la matemática, la química, la física, la biología, la economía, la astronomía y la informática.
+
+Historia
+
+Antecedentes: lineal B 
+
+Entre los siglos y de la Edad del Bronce, antes de la existencia del alfabeto griego, la civilización micénica griega empleaba la escritura lineal B, que era un silabario utilizado en la isla de Creta y zonas de Grecia continental como Micenas o Pilos. Las epigrafías en lineal B están escritas en griego micénico, que parece una versión antecesora del griego arcado-chipriota. Debido a que el lineal B proviene de un silabario anterior llamado Lineal A, empleado para escribir el idioma minoico que era la lengua hablada en Creta antes de la invasión griega de la isla, no representa del todo correctamente la fonética del griego micénico. Con el colapso de la Edad del Bronce acabó esta civilización, y con ella su escritura, sumiendo Grecia en la Edad Oscura.
+
+Alfabetos griegos arcaicos 
+
+Se cree que el alfabeto griego deriva de una variante del fenicio, introducido en Grecia por mercaderes de esa nacionalidad. El fenicio, como los alfabetos semíticos posteriores, no empleaba signos para registrar las vocales; para salvar esta dificultad, que lo hacía incompleto para la transcripción de la lengua griega, los griegos adaptaron algunos signos utilizados en fenicio para indicar aspiración para representar las vocales. Este aporte puede considerarse fundamental; la inmensa mayoría de los alfabetos que incluyen signos vocálicos derivan de la aportación original griega. Además de las vocales, el griego añadió tres letras nuevas al final del alfabeto: fi y ji, para representar sonidos aspirados que no existían en fenicio, y psi.
+
+Originariamente existieron variantes del alfabeto griego, siendo las más importantes la occidental (calcídica) y la oriental (jónica). La variante occidental originó el alfabeto etrusco y de este procede el alfabeto romano. La escritura se realizaba a menudo de derecha a izquierda, que era como se hacía en su antecesor fenicio, y bustrofedon, que era la alternancia de líneas de izquierda a derecha y de derecha a izquierda, de manera que se empezaba por el lado donde se había concluido la línea anterior. Según la dirección en la que se escribiese, se invertían los caracteres en el proceso.
+
+Letras obsoletas y numeración 
+
+Las siguientes letras no forman parte del alfabeto griego común, pero estuvieron en uso en la época antigua (siglos y ) en algunos dialectos.
+
+Estas letras desaparecieron del alfabeto; la digamma, que adaptaba la wau fenicia, se utilizaba solo en algunos dialectos occidentales, y desapareció antes del período clásico; la san, homófona con la sigma, fue desplazada por esta última; la qoppa, una adaptación de la qop fenicia cuyo sonido —una explosiva uvular— no existía en el griego.
+
+En la región de Jonia se desarrolló un sistema de numeración en el que cada letra representaba un número. Las letras que dejaron de usarse en el alfabeto (digamma, san y qoppa) se conservaron en el sistema de numeración, y para completar la serie de las centenas se introdujo además la letra sampi. Estas letras se volvieron obsoletas mucho antes de que se desarrollara la forma minúscula de escritura; las formas minúsculas de digamma, qoppa, san y sampi son inferencias reconstructivas a partir de formas manuscritas en su uso para la numeración. Si bien responden a hipótesis muy robustas sobre el uso de la grafía, están solo parcialmente basadas en el uso histórico; para el valor numérico de digamma (6) era mucho más común escribir la combinación στ o la forma ligada Ϛ (llamada stigma).
+
+Las letras digamma, qoppa, y sampi permanecieron como signos exclusivos del sistema de numeración jónico, con los valores indicados en la tabla.
+
+Alfabeto griego clásico 
+Atenas adoptó en el año 403 a.C. la variante oriental, lo que dio lugar a que poco después desaparecieran las demás formas existentes del alfabeto. Ya para esta época el griego había adoptado la escritura de izquierda a derecha.
+
+Desarrollo post-helenístico 
+Tras la época clásica el alfabeto griego evoluciona de forma y se desarrollará la escritura uncial griega. La minúscula griega fue un estilo posterior que se usó como escritura libraria en manuscritos bizantinos desde los siglos y .
+
+Las diferencias entre las letras griegas mayúsculas y las minúsculas obedecen a los instrumentos con los que se escribían. Originalmente las mayúsculas se esculpían con cincel y martillo sobre piedra o mármol, quedando disparejos sus rasgos; los patines que rematan sus rasgos fueron una solución práctica y estética para este problema. Por su parte, las minúsculas surgieron de la escritura manuscrita, la cual se hacía con cálamos (plumas) o pinceles, de ahí sus trazos y adornos.
+
+Letras 
+Los sonidos corresponden a la pronunciación del griego antiguo, indicada con los signos usados por el Alfabeto Fonético Internacional; bajo el epígrafe mod. Los valores numéricos corresponden al sistema de numeración jónico. Nótese que el nombre de la letra en castellano no necesariamente corresponde con el sonido que tenía la letra en griego antiguo, algo de esperar debido a la evolución independiente que las dos lenguas han tenido a lo largo de su historia.
+
+Consonantes
+
+Alófonos y dígrafos 
+
+ Ya que Β, Γ y Δ representan los fonemas [v], [ɣ] y [ð]; para representar los fonemas [b], [g] y [d] se utilizan los dígrafos ΜΠ ([mb] en posición media), ΓΚ ([ŋg] en posición media) y ΝΤ ([nd] en posición media), respectivamente.
+ [ʝ], [c] y [ç] son considerados alófonos de [ɣ], [k] y [x], respectivamente, ante vocales anteriores (es decir, [e] y [i]).
+ Dígrafos: ΓΓ [ŋg] (si este dígrafo precede a los fonemas [e] o [i], adopta el sonido [ɲʝ]), ΡΡ [r], ΤΣ [ʦ] y ΤΖ [ʣ].
+
+Vocales 
+
+El fenómeno por el que un alto número de sonidos tienden en griego moderno al fonema se denomina iotacismo. Dicha evolución ya se había completado en griego bizantino.
+
+Los diptongos de vocales largas e [i] (ᾱι, ηι, ωι) se transformaron en monoptongos (/aː/, /ɛː/, /ɔː/) y fueron escritos como ᾳ, ῃ, ῳ.
+
+Mayúsculas y minúsculas 
+
+Al igual que el latín y otras escrituras alfabéticas, el griego originalmente solo tenía una forma única de cada letra, sin distinción entre mayúsculas y minúsculas. Esta distinción es una innovación de la era moderna, que se basa en diferentes líneas de desarrollo de las formas de las letras en la escritura anterior.
+
+Las formas más antiguas de las letras son las versiones mayúsculas. Además de las formas de inscripción verticales y rectas (capiteles) que se encuentran en tallas de piedra o cerámica incisa, también se desarrollaron durante la antigüedad estilos de escritura más fluidos adaptados para la escritura a mano en materiales blandos. Esta escritura se ha conservado especialmente de los manuscritos en papiro en Egipto desde el período helenístico. La escritura antigua desarrolló dos estilos distintos: escritura uncial, con letras mayúsculas redondeadas cuidadosamente dibujadas de aproximadamente el mismo tamaño, utilizada para manuscritos literarios y religiosos cuidadosamente producidos, y escritura cursiva, utilizada para fines cotidianos. Las formas cursivas se acercaron al estilo de las letras minúsculas, con ascendentes y descendentes, así como muchas líneas de conexión y ligaduras entre letras.
+
+En los siglos y , las manecillas unciales de los libros fueron reemplazadas por un estilo de escritura nuevo y más compacto, con formas de letras adaptadas en parte de la cursiva anterior. Este estilo en minúscula siguió siendo la forma dominante del griego escrito a mano en la era moderna. Durante el Renacimiento, los impresores occidentales adoptaron las formas de letras minúsculas, mientras modelaban letras mayúsculas en las formas de inscripción antiguas. La práctica ortográfica de utilizar la distinción entre mayúsculas y minúsculas para marcar nombres propios, títulos, etc., se desarrolló en paralelo a la práctica en latín y otros idiomas occidentales.
+
+Alfabeto griego en física y matemáticas 
+Es común la utilización del alfabeto griego en física y matemáticas, tanto como constantes, signos y operaciones:
+ 
+ 
+ 
+
+Si bien es un alfabeto griego simplificado, es aconsejable conocer la correcta tipografía y el reconocimiento de este alfabeto.
+
+Así como el tamaño relativo de cada letra y su posición respecto al renglón:
+
+En mayo de 2021, la Organización Mundial de la Salud anunció que las variantes del virus SARS-CoV-2 se nombrarían usando letras del alfabeto griego. La finalidad de esta decisión buscó evitar el estigma y simplificar las comunicaciones para audiencias no científicas.
+
+Codificación digital 
+Durante los primeros años de escritura con computadora era difícil escribir el alfabeto griego. Hoy en día los sistemas más usados son: el juego de caracteres ISO-8859-7, que solo permite escribir griego monotónico (adecuado para el griego moderno), y el sistema Unicode, que permite escribir griego politónico (adecuado para el griego antiguo y moderno). Hay dos rangos de caracteres Unicode para el alfabeto griego: Griego y copto (U+0370 a U+03FF) y Griego extendido (U+1F00 a U+1FFF).
+
+Véase también 
+ Alfabeto
+ Idioma griego
+ Romanización del griego
+ Sistema monotónico
+ Sistema politónico
+ Transliteración del griego
+
+Referencias
+
+Bibliografía 
+ 
+ 
+ 
+ 
+ Diccionario de la lengua española (2014), 23.ª ed. Real Academia Española (RAE), et al. dle.rae.es
+
+Enlaces externos 
+
+ Cómo escribir griego clásico con ordenador La página más completa con información para saber cómo escribir griego antiguo con ordenador.
+ Escribir griego, latín y otras lenguas indoeuropeas.
+ Tablas Unicode de caracteres Griego y copto y Griego extendido en formato.pdf.
+ 
+ Tecleador griego
+ Escribir con letras griegas
+
+ 
+Idioma griego
+Sistemas de escritura con norma ISO 15924
+Literatura del siglo IX a. C.
+Grecia en el siglo IX a. C.

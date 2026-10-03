@@ -1,0 +1,70 @@
+El amperio, ampere o ampère (símbolo A) es la unidad de intensidad de corriente eléctrica. Forma parte de las unidades básicas en el sistema internacional de unidades y recibió ese nombre en honor al matemático y físico francés André-Marie Ampère (1775-1836).
+
+Se define al fijar el valor numérico de la carga elemental, , en , cuando se expresa en la unidad C, igual a A·s, donde el segundo se define en función de ΔνCs. El efecto de esta definición es que el amperio es la corriente eléctrica correspondiente al flujo de = cargas elementales por segundo.
+
+Esta definición se adoptó el 16 de noviembre de 2018 en la 26ª Conferencia General de Pesas y Medidas acordándose su entrada en vigor el 20 de mayo de 2019.
+
+El amperio y el culombio se relacionan mediante: Si bien el amperio es unidad básica y el culombio no lo es, en la práctica, la actual definición de amperio depende de la de culombio.
+
+Definiciones históricas 
+
+Desde mediados del , con el desarrollo del electromagnetismo y la electrotecnia, comenzó a usarse el amperio como unidad de corriente eléctrica. La definición y cuantificación no era uniforme, sino que cada país desarrolló sus propios estándares. El primer estándar internacional que definió el amperio, así como otras unidades eléctricas, fue establecido en el Congreso Eléctrico Internacional de Chicago en 1893, y confirmada en la Conferencia Internacional de Londres de 1908. El "amperio internacional" se definió en términos de la corriente eléctrica que provoca la deposición electrolítica de la plata de una solución de nitrato de plata a un promedio de 0.001118 g/s.
+Su valor, expresado en términos del amperio absoluto, equivalía a 0,99985 A.
+
+La unidad de carga eléctrica, el culombio, se deriva del amperio: un culombio es la cantidad de carga eléctrica desplazada por una corriente de un amperio fluyendo durante un segundo.
+Por tanto, la corriente eléctrica (I), puede expresarse como el promedio de carga (Q) que fluye por unidad de tiempo (t):
+
+Aunque conceptualmente parecería más lógico tomar la carga como unidad básica, se optó por la corriente porque, por razones operativas, resultaba más fácil de medir experimentalmente. Así se llegó a la anterior definición de amperio, la establecida en la 9ª Conferencia General de Pesas y Medidas de 1948, de la siguiente manera: Un amperio es la corriente constante que, mantenida en dos conductores rectos paralelos de longitud infinita, de sección circular despreciable, y colocados a un metro de distancia en el vacío, produciría entre estos conductores una fuerza igual a 2 x 10–7 newton por metro de longitud.
+
+El proceso de redefinición que condujo a la definición de amperio adoptada en el año 2018 fue iniciado formalmente en el 2010 cuando el Comité del BIPM propuso sustituir las definiciones entonces vigentes de varias unidades del sistema internacional, por otras basadas en constantes de la naturaleza, como la constante de Planck, la de Boltzmann, la carga elemental y el número de Avogadro.
+
+Valor de la permeabilidad del vacío 
+
+De la definición de amperio de 1948 se seguía un valor exacto para la permeabilidad magnética del vacío. La fuerza ejercida sobre dos conductores paralelos rectilíneos por los que circula una intensidad de corriente viene dada por la ley de Biot-Savart:
+
+donde:
+ es la fuerza, que es de atracción cuando el sentido de la corriente es el mismo,
+ es la longitud de conductores considerada,
+ es la permeabilidad magnética del vacío,
+ es la intensidad de corriente eléctrica que circula por los conductores,
+ es la distancia entre los conductores,
+
+Despejando de la anterior ecuación se tiene que:
+
+era el valor exacto para la permeabilidad del vacío.
+Además, dado que la permitividad y la impedancia característica del vacío están relacionadas con la permeabilidad y la velocidad de la luz en el vacío se obtenían otros valores definidos exactos:
+ La permitividad del vacío 
+ la impedancia característica del vacío 
+donde es la velocidad de la luz en el vacío.
+
+Con la definición de amperio del año 2018 esas tres magnitudes: permeabilidad magnética, permitividad e impedancia característica ya no tienen valores exactos definidos en el Sistema Internacional de Unidades y han de ser objeto de determinación experimental.
+
+Múltiplos del amperio 
+
+A continuación se muestra una tabla de los múltiplos y submúltiplos del amperio conforme a la nomenclatura del Sistema Internacional de Unidades:
+
+Véase también 
+
+ Corriente eléctrica.
+ Amperímetro.
+ Carga eléctrica.
+ Resistencia eléctrica.
+ Ley de Ohm.
+ Ohmio.
+ Voltio.
+ Voltaje.
+ Vatio.
+
+Notas
+
+Referencias
+
+Enlaces externos 
+
+ Bureau International des Poids et Mesures .
+ La Referencia de la NIST en Constantes, Unidades, e Incertidumbre .
+ Una corta historia de las unidades SI en la electricidad .
+
+Unidades básicas del Sistema Internacional
+Unidades de electromagnetismo
+Unidades epónimas

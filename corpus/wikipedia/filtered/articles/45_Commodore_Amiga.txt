@@ -1,0 +1,119 @@
+El Commodore Amiga fue un ordenador personal comercializado por Commodore International entre 1985 y 1994. Fue diseñado por Jay Glenn Miner y un reducido equipo de ingenieros pertenecientes a la empresa Didbit ubicada en Santa Clara, California. Su módico precio de entrada y sus capacidades multimedia, mucho más avanzadas que los compatibles PC y Macintosh de la época, le confirió mayor popularidad entre los amantes de los videojuegos. Su sistema operativo tiene una particularidad excepcional para la informática de la época, consistente en ser el primer ordenador multitarea y multimedia orientado al gran público.
+
+Historia 
+
+El desarrollo del Amiga, comenzó en 1982 con Jay Miner, (desarrollador del conjunto de chips del Atari 800), como diseñador principal de hardware de Amiga Corporation. Inicialmente fue pensado como una consola de juegos de la siguiente generación, aunque finalmente fue rediseñado como un ordenador de propósito general después de la crisis del videojuego de 1983. Un prototipo del modelo completo de ordenador, fue expuesto al público por primera vez en el verano de 1984 en la feria ≪Consumer Electronics Show≫. Con la finalidad de plasmar el diseño del ordenador al mercado, Commodore International compró a Amiga Corporation, y financió el desarrollo del ordenador. El primer modelo fue lanzado en 1985 simplemente como ≪The Amiga from Commodore≫, aunque posteriormente fue designado como ≪Amiga 1000≫. El siguiente año la línea de productos Amiga fue ampliada mediante la introducción de dos nuevos modelos, el ≪Amiga 2000≫ destinado a uso profesional y de altos gráficos, y el ≪Amiga 500≫ dirigido al uso en hogar. Commodore lanzó posteriormente otros modelos, tanto para el uso doméstico de juegos como para productividad de gama alta.
+
+En 1994 Commodore se declaró en bancarrota y sus activos fueron adquiridos por ≪Escom≫ fabricante de PC de origen Alemán, el cual creó la subsidiaria ≪Amiga Technologies≫, los cuales relanzaron los modelos A1200 y A4000T, además de crear una nueva versión 68060 del modelo A4000T. Sin embargo Escom también se declaró en bancarrota en el año 1997. La marca Amiga fue vendida entonces a otro fabricante de PC, Gateway 2000, el cual tenía grandes planes para Amiga; sin embargo en el 2000 Gateway vendió la marca Amiga sin haber lanzado ningún producto. El actual propietario de la marca Amiga tiene los derechos para vender hardware usando el nombre Amiga o AmigaOne a los vendedores de ordenadores Commodore de Estados Unidos, Eyetech Group, Ltd. y A-Eon Technology CVBA. Los clones no-oficiales del AmigaOne eran desarrollados por Acube, compañía italiana de hardware.
+
+Hardware 
+
+La idea básica con la que fue diseñado el Amiga fue la de hacer que cada tarea (sonido, gráficos, periféricos, etc.) estuviera descentralizada, teniendo un chip específico para cada una, con un procesador central, el Motorola 68000, que coordinara a todos estos chips dedicados diseñados especialmente (custom chips, en inglés).
+
+Distinguimos tres familias de ordenadores Amiga agrupándolas según su conjunto de chips (chipset):
+
+ OCS: Original Chip Set (chipset original);
+ ECS: Enhaced Chip Set (chipset mejorado);
+ AGA: Advanced Graphic Architecture (arquitectura gráfica avanzada).
+
+Cuando apareció en 1985 estaba muchos años por delante de los demás sistemas, usando ideas como compartición de IRQs, entrada/salida mapeada en memoria, multitarea real usando el sistema de multitarea apropiativa, etc. Aunque algunas de estas técnicas habían sido inventadas anteriormente, aún no habían sido realmente utilizadas en la práctica ni en un ordenador personal.
+
+Modelos y variantes
+
+Modelos de Amiga comercializados 
+
+Como en determinadas aplicaciones (renderizados, grandes interacciones, etc.) la potencia de cálculo se quedaba corta, aparecieron placas capaces de sustituir el procesador original del Amiga por otro más potente. Es lo que llamamos tarjetas aceleradoras. Surgieron una gran variedad de fabricantes y modelos abarcando básicamente toda la familia del MC68000 (desde el 68010 hasta el 68060, así como los modelos de microprocesadores Poco 603 y 604).
+
+Sistema operativo 
+El sistema operativo AmigaOS es sofisticado, combinando un GUI como el Macintosh con la flexibilidad de Unix.
+
+Al menos los siguientes sistemas operativos están disponibles para Amiga además del AmigaOS:
+ Amiga Unix System V R4 (también conocido como AMIX): distribuido con los A2000UX y A3000UX, venía en una cinta de streamer.
+ Mach.
+ GNU/Linux.
+ Linux m68k: para los procesadores de la familia 680x0. Cabe señalar que fue la primera implementación no x86 de Linux.
+ Linux PowerPC: existen varios proyectos, el más famoso es APUS (que proporciona un kernel nativo PPC para Amiga PowerUP).
+ NetBSD.
+ OpenBSD.
+ Minix 1.5.
+ pOS: sistema comercial creado por Pios para sustituir al AmigaOS. Fracasó estrepitosamente.
+ MorphOS: sistema comercial creado para aprovechar las aceleradoras PPC.
+
+Actualidad y futuro 
+
+Pese a que la comunidad de usuarios se ha ido reduciendo progresivamente debido al estancamiento de su tecnología (que no ha evolucionado en paralelo con la de los PC), existen muchos usuarios que siguen apostando por Amiga, por lo que sigue desarrollándose activamente hardware y software para la plataforma. Se espera que pronto aparezca un nuevo Amiga, aunque se lleva esperando desde hace años sin resultados tangibles. La nueva versión trataría de aprovechar las tecnologías actuales de los PC y dotarlos de un microprocesador de la familia PowerPC G3/G4/G5 o posterior y un sistema operativo eficiente, que no desperdicie los recursos del sistema.
+
+Software
+
+Emuladores 
+
+Otra vía de futuro que algunos usuarios ven es la emulación del Amiga en otras plataformas. Existen distintos emuladores de Amiga que se muestran a continuación:
+
+ Libres o gratuitos:
+ UAE: Acrónimo de Unix Amiga Emulator. Fue el primer emulador de Amiga.
+ WinUAE, BeUAE,...: UAE para Microsoft Windows, BeOS. Véase sitio web de UAE.
+ Fellow: Otro emulador para Windows.
+ Comerciales:
+ Amithlon: Producido por Haage And Partner. Corre sobre un mini núcleo Linux y es en la actualidad el más rápido que existe gracias a la tecnología de compilación JIT (Just In Time).
+ AmigaOSXL: También producido por Haage And Partner. Básicamente es una versión de UAE que corre sobre QNX. Es coetáneo de Amithlon y las diferencias con el anterior es que este sacrifica velocidad en pro de la compatibilidad con el chipset. También tiene la capacidad de poder ejecutar binarios x86 de QNX directamente desde el Workbench.
+ Amiga Forever: Comercializado por la casa Cloanto. Básicamente es el WinUAE con los ficheros de ROM introducidos mediante expreso permiso de Amiga, Inc. La última versión cuenta con tecnologías de compilación JIT, al igual que Amithlon.
+
+Sistemas operativos 
+
+Los siguientes sistemas operativos actuales son sucesores o presentan cierta compatibilidad con Amiga:
+ AmigaOS 4: sucesor oficial, comercial, para PowerPC.
+ AROS: opensource, para x86, ARM, m68k y PowerPC.
+ MorphOS: comercial, para PowerPC.
+ AmigaOS 4.1 Final Edition
+
+Hardware 
+En cuanto a los nuevos proyectos de hard relacionados con Amiga, encontramos:
+
+Ya descatalogados 
+
+ Phase5 BlizzardPPC (para Amiga 1200) y Phase5 CyberstormPPC (para Amiga 3000 y 4000) de 1997-2000 que permitían instalar una CPU PowerPC en Amiga Clásicos. En julio de 2007 salió una versión de AmigaOS 4.0 exclusivamente para máquinas con BlizzardPPC y CyberstormPPC, actualizado en febrero de 2008. Anteriormente salió el Morphos 1.4.5 para dichos productos
+
+ AmigaOne basado en los diseños de Teron de MAI, corre AmigaOS4.0 pero actualmente no se produce ya. Originalmente iba a ser fabricada por Escena para Eyetech pero debido a los retrasos se optó por las placas de referencia de MAI. Salieron 3 modelos entre 2002 y 2004, AmigaOne SE (Teron CX, con un PPC750 a 600Mhz y numerosos problemas), AmigaOne XE (Teron GX, con zócalo de CPU MegArray incompatible con Mac, habitualmente con un G3 a 800Mhz o un G4 a 800/933Mhz) y MicroA1 (mini Teron, con G3 PPC750FX o GX a 800Mhz). Corre AmigaOS 4.0 y 4.1.
+
+ Pegasos es una máquina fabricada por bplan GmbH y comercializada por Genesi. Salió en 2 versiones, Pegasos1 (con un 750cx/600Mhz y chipset ArticiaS de MAI), del cual a su vez salieron 3 versiones. La primera tenía problemas de DMA, y las dos siguientes los fueron corrigiendo con el chip llamado April. La última versión con el chip April2 era por fin muy estable) y Pegasos2 (con chipset de Marvell, soporte de memoria DDR y un G3/600Mhz o un G4/1Ghz, así como 2 Ethernets). Ambas placas corren LinuxPPC y MorphOS (un SO moderno compatible con AmigaOS3.x, WarpOS, PowerUP -y AmigaOS4 mediante un emulador de terceros-). Ya no se producen, se fabricaron entre 2002 y 2006. El Pegasos 2 (no así el Pegasos 1) soporta AmigaOS 4.1 desde 2009.
+
+ A-EON AmigaOne X1000, ordenador anunciado en enero de 2010, con CPU PowerPC doble núcleo y coprocesadores XMOS XCore. Se esperaba que se comercializara a partir de verano de 2010, pero tras varios retrasos su primer lote vio la luz en 2012. Cesó la producción en 2015 por la escasez de unidades de su CPU, pero se anunció un sustituto (aún no a la venta).
+
+ EFIKA 5K2 placa base comercializada por Genesi con CPU PPC Freescale 5200B, posterior a los Pegasos 2. Soporta, entre otros, MorphOS y Linux. Presentada en 2005, siguió a la venta en Directron, fabricante que consiguió reducir el precio hasta 99 Dólares.
+
+Actualmente a la venta 
+
+ Sam440ep placa base producida por la compañía italiana ACube Systems Srl que integra una CPU PPC AMCC 440EP. Dos versiones: "ep" con gráfica integrada ATI Radeon Mobility M9 y "ep-flex" sin gráfica integrada. Soporta AmigaOS 4.1, AROS, Linux y FreeBSD. Lanzada en 2007, continúa en fabricación en la actualidad (enero de 2012).
+ Sam 460ex: En abril de 2010 Acube anunció que una nueva placa base Sam460ex (con CPU más potente que la Sam440) estaría disponible a finales de septiembre de 2010, fue retrasado. En noviembre de 2010 estaba a la venta para el mercado industrial de equipos embebidos con Linux y en marzo de 2011 para el público en general con AmigaOS 4.1. No sustituye a la Sam440, aunque se sitúa por encima de la 440 por precio y prestaciones. Posteriormente Acube anunció una versión más asequible, la Sam460ex-Lite (prestaciones intermedias entre la 440ep-flex y la 460ex) y un ordenador completo basado en la Sam 460ex, el AmigaOne 500.
+
+ Minimig es una reimplementación libre de un A500 en un FPGA de Altera. La primera versión cuenta con un 68000 real de 3.3v, un PIC para cargar el programa del FPGA y también para leer tarjetas MMC. Requieren una imagen de la ROM de un A500 (ya sea 1.x,2.x,3.x) para funcionar.
+
+Anunciados 
+
+ AmigaOne X3500 y X5000, sucesores del X1000, anunciados en enero de 2014.
+
+ Otros proyectos fueron anunciados pero se cancelaron o retrasaron sine die. Por ejemplo los Elbox Shark PPC, concepto similar a las Phase5 BlizzardPPC y CyberstormPPC, tarjetas aceleradoras basada en microprocesador PowerPC, pero que en este caso se acopla en una ranura PCI, de aplicación para Amigas clásicos ampliados con una expansión PCI Elbox Mediator, Prometheus o similar. No hay noticias de este fabricante, era de suponer que en estas máquinas con esta expansión funcionara AmigaOS 4.0. Se prometió que saldría cuando el AmigaOS4.0 fuese sacado oficialmente el cual no ha visto la luz. También se canceló el Amiga netbook, computadora portátil anunciada por Hyperion en octubre de 2011.
+
+Amiga Inc 
+
+Por otro lado, los actuales dueños de Amiga, Amiga, Inc. han apostado por los productos AmigaDE/AmigaAnyware que no están relacionados con AmigaOS ni corren sobre ninguna de sus encarnaciones. Este sistema es el Amiga DE (Digital Environment) que utiliza una tecnología de abstracción a nivel de plataforma y procesador. Se utiliza tecnología Elate/intent de Tao Group y corre en equipos de sobremesa en GNU/Linux y también sobre WindowsCE. Es una especie de máquina virtual que permite correr el mismo programa sin recompilarlo.
+
+Véase también 
+
+ Listado de emuladores de Commodore Amiga
+ Emulación en la Amiga
+
+Referencias
+
+Enlaces externos 
+
+ AROS Amiga Research Operation System.
+ Página oficial de Amiga, Inc., donde se puede ver la evolución futura prevista del Amiga.
+ bplan GmbH, fabricante de Pegasos.
+ BBoAH, Big Book of Amiga Hardware.
+
+ 
+Computadoras de 32 bits
+Computadoras con CPU 68000
+Computadoras domésticas con procesadores de 16 bits
+Plataformas de la edad de oro del software español

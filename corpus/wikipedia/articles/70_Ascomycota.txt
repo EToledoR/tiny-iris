@@ -1,0 +1,94 @@
+Los ascomicetos (Ascomycota) son una división de hongos con micelio tabicado que producen ascosporas endógenas. Pueden ser unicelulares y talófitos. Han sido aislados de lugares extremos, desde dentro de rocas en la planicie helada de Antártica hasta las profundidades del mar. Existen en ambientes terrestres y acuáticos, en sustratos como la madera, materiales de queratina (uñas, plumas, cuernos y pelos), estiércol, suelo y alimento, entre otros. Incluye una gran diversidad de tipos de hongos, como las "falsas setas", las trufas, las "lenguas terrestres", entre otros que forman ascocarpos, la mayoría de los líquenes, algunos mohos de pan y frutas como Penicillium del cual se obtuvo la penicilina, las levaduras clásicas (Saccharomycetes) usadas en la fermentación de la cerveza y otros alimentos. Al igual que otros hongos, también incluye parásitos de animales y plantas, entre ellos se destacan los que causan las dermatofitosis o tiñas en los humanos como el pie de atleta.
+
+Es el grupo taxonómico más grande con 32,000 especies descritas en 3,400 géneros. Cabe mencionar que este tipo de hongos puede reproducirse de forma asexual por medio de unas esporas haploides llamadas conidios sin embargo el nombre del grupo proviene del griego (askos) que significa saco ya que estos organismos se caracterizan por desarrollar en su fase sexual unas estructuras llamadas ascas que son semejantes a una bolsa.
+
+Reproducción
+
+Reproducción asexual 
+
+La reproducción asexual se realiza mediante aplanosporas del tipo conidios, clamidosporas. Son los básicos; pueden encontrarse miembros que poseen tipos de esas esporas. La diferencia básica entre los tipos de esporas es: 
+
+Conidios: Ciertas hifas por división mitótica no simétrica (por mitosis no simétrica, de células hijas grandes y células hijas pequeñas). Se completa el estrangulamiento y se forma una primera espora, el contenido de esta esporas y por procedimiento igual se forma otra espora, como resultado tenemos hifas con gran cantidad de esporas. La célula distal mantiene su forma, luego las células que actúan esporas. El protoplasma resultante se estira y toma el tamaño original de la porción y forma nuevamente otra célula de esporas.
+
+Oidios: Cualquier hifa vegetativa (es fragmentada en cada septo), pueden originarse; sin previa transformación de las hifas, se forman los septos, se separan las hifas y cada pedazo de segmento actúa como una espora, pudiendo conservar en algunos casos la morfología que tenía y en otros redondean esta característica la posee la mayoría de los patógenos.
+
+Clamidospora: En hifas vegetativas, principalmente en la porción distal, el protoplasma de cada célula se contrae, se cubre con una pared gruesa, y cuando las paredes maternas se desintegran, ellas salen al exterior.
+
+Reproducción sexual
+
+Morfogénesis de las ascas (Ascogénesis) 
+En términos generales el inicio de su fase sexual comienza con el reconocimiento y diferenciación sexual de sus hifas. Una vez realizado esto las hifas especializadas llevan a cabo la plasmogamia que consiste en fusionar sus citoplasmas permitiendo que los dos núcleos haploides se encuentren compartimentalizados en un mismo citoplasma (dicarionte). Posteriormente se realiza la cariogamia que consiste en la fusión de esos dos núcleos haploides convirtiéndose en un solo núcleo diploide. El último paso es la meiosis en donde ocurre entrecruzamiento de material genético dando como resultado núcleos haploides que por medio de una esporogénesis forman las esporas haploides de origen sexual llamadas ascosporas. 
+
+Dentro de la división Ascomycota se pueden encontrar algunos organismos homotálicos, en los que cualquier órgano sexual masculino es compatible con cualquier órgano sexual femenino de la misma especie; mientras que la mayor parte del grupo son heterotálicos, es decir, poseen dos tipos reproductivos, a los que se les designa como (A1) Y (A2), para que los órganos sexuales lleven a cabo la copulación, deben estar presentes dos micelios opuestos, donde los ascogonios y anteridios no provengan de un mismo micelio.
+
+La plasmogamia de Ascomycota se lleva a cabo mediante diferentes mecanismos como: contacto gametangial donde los gametangios entran en contacto a partir de un tricógino y  presentan un de puente para dar paso al flujo de núcleos; copulación gametangial, que se caracteriza por dar paso a la plasmogamia a partir de la fusión de gametos; espermatización: que es la unión de un espermacio a una estructura receptora o somatogamia que está caracterizada por la fusión de hifas somáticas; sin embargo, predomina el contacto gametangial en este grupo. 
+
+En levaduras y algunos hongos, las ascas se originan directamente de una célula; sin embargo, en la mayoría de ascomycetes se desarrolla a partir de hifas especializadas como la hifa ascógena que frecuentemente es multinucleada. El desarrollo de las ascas inicia con la división de ambos tipos de núcleo (masculino y femenino) contenidos en la hifa ascógena y simultáneamente se forma un  doblez que va de la punta de la hifa hacia el tallo, generando una estructura similar a un “gancho”. Posteriormente se forman dos septos que separan los núcleos y los distribuyen dejando la célula terminal uninucleada y a la penúltima binucleada (núcleo masculino y femenino) y conforme la punta del gancho se va fusionando al tallo, y la penúltima célula n+n (dicarionte) comienza a alargarse y a la par, se fusionan sus núcleos (cariogamia) y pasa ser diploide (2n). Se divide mediante meiosis y genera cuatro meiosporas (originadas a partir de meiosis) haploides y se dividen nuevamente por mitosis hasta que finalmente se obtienen ocho ascosporas.
+
+Cabe destacar que las ascas en formación tienen un sistema de doble membrana continua con el retículo endoplásmico (RE), de manera que cada núcleo y una porción de citoplasma serán rodeados por una doble membrana, una vez que esto ocurre se forma la pared primaria de la ascospora y luego las otras capas de la pared. Por otra parte, se ha visto que los septos que se encargan de distribuir la carga genética en el asca, son distintos a los cuerpos de Woronin y son estructuras muy especializadas que bloquean los poros del septo en la base del asca. Es probable que esta especialización de los septos permita una presión de turgencia más elevada respecto a las células adyacentes, favoreciendo así la libración de las esporas.
+
+Tipos de ascas 
+
+Como ya mencionamos las ascosporas son el resultado de la meiosis la cual se lleva a cabo dentro de las ascas (o ascos) que a partir de estudios de microscopía han podido diferenciarse en: protunicadas, unitunicadas y bitunicadas. Estos tipos de ascas varían en función de sus paredes y su mecanismo de liberación de esporas:
+ Ascas protunicadas: únicamente presentan una pared y su mecanismo de dehiscencia depende del rompimiento de esa capa de frágil naturaleza.
+ Ascas unitunicadas: presentan una pared y su mecanismo de dehiscencias está regulado por un orificio en la región apical llamada opérculo.
+ Ascas bitunicadas: presentan dos paredes, una de ellas sale para expulsar las ascosporas.
+
+Estructuras de reproducción sexual (Tipos de ascoma) 
+
+Las ascas a su vez se generan dentro de cuerpos fructíferos llamados ascocarpos los cuales pueden ser de seis tipos: cleistotecio, peritecio, apotecio, ascostroma uni- o multilocular, gimnotecio y casmotecio. Algunos autores definen a otras variantes de ascocarpos como  el histerotecio refiriéndose a un pseudotecio ascolocular alargado de los ascomycetes liquenizados y el tiriotecio que es parecido al peritecio pero más aplastado.
+
+El cleistotecio es una estructura totalmente cerrada en donde las ascas (que encierras las ascosporas) se encuentran distribuidas al azar. Son de pared delgada y evanescente. Para que las ascas sean liberadas la pared del ascocarpo debe romperse o desintegrarse. Un ejemplo de esto lo podemos observar en Coprotiella Venezuelensis o en Eurotium rubrum.
+
+En el caso del peritecio encontramos que las ascas están organizadas en fascículos que forman un himenio. Generalmente este tipo de ascocarpo tiene forma de pera o botella y posee un ostiolo o poro en la parte apical por donde se liberan las ascosporas. Ejemplos de esto lo tenemos en los Laboulbeniales.
+
+En el apotecio se puede observar que tiene forma de copa y en la madurez expone al himenóforo donde se encuentras las ascas. Un ejemplo de esta estructura la encontramos en  Pezizales como Helvella brevis u Otidea grandis, en Helotiales como Mollisia undulato-depressula o en Sordariales como Lasiosphaeria hispida.
+
+Por otro lado en el ascostroma unilocular o pseudotecio encontramos que las ascas se forman inmersas en lóculos y su pared es solamente de estroma. En Pleospora herbarum podemos encontrar esta estructura.
+
+Por su parte el gimnotecio es un tipo de ascocarpo formado por ascas rodeadas de hifas entrelazadas. Hay especies patógenas para el ser humano que pueden desarrollar esta forma como es el caso del hongo dimórfico Ajellomyces dermatitidis  (Blastomyces dermatitidis, estado asexual) que genera blastomicosis.
+
+Y finalmente el casmotecio que es una estructura totalmente cerrada en donde las ascas se organizan en una forma basal de manera que todas se encuentran a la misma altura y son liberadas por la rotura de la pared. Ejemplos de este tipo de ascocarpo lo podemos observar en Podosphaera fusca.
+
+Todas estas estructuras además de contener a las ascas también pueden verse asociadas con un elemento denominado hamatecio que puede distinguirse entre paráfisis (hifas alargadas que se originan en la base los apotecios y peritecios), perífisis (hifas cortas no ramificadas que encontramos dentro de peritecios) y pseudoparáfisis (hifas que se originan por encima de las ascas de un ascostroma). En algunos casos podemos encontrar ascas desnudas como en el moho Eremascus fertilis.
+
+El tipo de ascas, el arreglo que presentan así como su relación de estas con estructuras estériles de un ascocarpo (hamatecio) son algunos criterios de importancia taxonómica para la clasificación de este grupo de hongos.
+
+Filogenia 
+El análisis genético ribosómico revela las siguientes relaciones para las subdivisiones y clases de ascomicetos:
+
+Taxonomía
+
+Ecología 
+Los ascomicetos desarrollan una función central en la mayoría de los ecosistemas terrestres. Se ocupan de la descomposición de materiales orgánicos, como hojas muertas, tallos, árboles caídos, etc. y ayudan a los animales detritívoros que viven de la materia orgánica a obtener sus nutrientes. Procesan materias como la celulosa y la lignina, que son difíciles de explotar, por todo esto juegan un papel muy importante en los ciclos naturales del nitrógeno y del carbono.
+
+Los cuerpos fructíferos o ascocarpos proveen alimento a un conjunto diverso de animales, como insectos, babosas, caracoles hasta roedores y mamíferos grandes como el ciervo y el chancho salvaje.
+
+Los hongos ascomicetos son conocidos también por sus relaciones simbióticas con otros organismos.
+
+Líquenes 
+
+Probablemente desde muy temprano los ascomicetos “domesticaron” a las algas Chlorophyta o algas verdes, como así también a otros tipos de algas y a cianobacterias. Juntos forman relaciones mutualistas conocidas como líquenes, que subsisten en regiones sumamente inhóspitas de la tierra, incluyendo el ártico, los desiertos y cimas de altas montañas y pueden aguantar temperaturas extremas entre -40 °C a +80 °C. Mientras el socio fotoautótrofo, el alga, crea energía metabólica por medio de la fotosíntesis, el hongo ofrece un soporte y protege contra la radiación y la deshidratación. Alrededor del 42% de los ascomicetos (aproximadamente 18.000 especies) forman líquenes y la gran mayoría de los hongos que forman líquenes pertenecen a este grupo. La proporción de basidiomicetes es del dos o cuatro por ciento.
+
+Micorrizas y hongos endófitos 
+
+Los ascomicetos forman dos importantes tipos de relaciones con las plantas: las micorrizas y los endófitos. Las micorrizas son asociaciones simbióticas del hongo con el sistema de raíces de las plantas; el hongo realiza la absorción de sales y minerales del suelo en forma mucho más eficiente que las raíces de la planta. Por su parte la planta proporciona los productos de fotosíntesis al hongo. En el caso de muchas especies, como la mayoría de las coníferas y muchas otras plantas, esta asociación es de vital importancia. Incluso, en ciertos casos el hongo transporta nutrientes de una planta a otra contribuyendo a la robustez del ecosistema. Es posible que las micorrizas hayan existido desde muy temprano en el proceso de la invasión de los ambientes terrestres por las plantas. Hay evidencia de que los fósiles de plantas terrestres más antiguos ya presentaban micorrizas.
+
+Los endófitos viven dentro de las plantas, especialmente en los tallos y hojas, pero generalmente no dañan al hospedador. Aún no se conoce bien la naturaleza exacta de esta relación pero parece que esta asociación confiere una mayor resistencia contra los insectos, los nemátodos y las bacterias; también es posible que contribuya a la producción de alcaloides tóxicos usados por las plantas en su defensa contra los herbívoros.
+
+Relaciones simbióticas con animales 
+Una serie de especies de ascomicetos del género Xylaria se encuentran en los nidos de hormigas cortadoras de hojas de Sudamérica y otras hormigas de la tribu Attini que cultivan hongos y también en los cultivos de hongos de las termitas (Isoptera). Estos hongos recién forman ascocarpos después que los insectos se han ido así que se piensa que se trata de hongos cultivados por ellos por comparación con lo que ocurre en varios casos de asociaciones con Basidiomycota.
+
+Los escarabajos de la corteza, de la familia Scolytidae, son simbiontes importantes de ascomicetes. Las hembras transportan las esporas a la nueva planta hospedante en sacos, llamado micetangios, bajo la quitina. Carcomen túneles dentro de la madera y hacen cámaras o celdillas que usan para poner sus huevos. Cuando depositan los huevos también dejan esporas de las cuales crecen las hifas que pueden efectuar la descomposición de la madera. Cuando nacen las larvas se alimentan de los hongos. Después de la metamorfosis acarrean esporas con las que pueden infectar a otros árboles. Un ejemplo bien conocido de esto es la grafiosis, causada por el hongo Ophiostoma ulmi, transmitido por el escarabajo de la corteza de los olmos Scolytus multistriatus
+
+Orden Endomicetales 
+Son las levaduras. Sacaromicetáceos. No producen hifas. Se encargan de algunas fermentaciones (ver: Louis Pasteur), algunas especies viven de forma anaerobia: Saccharomyces cerevisiae y Saccharomyces ellipsoideus; convirtiendo los azúcares en alcohol etílico y dióxido de carbono. La reproducción es asexual por gemación, durante la formación de yemas el núcleo sufre división y unos de los núcleos hijos pasa a la nueva yema. Saccharomyces cerevisiae es heterotálico con cepas + y -, luego se da plasmogamia (fusión del citoplasma) seguida de la cariogamia (fusión de núcleos), después la célula diploide (2n) se convierta en asca y después de sufrir meiosis se forman cuatro ascosporas, solo existe gemación diploide y haploide en Saccharomyces cerevisiae.
+
+Clase Euascomycetes 
+Producen esporocarpos. La primera fase ocurre con plasmogamia pero al no sufrir cariogamia, su carga genética queda “n+n” (binucleadas). Ocurre mitosis y luego se da la cariogamia. Las hifas son septadas (con divisiones) regularmente, hay presencia de quitina, existe además un poro central que interconecta las hifas unas con otras.
+
+Referencias 
+
+http://sysbio.oxfordjournals.org/content/58/2/224.short Oxford Journals
+
+Enlaces externos

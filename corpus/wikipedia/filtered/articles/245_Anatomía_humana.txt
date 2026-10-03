@@ -1,0 +1,130 @@
+La anatomía humana es una rama de la biología humana que se dedica al estudio de la forma y estructura del cuerpo humano y las relaciones que existen entre las diferentes partes que lo componen. El tėrmino procede del griego ana que significa arriba y tomos que significa cortar. La anatomía permite entender la organización básica del cuerpo humano y los principios de funcionamiento de sus estructuras. Se relaciona con otras ciencias afines como la histología que estudia los tejidos, y la fisiología humana que estudia la función.
+
+Niveles de organización 
+El cuerpo humano se organiza en grados de complejidad creciente que reciben el nombre de niveles de organización. En orden ascendente de lo microscópico a lo macroscópico son los siguientes: 
+ Nivel químico o molecular. El cuerpo humano está formado por átomos que se agrupan para formar moléculas. Varias moléculas pueden unirse para dar lugar a compuestos más grandes y complejos que se llaman macromoléculas.
+ Nivel celular. Diferentes moléculas dan lugar a las células que son las unidades vivas más pequeñas del cuerpo.
+ Nivel tisular. Un conjunto de células especializadas en una función se agrupan para formar un tejido, por ejemplo el tejido muscular.
+ Nivel orgánico. Los órganos son estructuras formadas por tejidos que realizan una función determinada. Por ejemplo el corazón está formado por tejido muscular y tiene la función de bombear la sangre hacia los diferentes vasos sanguíneos.
+ Nivel de aparatos y sistemas. Varios órganos que participan en la realización de una función determinada dan lugar a las aparatos y sistemas. Por ejemplo el corazón y los vasos sanguíneos forman el aparato circulatorio.
+ Nivel de organismo. El conjunto de los aparatos y sistemas funcionando de forma coordinada da lugar al organismo humano.
+
+Ramas y divisiones de la anatomía 
+
+Dependiendo del punto de vista que se utilice, la anatomía humana se puede dividir en diferentes partes:
+ Anatomía sistemática o anatomía descriptiva. Estudia el organismo humano por sistemas y aparatos, describiendo su forma y características. La clásica distinción entre sistemas y aparatos ha perdido vigencia en las últimas décadas y en la actualidad la mayor parte de los textos no hacen distinción entre ambos. En anatomía un sistema es un conjunto de órganos que comparten la misma función, por ejemplo sistema respiratorio o sistema circulatorio. La neuroanatomía es la parte de la anatomía sistemática que estudia el sistema nervioso en forma extensiva. 
+ Anatomía topográfica, también llamada anatomía quirúrgica o anatomia regional. Es la rama de la anatomía que estudia las relaciones que guardan entre sí los órganos y las estructuras situadas en una región determinada del organismo. Por lo tanto describe el cuerpo por regiones en las cuales pueden existir partes que pertenecen a diferentes sistemas. Por ejemplo, si se estudia el tórax, se describen todas sus estructuras y la localización de cada una de ellas en relación con el resto, incluyendo corazón, pulmón, cavidad pleural, pericardio, vasos sanguíneos, músculos, huesos y nervios periféricos. En anatomía topográfica cuando se describe un área se suele hacer desde la parte más superficial a la más profunda, por lo cual en una región típica del miembro inferior o superior existiría un primer plano formado por la piel, a continuación el tejido celular subcutáneo seguido de una aponeurosis superficial. Más en profundidad encontraremos uno o dos planos musculares y en el límite más profundo una estructura ósea formada por un hueso. Es preciso tener en cuenta que esta descripción es de tipo general y existen numerosas variaciones dependiendo del área concreta a considerar.
+ 
+ Anatomía de superficie. Es el estudio de las estructuras anatómicas que se pueden observar desde el exterior del organismo. Incluye asimismo la determinación de una serie de puntos de referencia en la superficie que corresponden a la proyección de estructuras situadas en profundidad.
+ Anatomía artística: trata de las cuestiones anatómicas que afectan directamente a la representación artística de la figura humana. Comprender la morfología y la estructura del cuerpo humano es esencial para su representación. 
+Anatomía clínica. Pone énfasis en el estudio de la estructura y la función en relación con situaciones de enfermedad. 
+ Anatomía radiológica. Estudia la forma de las distintas regiones del organismo humano a través de las imágenes obtenidas en diferentes pruebas médicas, entre ellas radiografías simples, tomografía axial computarizada y resonancia magnética nuclear.
+ Anatomía funcional. Estudia la relación entre la forma de los órganos pertenecientes a los diferentes sistemas con la función que realizan, por lo que se relaciona con la fisiología.
+Anatomía comparada. Estudia las semejanzas y diferencias entre las estructuras morfológicas de organismos pertenecientes a diferentes especies.
+
+Posición anatómica 
+
+Es una posición unificada que se utiliza como referencia en las descripciones anatómicas. La persona está de pie con el rostro dirigido hacia delante, las piernas deben estar juntas, los pies apoyados sobre el suelo, los brazos pegados al cuerpo y extendidos con las palmas de las manos giradas hacia delante. Sobre está posición se utilizan varios términos para indicar la situación de una estructura, región u órgano:
+ Proximal y distal.
+ Medial y lateral.
+ Anterior (ventral) y posterior (dorsal).
+ Superior (craneal) e inferior (caudal).
+ Superficial y profundo.
+
+Términos de relación 
+
+ Flexión - extensión.
+ Pronación - supinación.
+ Abducción - aducción.
+ Rotación interna - rotación externa.
+ Oposición- reposición. La oposición permite el contacto del pulgar con la yema de los demás dedos, la reposición es el movimiento inverso.
+ Protrusión - retrusión. Protrusión es el movimiento hacia delante del maxilar inferior y retrusión hacia atrás.
+
+Planos anatómicos 
+
+Los planos corporales son superficies imaginarias que dividen el cuerpo en secciones. Sirven para facilitar la descripción y localización de las diferentes estructuras anatómicas.
+ Plano sagital. Divide el cuerpo en un lado derecho y otro izquierdo.
+ Plano frontal o coronal. Divide el cuerpo en una porción anterior y otra posterior.
+ Plano transversal o axial. Divide el cuerpo en una porción superior y otra inferior.
+
+Sistemas y aparatos del cuerpo humano 
+
+Un sistema es un grupo de órganos formados predominantemente por los mismos tipos de tejidos que realizan una función coordinada. Un aparato es un grupo de órganos que desempeñan una función común, los órganos que forman el aparato tienen diferente origen embriológico. En la actualidad esta diferenciación ha perdido vigencia y la mayor parte de los textos de anatomía y fisiología usan de forma indistinta los dos términos.
+ Sistema inmunológico. Proporciona la capacidad para que el cuerpo distinga sus propias células y tejidos de las células de los agentes externos. Destruye las bacterias y virus patógenos mediante varios mecanismos, entre ellos el sistema del complemento, los anticuerpos y diferentes tipos de células, entre ellas los linfocitos, localizadas principalmente en médula ósea, timo, bazo, ganglios linfáticos y tejido linfoide asociado a las mucosas (MALT).
+ Sistema tegumentario: Comprende la piel, pelo, uñas y glándulas sudoríparas. Actúa como una barrera entre el ambiente externo y el ambiente interno que sirve para proteger el cuerpo, mantener el equilibrio hídrico y regular la temperatura corporal. Contiene numerosos receptores sensoriales. 
+ Sistema nervioso: Su función es la recogida, transferencia y procesado de información, así como la emisión de impulsos motores que alcanzan los músculos y provocan el movimiento. Está formado por el sistema nervioso central (encéfalo y médula espinal) y el sistema nervioso periférico que comprende los nervios sensitivos y motores de todo el cuerpo.
+ Sistema endocrino. Está formado por un conjunto de glándulas que producen hormonas. Las hormonas son mensajeros químicos liberados por células, que alcanzan el torrente sanguíneo para regular a distancia diferentes funciones corporales, entre ellas la velocidad de crecimiento, la actividad de los tejidos, el metabolismo, el desarrollo y funcionamiento de los órganos sexuales. Las principales glándulas endocrinas son: hipófisis, tiroides, glándulas suprarrenales, páncreas, ovario y testículos. Algunas hormonas son producidas por células secretoras que se encuentran en órganos que no son glándulas endocrinas, por ejemplo el riñón que produce eritropoyetina.
+ Sistema circulatorio, también llamado sistema cardiovascular o aparato circulatorio. Está formado por el corazón, los vasos sanguíneos (venas, arterias y capilares) y los vasos linfáticos. Las dos arterias principales son la arteria aorta que se subdivide en numerosas ramas y lleva sangre oxigenada o todo el organismo, y la arteria pulmonar que lleva sangre desoxigenada hasta el pulmón.
+ Aparato locomotor: conjunto de los sistemas esquelético y muscular. Estos sistemas coordinados por el sistema nervioso permiten el movimiento. 
+ Sistema muscular. Está formado por el conjunto de músculos voluntarios. Tiene por función lograr el movimiento del cuerpo. El conjunto de todos los músculos esqueléticos corresponde al 40% del peso de un adulto medio.
+ Sistema óseo. Está formado por los huesos, articulaciones y ligamentos asociados que en conjunto forman el esqueleto humano. Tiene las funciones de apoyo estructural, protección y asistencia en el movimiento. Además juega un papel importante en el mantenimiento de los niveles de calcio y fósforo en sangre y en la producción de las células que forman la sangre (hematopoyesis). El conjunto de los huesos representa por término medio el 18% del peso total de un adulto. El esqueleto de un adulto está formado por 206 huesos, 8 en el cráneo, 3 en cada oído, 14 en la cara, el hueso hioides situado en el cuello, 26 en la columna vertebral, 25 en el tórax (24 costillas y esternón), 4 en la cintura escapular (2 escápula y 2 clavículas), 30 en cada miembro superior, 2 en la cintura pélvica ( 2 coxales resultado cada uno de la fusión de ilion, isquion y pubis) y 30 en cada miembro inferior.
+ Aparato digestivo: Está formado por la boca, faringe, esófago, estómago, intestino delgado, intestino grueso y glándulas anexas que incluyen el hígado y el páncreas. Transforma mecánica y químicamente los alimentos y los convierte en moléculas asimilables mediante las enzimas, para poder absorberlas a través de la pared del intestino.
+ Aparato excretor o sistema urinario. Su función es la eliminación de sustancias tóxicas y desechos del cuerpo mediante la orina. Está formado por los riñones, uréteres, vejiga urinaria y uretra.
+ Aparato reproductor masculino. Está formado por los testículos, próstata, conducto deferente, uretra y pene.
+ Aparato reproductor femenino. Formado por ovarios, trompa de Falopio, útero, vagina y vulva.
+ Aparato respiratorio o sistema respiratorio. Está formado por la nariz, faringe, laringe, tráquea, bronquios y pulmones. Su función es el transporte del aire atmosférico hasta los alveolos pulmonares donde se produce el intercambio de gases entre el aire y la sangre. La sangre capta el oxígeno y de desprende del dióxido de carbono. La rama de la medicina que estudia las enfermedades de los pulmones es la neumología, mientras que la otorrinolaringología se ocupa de las enfermedades de nariz, faringe, laringe y tráquea.
+
+Anatomía topográfica 
+
+Según un criterio topográfico, el cuerpo humano se estudia por regiones:
+ Cabeza. En la cabeza pueden distinguirse dos regiones que son el cráneo y la cara.
+ Cráneo. Es una estructura ósea que envuelve el encéfalo. Consta de neurocráneo o cavidad craneal y esqueleto facial. El neurocráneo está formado por ocho huesos: frontal, occipital, etmoides, esfenoides, dos temporales y dos parietales.
+ Cara. La forma de la cara está muy influida por los huesos que la configuran, principalmente el maxilar superior, el maxilar inferior, el hueso nasal y el hueso cigomático. En la cara se insertan los músculos de la mímica como el orbicular de los párpados y el buccinador, también los músculos de la masticación como el masetero, y aloja algunos de los órganos de los sentidos. Se distinguen diferentes estructuras, entre ellas párpado, ojo, nariz, boca, mejilla, labio y barbilla.
+ Cuello. Es el área de transición entre la cabeza y el tronco. A través del cuello pasan diferentes estructuras, entre ellas la laringe, tráquea, esófago, arteria carótida y vena yugular. En el cuello se encuentran también las glándulas tiroides y paratiroides. 
+ Tronco. El tronco queda dividido por el diafragma en una región superior que se llama tórax y una inferior que es el abdomen.
+ En el tórax se encuentra el corazón, los pulmones y los grandes vasos sanguíneos. 
+ En el abdomen se encuentran los órganos responsables de la digestión, incluyendo esófago, estómago, intestino delgado e intestino grueso. Asimismo contiene el hígado, páncreas, aparato urinario ( riñones y vejiga urinaria), y los aparatos reproductores, tanto masculino como femenino. En la parte inferior del abdomen se encuentra la pelvis.
+ Miembro superior. Se compone de cuatro segmentos: cintura escapular, brazo, antebrazo y mano. Tiene en total 32 huesos y 45 músculos. Las articulaciones principales son hombro, codo y muñeca. El riego sanguíneo procede de las arterias subclavias (derecha e izquierda), el retorno venoso tiene lugar a través de las venas subclavias.
+ Cintura escapular. En esta región se localizan los siguientes mŭsculos: músculo pectoral mayor, músculo pectoral menor,músculo subclavio, músculo serrato anterior, músculo supraespinoso, músculo infraespinoso, músculo redondo mayor, músculo redondo menor, músculo subescapular y músculo deltoides'.
+ Brazo. Dispone de dos músculos, el bíceps braquial y el tríceps braquial.
+ Antebrazo. Está región cuenta con 20 músculos diferentes, algunos son flexores de los dedos como el músculo flexor común profundo de los dedos de la mano y otros extensores, como el músculo extensor común de los dedos.
+ Mano. Se compone de carpo, metacarpo y falanges.
+ Miembro inferior. Se compone de cuatro segmentos: cintura pelviana, muslo, pierna y pie. Las articulaciones principales son cadera, articulación de la rodilla y tobillo. La sangre llega al miembro inferior a través de la arteria ilíaca externa, la circulación de retorno tiene lugar mediante la vena ilíaca externa.
+Cintura pelviana. En la región posterior o zona glútea se localizan los siguientes músculos, desde la zona superficial a la profunda: músculo glúteo mayor, músculo piriforme, músculo gémino superior, músculo obturador interno, músculo gémino inferior y músculo cuadrado crural.
+Muslo. En esta región se encuentra el cuádricep, los músculos aductores de la cadera y los isquiotibiales (bíceps femoral, músculo semitendinoso, músculo semimembranoso),
+Pierna. En la zona anterior el músculo tibial anterior y en la posterior el tríceps sural (gemelos).
+Pie. Se compone de tarso, metatarso y falanges.
+
+ Cavidades corporales 
+
+El organismo humano a pesar de su apariencia sólida, contiene diferentes espacios o cavidades, en las cuales se localizan muchos órganos internos. Las principales cavidades son:
+Cavidad dorsal. Se divide en cavidad craneal y cavidad vertebral.
+ Cavidad craneal. En su interior se encuentra el encéfalo.
+ Cavidad vertebral. Se encuentra situada en la columna vertebral y contiene la médula espinal.
+ Cavidad ventral. Corresponde a toda la región anterior del tronco. Contiene la cavidad torácica y la cavidad abdominopélvica.
+ Cavidad torácica. En este espacio se localiza el corazón y los pulmones.
+ Cavidad abdominopélvica. Esta situada por debajo de la cavidad torácica de la que está separada por el diafragma. Se divide en cavidad abdominal y cavidad pélvica.
+ Cavidad abdominal. Contiene numerosos órganos, entre ellos estómago, intestino delgado, intestino grueso, hígado, páncreas, bazo, riñón y glándulas suprarrenales.
+ Cavidad pélvica. Esta situada debajo de la cavidad abdominal. Contiene la vejiga urinaria, una porción del intestino grueso y varios órganos del sistema reproductor.
+
+ Historia de le anatomía 
+
+Mondino de Luzzi (1270-1326), fue un médico italiano bellako, considerado una figura clave que reintrodujo la enseñanza sistemática de la anatomía en los estudios de medicina, practicó disecciones y escribió en 1316 su Anathomia Mundini (Anatomía de Mondino) que circuló ampliamente de forma manuscrita, se imprimió en 1478 y fue el manual estándar para la enseñanza durante muchas generaciones, hasta la época de Andreas Vesalius. Su obra sigue las afirmaciones de Galeno y aunque a veces realizó descripciones inexactas de los órganos internos, dio inicio a un nuevo periodo en la ciencia anatómica. 
+
+Andreas Vesalius fue un médico del que está considerado el precursor de la anatomía moderna. Escribió un tratado basado en sus observaciones directas de las estructuras corporales, ampliamente ilustrado mediante grabados, que tituló De humani corporis fabrica (Sobre la estructura del cuerpo humano). Esta obra por su claridad y rigor expositivo está considerada el primer tratado moderno de anatomía y en ella se desvelan los errores que se habían transmitidos durante generaciones, partiendo de las afirmaciones no ajustadas a la realidad de Aristóteles, Galeno y Mondino de Luzzi. Vesalio basó su obra en la observación directa de los cadáveres, realizando el mismo las disecciones, lo que suponía una ruptura con la práctica entonces vigente de obtener los conocimientos a partir de los textos clásicos y no de la investigación directa. Otro gran anatomista, contemporáneo de Andreas Vesalius fue Bartolomeo Eustachio, autor de Tabulae anatomicae, Venecia, 1552. Una de las aportaciones de Eustachio fue la descripción del sistema auditivo, donde descubrió un canal de comunicación entre el oído medio y el cavum que en su honor recibe el nombre de trompa de Eustaquio.
+
+ Historia de la anatomía artística 
+
+ 
+
+Los descubrimientos de la anatomía humana está íntimamente ligado a la anatomía artística, ambas disciplinas discurren paralelas a la historia del desnudo en el arte. Praxíteles fue un escultor griego del que estudió las proporciones del cuerpo humano y estableció el llamado canon de Praxíteles, según el cual la altura de la figura humana ideal debe corresponder a ocho veces la longitud de la cabeza, de esta forma se orienta más hacia un canon de belleza ideal que a la representación exacta de las proporciones del cuerpo humano.
+
+Los griegos no tenían necesidad de diseccionar cadáveres para efectuar representaciones figurativas del cuerpo humano, sin embargo durante el Renacimiento, muchos artistas famosos estudiaron anatomía del natural e incluso practicaron ellos mismos disecciones para mejorar la representación del cuerpo humano, entre ellos Miguel Ángel, Rafael, Durero y Leonardo da Vinci.
+
+ Véase también 
+ Anatomía
+ Anatomía de Gray
+ La Terminología Anatómica Oficial
+ Lista de anatomistas
+
+ Referencias 
+ 
+ Bibliografía 
+ Maimone, Giuseppe, 1992: Anatomía artística, Edizioni Scientifiche Italiane.
+ Goldscheider, Ludwig, 1953: Michelangelo'', The Paidon Press, London.
+
+Enlaces externos 
+
+ Wikiproyecto:Anatomía Humana
+ anatomía humana
+ Anatomía Humana

@@ -1,0 +1,58 @@
+La astronomía infrarroja es el estudio de las fuentes astronómicas a partir de la radiación infrarroja que emiten. Para ello se utiliza la espectroscopía infrarroja.
+
+Aunque en general se denomina infrarroja a la radiación electromagnética de longitud de onda más larga que la de la luz visible (400-700nm) y más corta que la de la radiación de terahertzios (100-1000μm) o las microondas (1-1000mm), en astronomía suele considerarse como infrarrojo el rango entre 1 y 1000 micrómetros. Este rango se subdivide a su vez en 3 o 4 intervalos:
+
+Infrarrojo cercano de 1 a 5μm aproximadamente
+Infrarrojo medio de 5 a 25-40μm
+Infrarrojo lejano de 25-40 a 200-350μm
+Submilimétrico de 200-350μm a 1mm (que algunos incluyen en el rango de las radioondas)
+
+Esta subdivisión tiene su razón de ser en los diferentes fenómenos físicos que son observables en cada uno de estos rangos, así como en las distintas técnicas de observación y tecnología de detectores empleados en cada uno de ellos.
+
+La atmósfera terrestre absorbe la radiación procedente de fuentes astronómicas en casi todo el espectro infrarrojo (de 1 a 1000 μm), exceptuando unas cuantas ventanas de transmisión atmosférica en las que transmite parcialmente, y además emite intensamente en el infrarrojo, por lo que la observación en el infrarrojo desde tierra requiere de técnicas que permitan eliminar la contribución de la atmósfera. Por esta razón, los mayores telescopios de radiación infrarroja se construyen en la cima de montañas muy elevadas, se instalan en aeroplanos especiales de cota elevada, en globos, o mejor aún, en satélites de la órbita terrestre.
+
+Debido a que la radiación infrarroja es menos absorbida o desviada por el polvo cósmico que la radiación de longitud de onda más corta, se puede observar en infrarrojo regiones que quedan ocultas por el polvo en luz visible o ultravioleta. Entre las regiones que son más efectivamente estudiadas en el infrarrojo se cuentan el centro galáctico y las regiones de formación estelar.
+
+Las observaciones infrarrojas revelan los estados fríos de la materia
+
+Los objetos sólidos en el espacio —desde el tamaño de un grano de polvo interestelar, de menos de una micra, hasta los planetas gigantes— tienen temperaturas que van de 3 a 3000 kelvins (K). La mayoría de la energía irradiada por objetos en este rango de temperaturas se encuentra en el infrarrojo. Las observaciones infrarrojas son por lo tanto de particular importancia en el estudio de medios a baja temperatura, como son las nubes interestelares con mucho polvo, donde las estrellas se están formando, así como las superficies heladas de los satélites planetarios y los asteroides.
+
+Las observaciones infrarrojas exploran el universo oculto
+
+Los granos de polvo cósmico oscurecen partes del Universo, bloqueando la luz que llega de regiones críticas. Este polvo se vuelve transparente en el cercano infrarrojo, donde los observadores pueden estudiar regiones ópticamente invisibles como el centro de nuestra Galaxia (y de otras galaxias) y densas nubes donde las estrellas y los planetas están naciendo. Para muchos objetos, incluyendo las estrellas en regiones con mucho polvo, los núcleos galácticos activos e incluso galaxias enteras, la radiación visible absorbida por el polvo y re-emitida en el infrarrojo constituye la mayor parte de su luminosidad.
+
+Las observaciones infrarrojas proporcionan acceso a muchas líneas espectroscópicas
+
+Las bandas de emisión y absorción de virtualmente todas las moléculas y los sólidos se encuentran en el infrarrojo, donde pueden usarse para estudiar las condiciones físicas y químicas de ambientes relativamente fríos. Muchos átomos e iones tienen líneas espectrales en el infrarrojo, que pueden usarse para estudiar las atmósferas estelares y el gas interestelar, explorando regiones que son demasiado frías o con demasiado polvo para ser estudiadas en luz visible.
+
+Las observaciones infrarrojas estudian el universo joven
+
+El corrimiento al rojo cósmico, que resulta de la expansión general de Universo, desplaza la energía inexorablemente hacia longitudes de onda largas, siendo el corrimiento proporcional a la distancia del objeto. Debido a la velocidad finita de la luz, los objetos con un gran corrimiento al rojo se observan según eran cuando el Universo era mucho más joven. Como resultado de la expansión del Universo, la mayoría de la radiación óptica y ultravioleta emitida por las estrellas, las galaxias y los cuásares desde el principio de los tiempos, ahora se encuentran en el infrarrojo. Cómo y cuándo los primeros objetos del Universo se formaron será esclarecido en gran parte gracias a las observaciones infrarrojas.
+
+Observatorios espaciales
+
+Debido a que la transmisión de la atmósfera en el infrarrojo está limitada a algunas ventanas, e incluso en ellas, la transparencia depende de la cantidad de vapor de agua por la que tiene que pasar la luz, los telescopios para observar en el infrarrojo se deben ubicar en lugares secos y a gran altura.
+
+Entre los lugares donde estas condiciones se cumplen se cuenta Mauna Kea, en Hawái, Estados Unidos, donde existe gran cantidad de telescopios y Paranal en la región de Antofagasta, Chile, sitio del VLT, Very Large Telescope de la ESO, Observatorio Europeo Austral.
+
+Aún mejor es usar observatorios espaciales, que pueden ver en regiones en que la atmósfera terrestre es completamente opaca. Entre las misiones pasadas más importantes se encuentran el IRAS y el Observatorio Espacial Infrarrojo. Hoy por hoy destacan la cámara NICMOS en el Telescopio Espacial Hubble, el Telescopio Espacial Spitzer, lanzado en 2003, y el Telescopio Espacial James Webb. En los próximos años, está previsto lanzar el Observatorio Espacial Herschel, centrado en el estudio del infrarrojo.
+
+La mayor parte del artículo fue obtenido de https://web.archive.org/web/20030829072815/http://sirtf.caltech.edu/espanol/ciencia/porque.shtml, dominio público
+
+Véase también
+
+Algunos observatorios del espectro infrarrojo:
+
+Herschel
+IRAS
+ISO
+Spitzer
+James Webb
+ASTRO-F
+IRAS
+
+Enlaces externos
+
+http://sirtf.caltech.edu/espanol/edu/ir/ 
+
+Astronomía observacional

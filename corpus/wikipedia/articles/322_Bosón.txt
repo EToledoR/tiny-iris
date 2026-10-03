@@ -1,0 +1,65 @@
+En física de partículas, un bosón es uno de los dos tipos básicos de partículas elementales de la naturaleza (el otro tipo son los fermiones).
+
+La denominación «bosón» fue acuñada por Paul Dirac para conmemorar la contribución del físico indio Satyendra Nath Bose, junto con Einstein, en el desarrollo de la Estadística de Bose-Einstein la cual teoriza las características de las partículas elementales.
+
+Entre los ejemplos de bosones se incluyen partículas fundamentales como fotones, gluones, bosones W y Z (los cuatro bosones de gauge, portadores de fuerza del modelo estándar), el bosón de Higgs, y el gravitón de gravedad cuántica; partículas compuestas (por ej.: mesones y núcleos estables de número de masa par como el deuterio (con un protón y un neutrón, número másico = 2), helio-4 o plomo-208; y algunas cuasipartículas (pares de Cooper, plasmones, y fonones).
+
+Los bosones se caracterizan por:
+ Tienen un espín entero (0,1,2,...).
+ No cumplen el principio de exclusión de Pauli y siguen la estadística de Bose-Einstein. Esto hace que presenten un fenómeno llamado condensación de Bose-Einstein (el desarrollo de máseres y láseres fue posible puesto que los fotones de la luz son bosones).
+ La función de onda cuántica que describe sistemas de bosones es simétrica respecto al intercambio de partículas.
+
+Por el teorema espín-estadística sabemos que la segunda y tercera característica son consecuencia necesaria de la primera.
+
+Algunos bosones, aunque se comportan como bosones, de hecho están compuestos de otras partículas. Por ejemplo, los núcleos de átomos de helio, bajo ciertas condiciones, se comportan como bosones aun cuando están compuestos por cuatro fermiones que, a su vez, no son elementales cuando son examinados en experimentos de muy alta energía.
+
+Ejemplos de bosones
+
+Bosones compuestos 
+
+ El núcleo de deuterio, un isótopo del hidrógeno.
+ Núcleos de helio-4 o partículas alfa.
+ En definitiva, cualquier núcleo con espín entero.
+
+Bosones de gauge simples 
+Véase también Anexo:Tabla_de_partículas#Bosones
+
+Todas las partículas elementales observadas son bosones (con espín entero) o fermiones (con espín medio entero impar). Mientras que las partículas elementales que componen la materia ordinaria (leptones y quarks) son fermiones, los bosones elementales ocupan un papel especial en la física de partículas. Actúan como portadores de fuerza que dan lugar a fuerzas entre otras partículas, o en un caso dan lugar al fenómeno de masa.
+
+Según el Modelo Estándar de Física de Partículas hay cinco bosones elementales:
+ Un bosón escalar (espín=0) 
+H0 Bosón de Higgs – la partícula que da lugar al fenómeno de masa a través del mecanismo de Higgs
+ Cuatro bosones vectoriales (espín=1) que actúan como portadores de fuerza. Estos son los bosones de gauge:
+γ   Fotones – el portador de fuerza del campo electromagnético
+g   Gluones (ocho tipos diferentes): portadores de fuerza que median en la fuerza fuerte
+Z   Bosón débil neutral – el portador de fuerza que media la fuerza débil
+W±   Bosones débiles cargados (dos tipos): también portadores de fuerza que median en la fuerza débil
+
+Un bosón tensor (espín=2) llamado gravitón (G) ha sido planteado como el portador de fuerza para la gravedad, pero hasta ahora todos los intentos de incorporar la gravedad en el modelo estándar han fallado.
+Otros
+ Fonones.
+ Bosón X.
+
+Discusión 
+Todas las partículas elementales son bosones o fermiones, dependiendo de si su espín es entero o semientero. En física de altas energías y de partículas se dice que los bosones son los mediadores de fuerza o partículas portadoras de las interacciones fundamentales, puesto que los campos eléctromagnético, electrodébil, fuerte y presumiblemente el gravitatorio están asociados a partículas de espín entero. De hecho, la descripción cuántica de las interacciones fundamentales mencionadas consiste en el intercambio de una partícula que será siempre un bosón virtual. Así la interacción de dichos bosones virtuales con fermiones reales es lo que da lugar a dichas interacciones o fuerzas fundamentales. El alcance de dicha interacción en general viene dado por la masa de la partícula intercambiada.
+
+A los bosones involucrados en dichas interacciones se les denomina bosones gauge. Estos son los bosones W y Z para la interacción débil, los gluones para la interacción fuerte, los fotones para la interacción electromagnética y el hipotético gravitón para la interacción gravitatoria.
+
+Las partículas compuestas por otras partículas, como los protones, los neutrones o los núcleos atómicos, pueden ser bosones o fermiones dependiendo de su espín total. De ahí que muchos núcleos sean, de hecho, bosones. Basta que el número de fermiones que componga esa partícula sea par para que el sistema compuesto sea un bosón. Así, la mayoría de los elementos tiene isótopos que serán fermiones, es el caso del helio-3, o bosones, como el helio-4. El deuterio es también bosón; sin embargo, sus vecinos protio y tritio son fermiones.
+
+Mientras que los fermiones están obligados a cumplir el principio de exclusión de Pauli: "no puede haber más de una partícula ocupando un mismo estado cuántico", no existe dicha exclusión para los bosones, ellos pueden ocupar estados cuánticos idénticos.
+El resultado de esto es que el espectro de un gas de fotones a cierta temperatura de equilibrio posee un espectro de Planck (ejemplos de ello son la radiación del cuerpo negro o la radiación del fondo cósmico de microondas, testigo que nos remonta al universo temprano). El trabajo con láseres, las propiedades de superfluido del helio-4 y la reciente formación del condensado de Bose-Einstein son todos consecuencia de la estadística de los bosones.
+
+Las diferencias entre las estadísticas bosónica y fermiónica es solo apreciable en grandes densidades, cuando las funciones de onda se superponen. A bajas densidades, ambos tipos de estadísticas se aproximan a la estadística de Maxwell-Boltzmann, donde ambos tipos de partículas se comportan clásicamente.
+
+Notas
+
+Referencias
+
+Enlaces externos 
+
+ 
+Teoría cuántica de campos
+Física atómica
+Física del estado sólido
+Epónimos relacionados con la física

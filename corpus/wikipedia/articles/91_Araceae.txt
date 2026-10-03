@@ -1,0 +1,98 @@
+Las aráceas (nombre científico Araceae) son una familia de plantas monocotiledóneas herbáceas que comprende unos 104 géneros y más de 3000 especies, fáciles de distinguir por su inflorescencia característica. Entre las aráceas se encuentran los conocidos aros (Anthurium), las calas (Zantedeschia) y los filodendros (Philodendron). Hoy en día también están anidadas en las aráceas las lentejas de agua (Lemna y afines), tradicionalmente lemnáceas y aquí subfamilia Lemnoideae. Las aráceas no lemnóideas son el grupo aroide, las aráceas tradicionales. La familia es utilizada por sistemas de clasificación modernos como el sistema de clasificación APG III (2009) y el APWeb (2001 en adelante).
+
+Son plantas monocotiledóneas herbáceas, a veces arborescentes o como lianas (salvo en Lemnoideae, donde el cuerpo vegetativo es reducido y globoso a taloide). Hojas simples, enteras o lobuladas, en ocasiones fenestradas (con el limbo agujereado), a menudo grandes. La flor es en realidad la inflorescencia, las flores son pequeñas, con perianto nulo o con 4-8 piezas escamosas. Inflorescencias en espádice (espiga de eje carnoso, rodeada por una espata, que es la que suele ser confundida con el "pétalo" de la flor). Frutos en baya. 
+
+Esta familia es más diversa en las zonas tropicales del Nuevo Mundo, aunque también están distribuidas por el Viejo Mundo, en zonas cálidas.
+
+Descripción 
+Introducción teórica en Terminología descriptiva de las plantas
+
+Hierbas terrestres a acuáticas, o enredaderas con raíces aéreas, epífitas, o acuáticas flotantes, las últimas muchas veces muy reducidas con un cuerpo vegetativo más o menos taloide. Tallos muchas veces rizomatosos, o cormos, o tuberosos. 
+
+Cristales de rafidio ondulados de oxalato de calcio presentes en células especializadas, y con químicos asociados que causan irritación en boca y garganta si son ingeridos. Compuestos cianogénicos muchas veces presentes, y a veces con alcaloides. Muchas veces con laticíferos, canales de mucílago, o canales de resina, y látex acuoso o lechoso. 
+
+Las raíces son muchas veces micorrícicas, sin pelos radicales.
+
+Pelos simples, pero muchas veces faltan.
+
+Hojas alternas y espirales o dísticas, bifaciales, a veces basales, usualmente simples, la lámina muchas veces bien desarrollada, a veces fuertemente lobada, pinada o palmada compuesta o fenestrada, usualmente entera, con venación paralela, penni-paralela, o reticulada, envainadora en la base. Sin estípulas, pero pelos glandulares o pequeñas escamas a veces presentes en el nodo dentro de la vaina de la hoja.
+
+Inflorescencias indeterminadas, usualmente terminales, formando una espiga de numerosas flores pequeñas empacadas dentro de un eje carnoso (un espádice), que puede ser estéril en el ápice, que usualmente tiene por debajo una gran bráctea como una hoja o un pétalo (una espata). La inflorescencia es reducida a 1-4 flores en un pequeño bolsillo en los taxones acuáticos flotantes (Lemnoideae).Amorphophallus titanum es única en tener una de las inflorescencias más conspicuas de entre las angiospermas, mientras que Wolffia (una Lemnoideae) es única en tener las flores más pequeñas.
+
+Flores pequeñas, bisexuales a unisexuales (plantas usualmente monoicas), radiales, sin brácteas individuales, sésiles, a veces olorosas. Normalmente se dispone las flores femeninas en forma proximal y las masculinas en forma distal en el espádice.
+
+Tépalos usualmente 4-6 en 2 verticilos (raramente 8) o ausentes, separados a conados basalmente, inconspicuos y muchas veces carnosos, valvados o imbricados. Hipanto ausente.
+
+Estambres 4, 6 u 8 (raramente 1-12), filamentos separados a conados, anteras a veces poricidas (abriéndose por poros), o de dehiscencia longitudinal o transversal, separadas a conadas. En flores bisexuales los estambres son antitépalos (las piezas están dispuestas en el mismo radio de los tépalos).
+
+Polen variado.
+
+Carpelos usualmente 3 (raramente 1-cerca de 50), conados, ovario usualmente súpero, usualmente tantos lóculos como carpelos, placentación variada. 1 estilo y 1 estigma, puntado o capitado, corto, o ausente. 
+
+Óvulos 1 a numerosos por carpelo, anátropos a ortótropos (usualmente anátropos y bitégmicos). 
+
+Sin nectarios.
+
+El fruto usualmente una baya (agrupadas en una infrutescencia), pero ocasionalmente utrícula, drupa, o como nuez. 
+
+Las semillas son oleosas (a veces también con almidón), endospermadas (el endosperma a veces faltante), con una cubierta seminal a veces carnosa.
+
+ Ecología 
+
+Cosmopolita, pero mejor representado en regiones tropicales y subtropicales, muy común en bosques tropicales y tierras húmedas.
+
+Las inflorescencias de Araceae son polinizadas por muchos grupos de insectos, especialmente escarabajos, moscas y abejas. La inflorescencia usualmente produce un fuerte olor y muchas veces también calor. El gineceo madura antes que el androceo, y cuando las flores son unisexuales, las flores femeninas maduran antes que las masculinas, facilitando la polinización cruzada.
+
+En Arisaema, las plantas pequeñas (generalmente jóvenes) son masculinas y las más grandes (de más edad) son femeninas, con lo que se facilita la polinización cruzada.
+
+La dispersión de las bayas verdes a brillantemente coloreadas es presumiblemente efectuada por pájaros o mamíferos. Los utrículos de Lemna y afines son dispersados por agua.
+
+ Filogenia Introducción teórica en Filogenia
+
+Unos pocos géneros de acuáticas flotantes muy reducidas, entre las que se incluyen Spirodela, Landoltia, Lemna, Wolffia, y Wolffiella, fueron alguna vez segregadas en la familia Lemnaceae (ver Cronquist 1981, Dahlgren et al. 1985, den Hartog 1975, Landolt 1980, 1986, Landolt y Kandeler 1987), pero ahora son vistas como aráceas altamente modificadas (French et al. 1995, Mayo et al. 1995, Stockey et al. 1997, Tam et al. 2004). En Lemna, Landoltia y Spirodela la espata está representada por una vaina membranosa, mientras que falta completamente en Wolffia y Wolfiella. 
+
+Si bien las secuencias de rbcL ubican a la aroidea acuática flotante mucho más grande Pistia, en Aroideae, no está cercanamente emparentada con Lemna y demás (French et al. 1995).
+
+Araceae como aquí definido es considerado monofilético sobre la base de la morfología (Grayum 1990, Mayo et al. 1995
+) y secuencias de ADN cp (Chase et al. 1993, French et al. 1995). La familia probablemente es hermana del resto de las familias de Alismatales (Chase et al. 1995b, Dahlgren y Rasmussen 1983, Dahlgren et al. 1985, Stevenson y Loconte 1995), por eso hoy en día se la ubica dentro de ese orden.
+
+Araceae fue dividida en muchas subfamilias sobre la base de la variación en hábito, arreglo de las hojas y morfología de las hojas, estructura de la inflorescencia, morfología floral, estructura del polen, anatomía, y número de cromosomas (Grayum 1990). Las relaciones filogenéticas también fueron hechas dentro de Araceae a través de secuencias de rbcL (French et al. 1995), de trnL-F (Tam et al. 2004), y morfología (Mayo et al. 1998). 
+
+Gymnostachys, Orontium, Symplocarpus, y afines tienen tallos condensados que no son exactamente cormos pero son engrosados, y son hermanas del resto de la familia. La mayoría del resto de las aráceas están unidas por sus hojas con lámina expandida, un internodo grande en la inflorescencia entre la espata y la siguiente hoja por debajo de ella, la formación de una continuación del tallo en la axila de la penúltima hoja debajo de la espata, y más o menos basal la placentación. 
+
+Los taxones monoicos comprenden un gran clado, las Aroideae, con 74 géneros (Zamioculcas, Dieffenbachia, Spathicarpa, Philodendron, Caladium, Syngonium, Aglaonema, Zantedeschia, Amorphophallus, Peltandra, Asarum, Arum, Arisaema, Alocasia, Colocasia, y Pistia, Mayo et al. 1998). 
+
+Un segundo gran clado, las Monsteroideae, está delimitado en la base de una espata indiferenciada (es decir sin porción tubular) que es prontamente decidua o marcescente, con una zona de abscisión basal diferenciada. Este grupo incluye géneros como Monstera, Scindapsus, y Epipremnum. Spathiphyllum y afines pueden estar emparentados con estos (French et al. 1995). 
+
+Pothos y parientes, y Anthurium, forman las Pothoideae, estas plantas se caracterizan por una venación de la hoja fina con venas secundarias y terciarias formando venas cruzadas a las primarias (Mayo et al. 1998).
+
+Taxonomía 
+Introducción teórica en Taxonomía
+
+La familia fue reconocida por el APG III (2009), el Linear APG III (LAPG III 2009) le asignó el número de familia 30. La familia ya había sido reconocida por el APG II (2003).
+
+109 géneros, 2.830 especies.
+
+Los géneros más representados son Anthurium (900 especies), Philodendron (500 especies), Arisaema (150 especies), Homalomena (140 especies), Amorphophallus (100 especies), Schismatoglottis (100 especies), Spathiphyllum (60 especies), Monstera (50 especies), Pothos (50 especies), Xanthosoma (40 especies), Dieffenbachia (40 especies), y Syngonium (30 especies).
+
+Para una lista completa de géneros ver Anexo:Géneros de Araceae
+
+Sinónimos según el APWeb: Arisaraceae Rafinesque, Caladiaceae Salisbury, Callaceae Bartling, Pistiaceae C. Agardh
+
+ Importancia económica 
+
+Los cormos con almidón de Alocasia, Colocasia (Colocasia esculenta es el taro) y Xanthosoma (la especie Xanthosoma sagittifolium) son comestibles después de un tratamiento apropiado para remover los químicos irritantes.
+
+Las bayas de Monstera ocasionalmente se comen.
+
+Otro taxón que es importante fuente de alimentación en los trópicos ("rootstocks", hojas, semillas, o frutos) es por ejemplo, Amorphophallus.
+
+Los indígenas utilizan algunas aráceas para medicinas, fibras (de las raíces), o para veneno para flechas.
+
+La familia contiene numerosas ornamentales, entre las que se incluyen Philodendron, Zantedeschia ("lirio de agua", "cala"), Anthurium, Caladium ("oreja de elefante"), Colocasia, Dieffenbachia, Epipremnum, Monstera, Spathiphyllum, Syngonium, Aglaonema, Xanthosoma, Scindapsus, Spathicarpa, y Zamioculcas''.
+
+Bibliografía
+
+Referencias citadas
+
+Enlaces externos

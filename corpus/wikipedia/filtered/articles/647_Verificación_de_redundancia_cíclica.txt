@@ -1,0 +1,108 @@
+La verificación por redundancia cíclica (CRC) es un código de detección de errores usado frecuentemente en redes digitales y en dispositivos de almacenamiento para detectar cambios accidentales en los datos. Los bloques de datos ingresados en estos sistemas contiene un valor de verificación adjunto, basado en el residuo de una división de polinomios; el cálculo es repetido, y la acción de corrección puede tomarse en contra de los datos presuntamente corruptos en caso de que el valor de verificación no concuerde. Este código es un tipo de función que recibe un flujo de datos de cualquier longitud como entrada y devuelve un valor de longitud fija como salida. El término suele ser usado para designar tanto a la función como a su resultado. Pueden ser usadas como suma de verificación para detectar la alteración de datos durante su transmisión o almacenamiento. Las CRC son populares porque su implementación en hardware binario es simple, son fáciles de analizar matemáticamente y son particularmente efectivas para errores ocasionados por ruido en los canales de transmisión. La CRC fue inventada y propuesta por W. Wesley Peterson en un artículo publicado en 1961.
+
+Introducción 
+El CRC es un código de detección de error cuyo cálculo es una larga división de computación en el que se descarta el cociente y el resto se convierte en el resultado, con la importante diferencia de que la aritmética que usamos conforma que el cálculo utilizado es el arrastre de un campo, en este caso los bits. El tamaño del resto es siempre menor que la longitud del divisor, que, por lo tanto, determina el tamaño del resultado. La definición de un CRC específica el divisor que se utilizará, entre otras cosas. Aunque un CRC se puede construir utilizando cualquier tipo de regla finita, todos los CRC de uso común emplean una base finita binaria, esta base consta de dos elementos, generalmente el 0 y 1. El resto de este artículo se centrará en este tipo de composición, es decir el ámbito binario y los principios generales de los CRC.
+
+La integridad de los datos frente a la codificación 
+Es útil para detección de errores, pero, en condiciones de seguridad, no podemos confiar en que el CRC puede verificar plenamente que los datos son los correctos en caso de que se hayan producido cambios deliberados y no aleatorios.
+
+A menudo se piensa que si, cuando llega un mensaje, este y su CRC coinciden, quiere decir que el mensaje no ha podido ser alterado durante su transmisión, aunque se haya transmitido por un canal abierto.
+
+Esta suposición es falsa porque CRC es un mal método de cifrado de datos. De hecho, el CRC no se trata realmente de un método de cifrado, lo que realmente hace es utilizarse para el control de integridad de datos, pero en algunos casos se supone que se utilizarán para el cifrado.
+
+Cuando un CRC se calcula, el mensaje se conserva (no cifrado) y la constante de tamaño CRC se sitúa hacia el final (es decir, el mensaje puede ser tan fácil como leer antes de la posición que ocupa el CRC).
+
+Además, la longitud del CRC es por lo general mucho más pequeña que la longitud del mensaje, es imposible para una relación de 1:1 entre la CRC y el mensaje.
+
+Así, numerosos códigos producirán el mismo CRC.
+
+Por supuesto, estos códigos están diseñados para ser lo suficientemente diferentes como para variar (y por lo general solo en uno o dos bits). Pequeños cambios en la palabra clave producirían una gran diferencia entre un CRC y otro; por ese motivo es posible detectar el error.
+
+Si la manipulación del mensaje (cambios de los bits) es deliberada, entonces se tomara una nueva clave, produciendo un falso CRC el cual puede ser calculado para el nuevo mensaje y sustituir el CRC real en el final del paquete y esta modificación no podrá ser detectada.
+
+La CRC sirve para verificar la integridad, pero no para saber si el mensaje es correcto.
+
+Por el contrario, un medio eficaz para proteger a los mensajes contra la manipulación intencional es el uso de un código de autenticación de mensajes como HMAC.
+
+Cálculo de CRC 
+
+La mecánica de la informática con su lenguaje binario produce unas CRC simples.
+Los bits representados de entrada son alineados en una fila, y el (n + 1) representa el patrón de bits del divisor CRC (llamado polinomio) se coloca debajo de la parte izquierda del final de la fila. Aquí está la primera de ellas para el cálculo de 3 bits de CRC:
+11010011101100 <--- entrada
+1011 <--- divisor (4 bits) 
+-------------- 
+01100011101100 <--- resultado
+
+Si la entrada que está por encima del extremo izquierdo del divisor es 0, no se hace nada y se pasa el divisor a la derecha de uno en uno.
+Si la entrada que está por encima de la izquierda del divisor es 1, el divisor es Or exclusiva en la entrada (en otras palabras, por encima de la entrada de cada bit el primer bit conmuta con el divisor).
+El divisor es entonces desplazado hacia la derecha, y el proceso se repite hasta que el divisor llega a la derecha, en la parte final de la fila de entrada. Aquí está el último cálculo:
+00000000001110 <--- resultado de la multiplicación de cálculo 
+ 1011 <--- divisor 
+-------------- 
+00000000000101 <--- resto (3 bits)
+
+Desde la izquierda se divide por cero todos los bits de entrada, cuando este proceso termina el único bits en la fila de entrada que puede ser distinto de cero es n bits más a la derecha, en la parte final de la fila.
+Estos n bits son el resto de la división, y será también el valor de la función CRC (es el CRC escogido a menos que la especificación de algún proceso posterior lo cambie).
+
+Matemáticas del CRC 
+
+Matemáticas del CRC
+
+Este apartado se refiere al análisis matemático de este proceso de división, como pone de manifiesto la manera de elegir un divisor que garantiza buenas propiedades de detección de errores.
+En este análisis, los dígitos de las cadenas de bits son considerados como los coeficientes de un polinomio en algunos variables x/coeficientes, que son elementos del campo finito binario en lugar de los números decimales.
+Este «polinomio» forma unas cadenas de bits que pueden observarse como elementos de un anillo.
+Un anillo es, hablando en términos generales, un conjunto de elementos. Es decir, como los números que pueden ser operados por una operación semejante pero no idéntica a la de la suma y además alguna otra operación semejante a la multiplicación. Estas operaciones poseen muchas de las propiedades de la aritmética: conmutativa, asociativa, y distributiva.
+
+Especificación de un CRC 
+
+El CRC se utiliza como una detección de errores de código, el cual tiene una serie de aplicaciones usadas cuando se implementa mediante normas, convirtiéndolo así en un sistema práctico.
+
+Estas son algunas de las aplicaciones:
+
+ Se usa un patrón de prefijos de bit para comprobar su autenticidad. Esto es útil cuando la trama podría tener errores en los bits de delante de un mensaje, una alteración que, de otro modo dejaría sin cambios al CRC. A veces un envío agrega n bits (n es el tamaño de la CRC) al mensaje que se debe controlar ya que se tomaría un polinomio que no sería el correcto para la división. Esto tiene la conveniencia de que el CRC del mensaje original con el CRC adjunto es exactamente cero, por lo que el CRC se puede comprobar simplemente por la división polinómica y comparando con el resto cero. A veces se realiza una implementación del CRC con OR exclusivos en el resto de la división polinómica.
+
+ Orden de los bits: en ocasiones, el orden en el que se envían las tramas de datos no corresponden exactamente con la posición que tendrán los bits en la división polinómica; es decir, que puede que el primer bit enviado sea el de más peso o viceversa. Este convenio tiene sentido cuando las tramas a enviar se envían por puertos series ya que el CRC es comprobado por el hardware de cada máquina, y cada uno tendrá un convenio conjunto de lectura y posicionamiento de paquetes para el envió a la capa siguiente.
+
+ Omisión del orden del bit de más peso del polinomio divisor: algunos escritores proponen omitir esto, puesto que el bit mayor peso es siempre 1, y ya que el bit CRC debe ser definido por un (n + 1) bits del divisor, es innecesario mencionar el divisor mayor peso en el mensaje y en el CRC.
+
+Referencias
+
+Véase también 
+ Algoritmo de los códigos de redundancia cíclica
+
+Enlaces externos 
+ Códigos para tratamiento de errores - Escuela Politécnica Superior - España 
+ Código escrito en C con posibilidad de selección de varios CRCs
+ Easy to understand CRC32 C++ Source Code
+ Free CRC Source Code from the Boost C++ Libraries
+ CRC-32 - Código fuente en JavaScript (dominio público)
+ The CRC Pitstop
+ Williams, R. (1993-09) A Painless Guide to CRC Error Detection Algorithms
+ Understanding Cyclic Redundancy Check
+ Black, R. (1994-02) Fast CRC32 in Software; algorithm 4 is used in Linux and info-zip's zip and unzip.
+ Kounavis, M. and Berry, F. (2005). A Systematic Approach to Building High Performance, Software-based, CRC generators, Slicing-by-4 and slicing-by-8 algorithms
+ CRC32: Generating a checksum for a file, C++ implementation by Brian Friesen
+ CRC16 to CRC64 collision research
+ Reversing CRC - Theory and Practice.
+ 'CRC-Analysis with Bitfilters'.
+ Another Bad CRC Reading Tool, but free
+ MathPages - Cyclic Redundancy Checks
+ Tool for Bad CRC Reading with advanced options
+ A CRC calculation utility and C source code generator written in Python. (MIT licence)
+ CRC Encoding - C# Implementation by Marcel de Wijs
+ Cyclic Redundancy Check: theory, practice, hardware, and software with emphasis on CRC-32. A sample chapter from Henry S. Warren, Jr. Hacker's Delight.
+ CRC32 PHP Función de PHP
+Error de datos comprobación de redundancia cíclica Soluciones en Windows 10
+
+Herramientas en línea 
+ Hash'em all! Free online text and file hashing with different algorithms (including CRC)
+ Free CRC Verilog Circuit generator
+ Online CRC-32 computation, from text or file, with standard or custom polynomial, and corresponding JavaScript source code
+ Online CRC32 and CRC32B calculator
+ Online CRC calculator
+ Another online CRC calculator
+ Online CRC Tool: Generator of synthesizable CRC functions
+ Herramienta para cifrar con MD5 de CDmon
+
+Algoritmos de suma de verificación
+Funciones hash criptográficas

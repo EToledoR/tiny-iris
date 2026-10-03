@@ -1,0 +1,176 @@
+AmigaOS es el nombre que recibe el conjunto de la familia de gestores de ventanas y ROMs que incluían por defecto los ordenadores personales Commodore Amiga como sistema operativo. Fue desarrollado originalmente por Commodore International, e inicialmente presentado en 1985 junto con el Amiga 1000. Comenzó a funcionar en un microprocesador de la serie Motorola de la familia 68k (68000, 68010, 68020, 68030, 68040 y 68060) de 32-bit, excepto el AmigaOS 4 que funciona solo en los microprocesadores PowerPC.
+
+Las primeras versiones (1.0, 1.1, 1.2 y 1.3) del intérprete de comandos que incorporaba, se llamaba AmigaDOS. Posteriormente se cambió el nombre por AmigaOS, manteniéndose hasta la actualidad.
+
+Cabe destacar el núcleo multitarea llamado Exec, un API llamada Intuition y una GUI (Interfaz Gráfica de Usuario) llamada Workbench.
+
+Características 
+Entre otras características posee:
+
+ Multitarea apropiativa al estilo Unix utilizando un sistema de prioridades
+ Arquitectura micronúcleo
+ Interrupciones programables en tiempo real con muy bajas latencias
+ Diseño de 32 bit
+ BOOPSI (Sistema orientado a objetos estándar para la mayoría de componentes)
+ ARexx integrado (lenguaje de scripting que permite automatizar tareas)
+ Dispositivos de sistema de ficheros programables (permite acceder transparentemente y sin recompilar núcleos ni parches a particiones FAT, NTFS, FAT32, ext2, HFS... y usar sistemas de ficheros nativos de Amiga mejorados como SmartFileSystem o ProfessionalFileSystem)
+ Datatypes, un sistema modular de códecs para audio, animación, imágenes, texto, etcétera que permite acceder a todo tipo de formatos desde todas las aplicaciones sin cambiar una sola línea.
+
+Es importante notar que no dispone de protección de memoria y que su paso de mensajes ultrarrápido usa punteros. No obstante existen herramientas de desarrollador diseñadas para detectar accesos a memoria no autorizados.
+
+También conviene reseñar que AmigaOS a diferencia de otros sistemas operativos de m68k como MacOS, no requiere que partes del SO estén en zonas fijas de memoria. Esto permite, por ejemplo, liberar la parte baja de la memoria mediante emuladores/máquinas virtuales como Shapeshifter, Fusion/iFusion o Basilisk II
+
+Viene dividido en varias partes:
+ Kickstart: Es la parte que reside en ROM: contiene el gestor de arranque, el núcleo, las bibliotecas más importantes y la parte fundamental del entorno gráfico.
+ Workbench: Es el escritorio del sistema, se lanza mediante el comando LoadWB y puede ser sustituido o incluso puede evitarse lanzarlo. El comando en sí viene en disco pero las librerías están en la ROM. A menudo se confunde pensando que el escritorio es el sistema operativo.
+ AmigaOS propiamente dicho, el cual incluye las partes que no caben en la ROM, contiene librerías adicionales (por ejemplo para crear interfaces de usuario), el lenguaje de scripting ARexx, sistemas de ficheros para acceder a discos de MS-DOS u otros mejorados, fuentes de letra, parches y algunas utilidades que complementan el Kickstart
+
+El AmigaOS y el Workbench no se requieren para que el Amiga funcione, es por ello por lo que multitud de juegos arrancan directamente desde el Kickstart sin necesidad de cargar el Workbench. La mayoría de los juegos antiguos eliminaban el SO para tomar control de todo el ordenador, no obstante los desarrollados para AGA comenzaron progresivamente a respetarlo más y permitían correrlos en multitarea arrancándolos desde el Workbench
+
+Ha tenido diferentes versiones del Workbench, desde la 1.0 hasta la 3.9 (Clásicas). El Kickstart llegó a la versión 40. Existen numerosos escritorios para sustituir el WB, los más famosos son Scalos y Directory Opus 5.
+
+Workbench
+
+Introducción 
+
+ Al primer sistema operativo para los ” se le llamó Workbench 1.0 y continuó bajo este nombre hasta la versión 3.1, cuando cambió a AmigaOS.
+ Posteriormente los equipos Amiga utilizaban el nombre de Workbench solamente para referirse al administrador de archivos con la interfaz gráfica original y al lanzador de aplicaciones del sistema operativo de Amiga.
+
+ Workbench no era necesario para arrancar Amiga o manejar otras aplicaciones, sino que era una aplicación autónoma que las administraba.
+
+ Visualmente el Workbench se parecía a otros Sistema Operativos de la época. El subyacente AmigaOS era más avanzado, permitiendo al Workbench lanzar múltiples aplicaciones que podían ejecutarse al mismo tiempo y comunicarse entre ellas. Además Amiga utilizaba el ratón.
+ ".Info" era la única extensión reconocida por el Workbench.
+ El Workbench era muy pequeño y ocupaba muy poco espacio en el disquete. La biblioteca de Workbench de las primeras versiones incluso no ocupaba ningún espacio del disquete, porque formaba parte del ROM de sistema.
+Intuition (sistema de ventanas subyacente del Workbench)controlaba el recorte, renderización y preservación de pantallas superpuestas, ventanas y elementos gráficos.
+Graphics facilitaba la renderización tanto del software como del hardware.
+Exec manejaba las funciones de nivel inferior (la entrada de datos mediante teclado o ratón, transmisión de mensajes a los programas, asignación de memoria y cambios de tareas).
+ Amiga Workbench tiene solo una cosa en común con los demás sistemas operativos, y estos son los programas de utilidad (pequeños programas que sirven para aumentar la utilización del ordenador, como por ejemplo la calculadora).
+ La interfaz de Amiga era muy personalizable. Los usuarios podían personalizar los colores, las resoluciones, el aspecto de íconos de programas, podían establecer el tamaño y sitio en que se abren ventanas determinadas, asignar un sitio para cada ícono…
+
+Workbench 1.x 
+
+La serie 1.x del Workbench se distingue por su combinación de colores azul y naranja, diseñado para dar alto contraste incluso en las peores pantallas (el usuario podía cambiar los colores). 
+
+La versión 1.1 consiste principalmente en arreglos de errores y se distribuía solamente para Amiga 1000 (igual que la 1.0).
+
+Colores de pantalla: 4 colores de una paleta de 4096. 
+
+Resolución máxima con el entrelazamiento 640 x 512 en PAL o 640 x 400 en NTSC (640x256 y 640x200 sin el entrelazamiento).
+
+Un indicador de espacio libre de dispositivos extraíbles.
+
+Dos estados de ícono, inactivo y activado, representados por diferentes imágenes, para dar efecto de animación al hacer clic. 
+
+Un ratón de dos botones con dobles funciones.
+
+Un indicador de ocupación.
+
+Workbench 2.x 
+
+Hasta AmigaOS 2.0, no hubo aspecto unificado de diseño.
+
+El Workbench 2.0 introdujo gadtools que suministraba juegos básicos de widgets. Disponía de una guía (Amiga User Interface Style Guide) que establecía como se deben organizar las aplicaciones para mantener un aspecto visual coherente. 
+
+Intuition se mejoró con la inclusión de BOOPSI (Sistema básico de programación orientada a objetos para Intuition) que proporcionaba al sistema una interfaz orientada a objetos con el sistema de clases, donde cada clase formaba un widget o describía un evento de interfaz. Se podía utilizar para programar las interfaces orientados a objetos en Amiga en cualquier nivel.
+
+En Workbench 2.0 también se añadió el soporte para pantallas públicas. La pantalla de Workbench no era la única pantalla compartible, sino que las aplicaciones podían crear sus propias pantallas con nombres para compartir con otras aplicaciones.
+
+Workbench 2.0 introdujo AmigaGuide, un simple sistema de marcadores de hipertexto y navegador para facilitar la asistencia en línea en las aplicaciones. 
+
+También introdujo el Instalador, un programa de instalación estándar.
+
+Workbench 2.0 proporcionaba Commodities (Comodidades), una interfaz para modificar o escanear los eventos de entrada, incluyendo un método estándar para especificar secuencias de teclas globales, y el registro Commodities Exchange para que el usuario pudiese ver las comodidades activas.
+
+Workbench 3.0 y 3.1 
+
+Venía equipado en los ordenadores Amiga 1200 y Amiga 4000.
+
+Esta versión proporcionaba el soporte de tipos de datos de modo que el Workbench podía cargar cualquier imagen del fondo en cualquier formato si tenía instalado el tipo de datos requerido.
+Este rasgo lo usaba también Multiview. 
+
+Sus capacidades eran directamente relacionadas con los tipos de datos instalados en Devs:Datatypes.
+
+Workbench 3.5 y 3.9 
+
+Workbench cambió completamente el aspecto de su interfaz. Nuevo escritorio de color azul, parecido al del 1.0, estaba disponible para los usuarios con innumerables mejoras en comparación con el primer lanzamiento del escritorio de AmigaOS. 
+
+El soporte de NewIcons y varias mejoras de GUI por terceras partes que pretendían mejorar las interfaces antiguos de Amiga resultaron obsoletos al integrar estos parches en el sistema.
+
+La versión 3.9 fue puesta en venta en 2000. Entre sus características principales estaban: la introducción de AmiDOCK, una barra de inicio del programa, nuevas herramientas de preferencias y el reloj de escritorio mejorado.
+
+Workbench 4.0 y 4.1 
+
+Workbench 4.0 ha sido refundido para ser completamente compatible con el PowerPC. Era parte de AmigaOS 4.0 y fue lanzado en 2006. 
+
+A partir de la 4.ª Actualización de Prelanzamiento se incluye una nueva técnica de pantallas arrastrables en todas direcciones. 
+
+También se hace posible arrastrar y soltar los íconos de Workbench entre varias pantallas.
+Además, Workbench 4.0 incorporaba una versión de Amidock de PowerPC, fuentes TrueType/OpenType y un reproductor de video llamado Action con el soporte DivX y MPEG-4.
+
+AmigaOS 4.1 reemplazó el cajón de WBStartup con nuevas preferencias de arranque. Las mejoras adicionales eran: un nuevo conjunto de íconos para las resoluciones más altas, nuevos temas de ventanas incluyendo el efecto de sombra.
+ 
+AmiDock con True Transparency (ventanas transparentes), íconos redimensionables y el servicio de actualizaciones automáticas.
+
+Los íconos utilizados para representar los archivos en un volumen o un cajón se guardan en los archivos especiales .info, cuyos nombres corresponden con los nombres de archivos representados.
+
+El archivo .info contiene la representación gráfica del ícono y su posición en un volumen o ventana de cajón, y también especifica el tipo de archivo en función de su uso por el Workbench. 
+
+5 tipos diferentes de icono: 
+
+1) Tool (Herramienta): Un programa ejecutable.
+
+2) Project (Proyecto): Un archivo de datos de un programa ejecutable. 
+
+3) Drawer (Cajón): Como un directorio.
+
+4) Volume (Volumen): Disco físico o disco RAM.
+
+5) Garbage (Papelera).
+
+3 tipos de archivos adicionales disponibles y destinados para la expansión en el futuro:
+1) Device(Dispositivo): designado para mostrar la información sobre dispositivos acoplados.
+
+2) Kick (Golpe): un ícono del disco arrancable.
+
+3) App Icon: un ícono que se usará como (parte de) GUI de una aplicación (solo este se usa en la actualidad de estos 3 últimos).
+
+Workbench 5.0 (Commodore OS) 
+
+En abril de 2010 se fundó Commodore USA, LLC.
+
+El objetivo de la empresa es vender los ordenadores de sobremesa bajo los antiguos nombres comerciales de Commodore y Amiga.
+
+La empresa consiguió las licencias de marca “Commodore” y “Amiga” en 2010.
+
+Ese año Commodore USA comunica el relanzamiento de ordenadores de sobremesa bajo marca de “Amiga” con el sistema operativo AROS.
+
+Debido a una serie de amenazas legales por parte de Hyperion (empresa desarrolladora los últimos Workbench 4.0 y 4.1), Commodore USA renuncia a sus planes con AROS y comunica que va a crear un nuevo SO llamado AMIGA Workbench 5.0 (aunque finalmente llamado Commodore OS), basado en sistemas operativos Linux Mint y Debian.
+
+Amiga en la actualidad 
+
+En la actualidad se está presentando una nueva tablet con la marca de “AMIGA”, algo que a muchos ha llegado a llamar la atención; sin embargo, la tablet “AMIGA” no vendrá integrado con sistema operativo de WorkBench, sino que se presentará con un Google Android 2.2, algo que se ha vuelto un estándar en muchos de las tablet de diferentes empresas.
+
+AmigaOS 4 
+En la actualidad se utiliza en la plataforma PowerPC, con las versiones 4.0 y 4.1. Desarrollado por Hyperion Entertainment.
+
+En 2004 se presentó la primera beta pública (llamada Developer PreRelease) de AmigaOS 4 para PowerPC, más concretamente para AmigaOne, de la que salieron 4 actualizaciones.
+En diciembre de 2006 se anunció la 4.0 estable (The Final Update).
+En 2007 se actualizó la 4.0 y se lanzó una versión para Commodore Amiga 1200, Amiga 3000 y Amiga 4000 con tarjeta PowerPC Phase5 (siendo esta última versión actualizada en febrero de 2008).
+En julio de 2008 comenzó la venta de la versión 4.1, que fue actualizada en junio de 2009 (4.1 QuickFix: en esta actualización se incluyó soporte para las placas base Pegasos II y Sam440ep). Tras la 4.1 Update 1 de enero de 2010 seguida de la 4.1 Update 2 de abril de 2010 En mayo de 2011 la versión 4.1 update 2 pasó a estar disponible para Amiga clásicos con tarjeta PPC. En agosto de 2011 ambas versiones (la de AmigaOne/Pegasos2/Sam440 y la de Amiga clásico con acelaradora PPC) fueron actualizadas a la versión 4.1 update 3. Posteriormente se publicó la update 4 (diciembre de 2011) y en 2012 la 4.1 update 5 (agosto) y update 6 (noviembre). La última versión es la Final Edition (update 8) de diciembre de 2014 .
+
+Véase también 
+
+ AROS
+ MorphOS
+ ARexx
+
+Enlaces externos 
+ Sitio web de Hyperion AmigaOS 4.x
+ Amiga History
+ Workbench Nostalgia
+ Workbench packs preconfigurados para UAE
+
+ 
+Sistemas operativos
+Software escrito en ensamblador
+Software de 1985

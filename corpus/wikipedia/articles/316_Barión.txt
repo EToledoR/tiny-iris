@@ -1,0 +1,83 @@
+Los bariones (del griego βαρύς, barys, “pesado”) son una familia de partículas subatómicas formadas por tres cuarks. Los más representativos, por formar el núcleo del átomo, son el neutrón y el protón; pero también existe otro gran número de bariones, aunque todos estos son inestables. El nombre de barión se debe a que se creyó, cuando fue descubierto, que poseía una masa mayor que otras partículas.
+
+El nombre "barión", introducido por Abraham Pais, proviene de la palabra Griego para "pesado" (βαρύς, barýs), porque, en el momento de su denominación, la mayoría de las partículas elementales conocidas tenían masas inferiores a las de los bariones. Cada barión tiene una antipartícula correspondiente (antibarión) en la que sus correspondientes antiquarks sustituyen a los cuarks. Por ejemplo, un protón está formado por dos cuark arriba y un cuark abajo; y su correspondiente antipartícula, el antiprotón, está formado por dos antiquarks up y un antiquark down.
+
+Al estar compuestos de cuarks, los bariones participan en la interacción fuerte, que es mediada por partículas conocidas como gluón. Los bariones más conocidos son los protones y los neutrones, ambos con tres cuarks, por lo que a veces se les denomina triquarks. Estas partículas constituyen la mayor parte de la masa de la materia visible en el universo y componen el núcleo de cada átomo. Los electrones, el otro componente principal del átomo, son miembros de una familia diferente de partículas llamadas leptones; los leptones no interactúan a través de la fuerza fuerte). También se han descubierto y estudiado bariones exóticos que contienen cinco cuarks, denominados pentaquarks.
+
+Un censo de los bariones del Universo indica que el 10% de ellos podrían encontrarse en el interior de las galaxias, entre el 50 y el 60% en el medio circungaláctico, y el 30 o 40% restante podría encontrarse en el medio intergaláctico caliente (WHIM).
+
+Clasificación 
+
+Los bariones son fermiones afectados por la interacción nuclear fuerte, por lo que están sometidos al principio de exclusión de Pauli y pueden ser descritos mediante la estadística de Fermi-Dirac. Al contrario que los bosones, que no satisfacen el principio de exclusión.
+
+Los bariones pertenecen, junto con los mesones, a la familia de partículas llamadas hadrones, es decir, aquellas compuestas por cuarks. Se diferencian de los mesones por estar compuestos por tres cuarks, mientras que los últimos están compuestos por un cuark y un antiquark. Los cuarks tienen un número bariónico de y los antiquarks . Se ha propuesto la existencia de bariones exóticos como los pentaquarks, compuestos por cuatro cuarks y un antiquark ().
+
+Se han propuesto otros bariones exóticos, como los pentaquarks -bariones formados por cuatro cuarks y un antiquark (B =   +  +  +  −  = 1), pero su existencia no es generalmente aceptada. La comunidad de físicos de partículas en su conjunto no consideraba probable su existencia en 2006, y, en 2008, consideraron que las pruebas eran abrumadoramente contrarias a la existencia de los pentaquarks de los que se había informado. Sin embargo, en julio de 2015, el experimento LHCb observó dos resonancias consistentes con estados de pentaquarks en el Λ → J/ψKp, con una significación estadística combinada de 15σ.
+
+En teoría, también podrían existir heptaquarks (5 cuarks, 2 antiquarks), nonaquarks (6 cuarks, 3 antiquarks), etc.
+
+Bariogénesis 
+
+Los experimentos son consistentes con que el número de cuarks en el universo es una constante y, para ser más específicos, el número de bariones es una constante (si la antimateria se cuenta como negativa); en lenguaje técnico, el número de bariones total parece ser conservado. Dentro del Modelo estándar predominante de la física de partículas, el número de bariones puede cambiar en múltiplos de tres debido a la acción de esfalerones, aunque esto es raro y no se ha observado experimentalmente. Algunas grandes teorías unificadas de la física de partículas también predicen que un solo protón puede decaer, cambiando el número de bariones en uno; sin embargo, esto aún no se ha observado experimentalmente. Se cree que el exceso de bariones sobre antibariones en el universo actual se debe a la no conservación del número de bariones en el universo primitivo, aunque esto no se comprende bien.
+
+Propiedades
+
+Isospín y carga 
+
+El concepto de isospín fue propuesto por Werner Heisenberg en 1932, explica las similitudes entre protones y neutrones bajo la Interacción fuerte. Aunque tenían diferentes cargas eléctricas, sus masas eran tan similares que los físicos creían que eran la misma partícula. Las diferentes cargas eléctricas se explicaron como el resultado de alguna excitación desconocida similar al espín. Esta excitación desconocida fue posteriormente denominada isospin por Eugene Wigner en 1937.
+
+En el año 1964 Murray Gell-Mann propuso el modelo de cuark, con tres tipos, el u, d y s. Los cuarks u y d tiene masas similares, por lo tanto, las partículas hechas del mismo número, también tienen masas similares. La composición exacta de los cuarks u y d determina la carga, ya que los cuarks u llevan la carga , mientras que los cuarks d llevan la carga . 
+
+Actualmente se entiende que el éxito del modelo isospín es el resultado de las masas similares de los cuarks u y d. Dado que los cuarks u y d tienen masas similares, las partículas formadas por el mismo número también tienen masas similares. Por ejemplo, los cuatro Deltas tienen todos cargas diferentes Δ++, Δ+, Δ0 y Δ− (Delta++ (uuu), Delta+ (uud), Delta0 (udd), Delta- (ddd)), pero tienen masas similares (~1.232 MeV/c2) ya que cada una está formada por una combinación de tres cuarks u o d. Según el modelo de isospín, se consideraban una sola partícula en diferentes estados de carga.
+
+Otro ejemplo es la "partícula nucleón". Como había dos "estados cargados" del nucleón, se decía que era de isospin . El nucleón positivo (protón) se identificaba con I3 = + y el nucleón neutro (neutrón) con I3 = -. Más tarde se observó que las proyecciones de isospín estaban relacionadas con el contenido de cuarks up y down de las partículas mediante la relación:
+
+donde n es el número de cuarks up y down y de antiquarks.
+
+En la "imagen isospínica", se pensaba que los cuatro Deltas y los dos nucleones eran estados diferentes de dos partículas. Sin embargo, en el modelo de los cuarks, las Deltas son estados diferentes de los nucleones (los N++ o N- están prohibidos por el principio de exclusión de Pauli). El isospín, aunque transmite una imagen inexacta de las cosas, se sigue utilizando para clasificar los bariones, lo que lleva a una nomenclatura poco natural y a menudo confusa.
+
+Números cuánticos de sabor 
+
+La extrañeza número cuántico de sabor S (no confundir con espín) se observó que subía y bajaba junto con la masa de la partícula. A mayor masa, menor extrañeza (más cuarks s). Las partículas podían describirse con proyecciones de isospín (relacionado con la carga) y extrañeza (masa) (véase las figuras uds octeto y decuplete de la derecha). A medida que se descubrieron otros cuarks, se hicieron nuevos números cuánticos para tener una descripción similar de los octetos y decuplets udc y udb. Puesto que sólo la masa de u y d son similares, esta descripción de la masa y carga de la partícula en términos de isospín y números cuánticos de sabor funciona bien sólo para octetos y decuplets hechos de un u, un d y otro cuark, y se rompe para los otros octetos y decuplets (por ejemplo, ucb octeto y decuplet). Si todos los cuarks tuvieran la misma masa, su comportamiento se llamaría simétrico, ya que todos se comportarían de la misma manera ante la interacción fuerte. Como los cuarks no tienen la misma masa, no interaccionan de la misma manera (exactamente igual que un electrón colocado en un campo eléctrico acelerará más que un protón colocado en el mismo campo debido a su masa más ligera), y se dice que la simetría está rota.
+
+Se observó que la carga (Q) estaba relacionada con la proyección de isospín (I3), el número de bariones (B) y los números cuánticos de sabor (S, C, B′, T) mediante la fórmula de Gell-Mann-Nishijima:
+
+donde S, C, B′, y T representan los números cuánticos de sabor extrañeza, encanto, belleza y verdad, respectivamente. Están relacionados con el número de cuarks y antiquarks extraños, charm, bottom y top según las relaciones:
+
+lo que significa que la fórmula de Gell-Mann-Nishijima es equivalente a la expresión de la carga en términos del contenido de cuarks:
+
+Tipos 
+
+Junto al protón y al neutrón, dentro de la familia de los bariones se encuentran también las partículas delta (Δ), lambda (Λ), sigma (Σ), xi (Ξ) y omega (Ω).
+
+Los bariones delta (Δ++, Δ+, Δ0, Δ-) están compuestos por cuarks arriba y abajo, de tal manera que el spin total es 3/2. Se desintegran en un pion y en un protón o un neutrón.
+
+Los bariones lambda (Λ0) están compuestos por un cuark arriba, uno abajo y un cuark extraño, con los cuarks arriba y abajo en un estado de spin isotópico 0 (sabor antisimétrico). La observación del lambda neutro supuso la primera evidencia del cuark extraño. El barión lambda casi siempre se desintegra en un protón y un pion con carga, o en un neutrón y un pion neutro.
+
+Los bariones sigma (Σ+, Σ0, Σ-) están compuestos también por un cuark extraño y la combinación de un cuark arriba y otro abajo, pero en un estado de spin isotópico 1. El Σ0 posee la misma estructura de cuarks que el Λ0 (arriba, abajo y extraño), por lo que su desintegración es mucho más rápida que el Σ+ (arriba, arriba, extraño) y el Σ- (abajo, abajo, extraño).
+
+Los bariones xi (Ξ0, Ξ-) están compuestos de dos cuarks extraños y un cuark arriba o abajo. Se desintegran generalmente en un pion y un barión lambda, que a su vez se desintegra como tal. Debido a esta secuencia en cascada de desintegraciones, a Ξ se le llama también partícula en cascada (cascade particle).
+
+El barión omega negativo (Ω-) está compuesto de tres cuarks extraños. Su descubrimiento supuso un gran avance en el estudio de los procesos de los cuarks, ya que solo desde entonces se pudo predecir su masa y su desintegración.
+
+Los bariones compuestos por cuarks pesados se cifran añadiendo un subíndice, el cual indica que un cuark extraño puede ser sustituido por otro más pesado (Ej.: Λ+c está compuesto por cuark encantado, arriba y abajo; en vez de arriba, abajo y extraño).
+
+Materia bariónica 
+La materia bariónica es aquella en cuya masa predominan los bariones, la cual puede estar formada por átomos de todo tipo, y por tanto, ser casi cualquier tipo de materia. Su contrario es la materia no bariónica, que puede estar formada por neutrinos o electrones libres, o incluso por especies extrañas de materia oscura no bariónica, tales como partículas supersimétricas, axiones o agujeros negros. 
+
+La distinción entre materia bariónica y no bariónica resulta de especial importancia en cosmología, ya que la cantidad de materia bariónica presente en el universo primitivo determina en gran medida los modelos de nucleosíntesis producidos en el Big Bang.
+
+La mera existencia de bariones resulta ya un hecho cosmológico significativo, puesto que se presupone que el Big Bang produjo una cantidad igual de bariones y de antibariones. El proceso mediante el cual el número de bariones supera al de sus antipartículas es llamado bariogénesis (análogamente al proceso de leptogénesis, mediante el cual la cantidad de materia formada por leptones supera a su antimateria).
+
+Véase también 
+ Lista de partículas.
+ Física de partículas.
+ Modelo estándar de física de partículas.
+ Bosón.
+ Leptón.
+
+Referencias
+
+Bibliografía
+
+Enlaces externos

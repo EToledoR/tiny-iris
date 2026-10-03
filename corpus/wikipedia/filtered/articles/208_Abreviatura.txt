@@ -1,0 +1,125 @@
+Una abreviatura (del latín abbreviatura, de abbreviare, ‘hacer breve’) es un tipo de abreviación, es decir, una convención ortográfica que acorta la escritura de cierto término o expresión, y consiste en la representación escrita de una palabra o grupo de palabras con solo una o varias de sus letras. Para crearla, se emplea la letra inicial, mayúscula o minúscula, por sí sola o acompañada de otras letras, ya sean del medio o del fin de dicha palabra, y uno o varios puntos que indican que la palabra está incompleta. Se dice entonces de ella que está escrita abreviadamente.
+
+Historia
+
+Antigüedad
+
+Las abreviaturas fueron muy empleadas en Grecia y en Roma. En esta llegó a abusarse tanto de ellas, que el emperador Justiniano se vio obligado a prohibir su empleo. En Francia, el rey Felipe el Hermoso prohibió, en 1304, que se emplearan en los documentos notariales y, en general, en los instrumentos públicos, aquellas abreviaturas que pudieran dar lugar a confusión o mala interpretación de los textos.
+
+Entre las abreviaturas latinas más usadas por los romanos se encuentran las de los praenomen, el nombre de pila elegido por los padres romanos de entre un abanico bastante limitado. Otras abreviaturas comunes son COS. («cónsul»), que servía para datar el año; F. (filius, «hijo») que se ponía después del nombre del padre de la persona mencionada o D.M. (Dis Manibus, «para los dioses Manes») que encabezaba las lápidas.
+
+Tipos de abreviatura 
+
+Cualquier palabra puede ser abreviada, por lo que suele distinguirse entre abreviaturas «personales» (las que cualquier hablante particular genera para uso propio en su escritura privada) y «convencionales» (aquellas reconocidas y empleadas comúnmente por los usuarios de una lengua). Debido a esta facultad del escritor suele ser una norma de estilo que las abreviaturas particulares o las de uso específico sean recogidas en un glosario al principio o el final de la obra (especialmente cuando ésta es extensa y tiene formato de libro).
+
+Dentro de las abreviaturas convencionales, unas son de uso general y otras se utilizan en contextos particulares, como es el caso, por ejemplo, de las abreviaturas que un autor emplea dentro de un libro y que deben recogerse al principio o al final de la obra en una lista explicativa.
+
+La abreviatura ha de ser eficaz y, por este motivo, debe suprimir al menos dos letras de la palabra abreviada, aunque haya ejemplos difundidos en que solo se elimina una: vid. por vide ("véase").
+
+El uso de las abreviaturas convencionales no es libre, sino que está limitado a ciertos contextos y sometido a ciertas reglas; así, en general, no pueden utilizarse las abreviaturas en cualquier lugar del texto: «*De repente, miré a la dcha. y los vi juntos». Las abreviaturas de tratamientos solo deben emplearse cuando anteceden al nombre propio («Sr. González», «D.ª Juana», etc.). Tampoco es apropiado escribir una cantidad con letras seguida de la abreviatura del concepto cuantificado: «*veinte cts.» por «veinte centavos», «*cinco pts.» por «cinco pesetas».
+
+Métodos para abreviar 
+
+Habitualmente se conocen dos formas de abreviación: truncamiento y contracción. La primera implica la eliminación de la parte final o al inicio de la palabra (por ejemplo, av. por avenida o c. por calle). Las abreviaturas obtenidas por truncamiento nunca pueden terminar en vocal (por ejemplo, aunque en inglés es muy habitual, la abreviación ave. por avenida es incorrecta en castellano). En la construcción de abreviaturas por contracción se eliminan las letras centrales de la palabra y se dejan solo las letras más representativas (por ejemplo, avda. por avenida o cl. por calle). En este segundo método, es habitual el uso de una letra o letras finales voladas (por ejemplo, por administrador o n.º por número). Estas letras voladas pueden escribirse subrayadas o sin subrayar. Tradicionalmente el punto abreviativo puede reemplazarse por una subraya especialmente en escritura manuscrita. Letras voladas subrayadas se consideran arcaicas en tipografía actual y se tiende a prescindir de este subrayado.
+
+La norma de la Real Academia Española (RAE) es que las abreviaturas siempre finalizan en un punto, a excepción de los símbolos —que no son abreviaturas, aunque se confundan a menudo— y las siglas. También se exceptúan a esta regla aquellas abreviaturas en las que el punto se sustituye por una barra inclinada (/), como en los casos de calle (c/), cuenta corriente (c/c) o cada uno (c/u). Como se observa en el anterior ejemplo, cuando la abreviatura se compone de dos palabras, el segundo punto y el espacio que separa a ambas palabras también se eliminan. Otro caso de excepción a la regla del punto es el de las abreviaturas que se escriben entre paréntesis (por ejemplo (a) por alias). Por el contrario, sí se debe escribir el punto antes de las letras voladas (por ejemplo, Sr.ª por señora o art.º por artículo), y esto incluye el uso del mismo en abreviaturas con numerales (por ejemplo, 3.º por tercero o por primer). Por otra parte, cuando la abreviatura sea la última palabra de la oración, el punto que señala el final de la misma sustituye al correspondiente punto de la abreviatura (por ejemplo: Trajo escoplo, martillo, llaves, etc.). No obstante, si la oración terminase con algún otro signo de puntuación (típicamente, el signo de interrogación o exclamación, o los puntos suspensivos [aunque queden cuatro puntos seguidos]), el uso del punto sí se considera necesario para asegurar el entendimiento de la abreviatura.
+
+Las abreviaturas mantienen las tildes de sus palabras de origen (por ejemplo, pág. por página o admón. por administración), incluso en sus formas voladas (por ejemplo en ).
+
+Por lo general, el uso de mayúsculas en las abreviaturas corresponden al contexto en el que aparecen. Por ejemplo, a. C. (y no A. C.) por antes de Cristo, o a. D. g. por a Dios gracias. Sin embargo, hay situaciones en las que esta regla no se sigue; por ejemplo: los tratamientos (D., Sr., S. A. R.) siempre se escriben con mayúsculas, y algunas abreviaturas muy comunes (como P. V. P. o D. E. P.) siempre se escriben en mayúsculas.
+
+Las formas plurales de las abreviaturas dependen de su forma de construcción. Si la abreviatura se obtuvo por el procedimiento de truncamiento, la forma normal de usarla en plural es mediante la adición de una -s al final (por ejemplo, págs.). Si el truncamiento solo dejó una letra (truncamiento máximo), el plural se expresa duplicando dicha letra (por ejemplo EE. UU. por Estados Unidos). En las abreviaturas obtenidas por contracción, las reglas habituales de formación de plurales en español son aplicables: -s si la abreviatura termina en vocal y -es si termina en consonante. Hay, no obstante, algunas excepciones, como la forma habitual abreviada del plural de la palabra usted, que es Uds. o Vds., y la forma habitual abreviada del plural de la palabra peseta, que es pts. y no ptas. Las letras voladas utilizadas en la formación de plurales también deben representar concordancia de número, de modo tal que la forma correcta abreviada del plural de número es .
+
+Cuando la abreviatura se ha construido por el procedimiento de contracción, el género de las abreviaturas (en las palabras con doble terminación) puede reflejarse añadiendo una o o una a, según sea masculino o femenino (por ejemplo, por abogado y por abogada). En el caso de las palabras cuya forma en género masculino termina en consonante y que son obtenidas por truncamiento, la forma normal de escribirlas es añadiendo una a volada al final de la abreviatura (por ejemplo, la forma recomendada por la RAE de la abreviatura para profesora es Prof.ª), aunque no es infrecuente detectar casos en los que la a agregada no tiene forma volada (derivados de la dificultad en el uso de caracteres volados que había en las máquinas de escribir antiguas). Las palabras que terminan en consonante y se obtienen por contracción pueden utilizar cualquiera de las posibilidades anteriores.
+
+El uso de abreviaturas está fuertemente ligado a la presentación impresa del escrito. Así, debe evitarse el uso de una abreviatura cuando sea la única palabra que aparece en una línea del texto (en cuyo caso debe sustituirse por la palabra no abreviada), y no se admite su uso para expresiones que abrevian varias palabras cuando la abreviatura completa no puede escribirse en la misma línea del texto. Por supuesto, esto ya deja entrever que no se permite la división de una abreviatura al final de una línea.
+
+Abreviaturas convencionales 
+
+Muchas abreviaturas tienen una forma convencional tan extendida que su uso es casi universal. En este tipo de abreviaturas, es importante fijarse en las letras de las que constan (por ejemplo, Av. o Avda.) y en la forma en que se escriben (en mayúsculas o en minúsculas, singular o plural, con o sin punto...). Estos son algunos ejemplos de abreviaturas convencionales:
+
+ antes de Cristo: (también a. de C.)
+ Anno Dómini: 
+ administración: admón.
+ etcétera: etc.
+ adverbio: adv.
+ adjetivo: adj.
+ por ejemplo (lat.: verbi gratia): o , más comúnmente ej. o 
+
+En realidad sería demasiado prolijo detallar en este artículo todas las abreviaturas convencionales (la lista ofrecida por la RAE contiene casi 350 abreviaturas de este tipo). De hecho, hay muchas más. Muchas se usan a diario y acaban incorporadas incluso en el lenguaje hablado y en el diccionario normativo de la RAE como palabras de derecho (como el caso de facsímile, cuya forma abreviada fax se incorporó al diccionario en la edición de 1992).
+
+Las abreviaturas de los ordinales también siguen un convenio normalizado: se escribe el numeral correspondiente y tras el punto se añade la terminación en forma volada (en función de que la palabra termine en -o o -a, apocopado -er como se muestra en la sección de ordinales de la RAE); por ejemplo:
+ primero, primer (apocopado), primera: , , 
+ segunda: 
+ tercer (apocopado): 
+ vigesimoquinto:
+
+Uso de las abreviaturas 
+
+Según la Real Academia Española (RAE), su uso no debe ser indiscriminado y debe ser eficaz. Por ejemplo, cualquier abreviatura debe suprimir al menos dos letras de la palabra abreviada, Respetando la letra inicial, seguida de una o varias letras que contengan la palabra, aunque hay algunas abreviaturas de uso general que no cumplen esta norma. Tampoco es adecuado utilizarlas con cantidades cuando estas están expresadas en letra. Por ejemplo, es incorrecto escribir cincuenta eur.; es más adecuado utilizar la palabra completa: cincuenta euros. Otra norma de estilo consiste en no utilizar abreviaturas de tratamiento cuando la palabra abreviada no precede al nombre propio. Por ejemplo, es incorrecto su uso en ... un Sr. estaba..., siendo en este caso necesario el uso de la forma no abreviada. Esta norma también es aplicable al uso de abreviaturas que se refieren al tipo de vía.
+
+Símbolos, siglas y acrónimos 
+
+Como antes se indicaba, existen algunas abreviaturas y abreviaciones que siguen unas reglas propias de uso, como son los símbolos, las siglas y los acrónimos.
+
+Los símbolos son abreviaciones de carácter científico-técnico.
+No llevan punto al final ni pueden cambiarse por mayúsculas ni se pluralizan las siguientes:
+ Los símbolos de las magnitudes del sistema métrico decimal, como el de kilogramo (kg), siendo incorrectas las formas *kg., *Kg, *kgs o cualquier otra.
+ Los símbolos de los puntos cardinales: N, S, E, O, SO, etc., siendo incorrecta la forma terminada en punto (p. ej., *E.).
+ Los símbolos monetarios como el del euro (€), el de la peseta (Pts), el del peso ($), el de la libra esterlina (£), el del yen (¥) o el del franco francés (F).
+ Los símbolos del Sistema Periódico de los Elementos: He, Fe, Cu, etc.
+ Los símbolos ISO para el nombrado de países y monedas. Constan de tres letras mayúsculas, en el caso de los países (COL=Colombia; ESP=España; USA=Estados Unidos de América; MEX=México; PE=Perú; CHL=Chile; ARG=Argentina; GRB=Reino Unido de Gran Bretaña e Irlanda del Norte; VEN=Venezuela), o de dos letras y un signo para las monedas (EUR=euro; USD=dólar estadounidense; AUD=dólar australiano; VEF=bolívar fuerte).
+
+Un ejemplo evidente de lo que ocurre cuando utilizamos mayúsculas en un símbolo es el cambio de significado que puede darse al símbolo: la diferencia que existe entre el milímetro (mm) y el megámetro (Mm). Aunque no es una unidad habitual, un Mm es equivalente a un millón de metros (mil kilómetros).
+
+Las siglas son abreviaciones que utilizan las letras iniciales de las palabras a las que representan: IVSS es, por ejemplo, la sigla de Instituto Venezolano de los Seguros Sociales.
+
+Los acrónimos son abreviaciones formadas por la concatenación de elementos de dos o más palabras. Por ejemplo, teleserie o Imserso. También son acrónimos las siglas que se pueden pronunciar como una palabra, como OTAN, talgo u ovni (de OVNI); o las abreviaciones que, en vez de utilizar las letras iniciales, usan también letras intermedias. Muchos acrónimos de otras lenguas son incorporados como palabras al castellano, como: radar o láser, y algunos se han formado de la traducción de los correspondientes acrónimos de dichas lenguas, como sida.
+
+Ejemplos 
+
+ srio./secretario.
+ n.º/número.
+ ise./izquierda.
+ dre./derecha.
+ av./avenida.
+ Uoi./usted.
+ ej./ejemplo.
+ abrev./abreviatura, abreviado.
+ adj./adjetivo.
+ cía./compañía.
+ Dr./doctor
+ DPC./derechos públicos del consumidor
+
+ Sra./señora
+ Sr./señor
+ col./colonia
+ att./atentamente
+
+Diccionarios de abreviaturas 
+En el mercado hay diversos diccionarios de abreviaturas, e incluso diccionarios reversos de abreviaturas. Entre ellos están:
+
+ Diccionario de Abreviaturas, Siglas y Acrónimos, de Miguel Murcia Grau, con , 9788483075005 (1998)
+ Diccionario de siglas médicas y otras abreviaturas, publicado por el Ministerio de Sanidad y Consumo en 2003
+ Trinxet Dictionary of Legal Abbreviations and Acronyms, escrito por Salvador Trinxet, con
+ y 978-1-62468-000-7 (2011)
+ Diccionario General de Abreviatura Españolas, de Juan Carlos Galende Díaz (2001)
+
+Véase también 
+
+ Acrónimo
+ Sigla
+ Numerónimo
+ Anexo:Abreviaturas aeronáuticas y aeroespaciales
+ Anexo:Abreviaturas latinas en bibliografía científica
+ Anexo:Abreviaturas latinas
+ Abreviación (lingüística)
+
+Referencias
+
+Enlaces externos 
+
+ Apéndice 2: Lista de abreviaturas, Diccionario panhispánico de dudas
+ Uso de las abreviaturas según el Diccionario panhispánico de dudas
+ Lista de abreviaturas en Wikilengua
+ Abreviaturas en comercio exterior

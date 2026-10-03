@@ -1,0 +1,176 @@
+Las ciencias de la Tierra son un conjunto de disciplinas cuyo objetivo es el estudio del planeta Tierra, incluidas su interacción con el resto del universo y la evolución de los seres vivos que habitan en él. Esta disciplina abarca diversas áreas del conocimiento, tales como: las geociencias, las ciencias atmosféricas, las ciencias marinas, las ciencias ambientales, las ciencias criosféricas, la limnología, las ciencias forestales, la ciencia del suelo, la geografía física, la paleontología, la ecología del paisaje y las ciencias planetarias.
+
+Las ciencias de la Tierra constituyen una herramienta para planificar una explotación racional de los recursos naturales, comprender las causas que originan los fenómenos naturales que afectan al ser humano y cómo este influye en la naturaleza con sus acciones.
+
+Por otro lado, las ciencias de la Tierra permiten entender los procesos naturales que han favorecido o amenazado la vida del hombre, y su estudio está ligado tanto al estudio de los flujos de energía en la naturaleza y al aprovechamiento de los mismos, como a la prevención de riesgos medioambientales, sísmicos, meteorológicos y volcánicos, entre otros.
+
+Un sistema es un conjunto de elementos que se relacionan e interactúan entre sí. El planeta es un sistema complejo cuyos componentes tienden al equilibrio, es decir que los movimientos en un sentido se compensan con otros en sentido inverso. Cualquier modificación que se produzca en algún elemento del sistema afecta directa o indirectamente a otros.
+
+Geociencias, equivale a Ciencias de la Tierra y es uno de aquellos términos posmodernos que se han inventado para dar cuenta del conjunto de disciplinas científicas que construyen conocimientos sobre la Tierra, para comprender los complejos y variados procesos involucrados en la evolución, desde su nacimiento como Planeta
+
+Los procesos internos generan relieves, o sea, lugares más altos o más bajos. Los procesos externos desgastan los relieves más altos y depositan en otros lugares los materiales producidos por ese desgaste o erosión, lo que mantiene el equilibrio del sistema físico.
+
+Los procesos endógenos o internos se producen en el interior de la Tierra como es la tectónica de placas. Los límites entre placas tectónicas se clasifican en tres tipos: de convergencia, de divergencia y transformantes. El movimiento de las placas tectónicas puede producir orogénesis, formación de montañas, por apilamiento o deformación de la corteza (plegamiento y fracturación) y fenómenos como terremotos, magmatismo, metamorfismo y vulcanismo, así como la creación y destrucción de corteza.
+
+Los procesos exógenos o externos que se desarrollan en la superficie terrestre intervienen en la transformación del relieve a través de la erosión, que consiste en el desgaste de la superficie terrestre; el transporte de los materiales del desgaste hacia otras zonas, y su posterior acumulación. Según el agente que actúa, la erosión se puede clasificar en: eólica, fluvial, marina, pluvial, glaciar, mecánica y antrópica.
+
+Las ciencias de la Tierra pueden incluir el estudio de la geología, la litosfera y la estructura a gran escala del interior de la Tierra, así como la atmósfera, la hidrosfera y la biosfera. Normalmente, los científicos de la Tierra utilizan herramientas de la geología, la cronología, la física, la química, la geografía, la biología y las matemáticas para construir una comprensión cuantitativa de cómo funciona y evoluciona la Tierra. Por ejemplo, los meteorólogos estudian el tiempo y vigilan las tormentas peligrosas. Los hidrólogos examinan el agua y advierten de inundaciones. Los sismólogos estudian los terremotos e intentan comprender dónde se producirán. Los geólogos estudian las rocas y ayudan a localizar minerales útiles. Los científicos de la Tierra trabajan a menudo sobre el terreno, quizás escalando montañas, explorando el fondo marino, arrastrándose por cuevas o vadeando pantanos. Miden y recogen muestras (como rocas o agua de río) y registran sus hallazgos en gráficos y mapas.
+
+Particularidades respecto a otras ciencias 
+
+Las ciencias de la Tierra abarcan el estudio temporal y espacial del planeta desde un punto de vista físico, incluyendo su interacción con los seres vivos. Las variadas escalas espacio-temporales de la estructura y la historia de la Tierra hacen que los procesos que en ella tienen lugar sean resultado de una compleja interacción entre procesos de distintas escalas espaciales (desde el milímetro hasta los miles de kilómetros) y temporales, que abarcan desde las centésimas de segundo hasta los miles de millones de años. Un ejemplo de esta complejidad es el distinto comportamiento mecánico que algunas rocas tienen en función de los procesos que se estudien: mientras las rocas que componen el manto superior responden elásticamente al paso de las ondas sísmicas (con periodos típicos de fracciones de segundo), se comportan como un fluido en las escalas de tiempo de la tectónica de placas
+
+Como el objeto de estudio (la Tierra) no es manipulable y la obtención de datos directos es limitada, las técnicas de simulación análoga o computacional son de cierta utilidad.
+
+Historia 
+
+Las ciencias de la Tierra se encuentran en constante evolución. La geografía de Plinio el Viejo solo describía los elementos de la superficie de la Tierra sin ligarlos a través de procesos, y se daba poca importancia a la dinámica de cambios y la interacción con los elementos que componen el medio ambiente. Durante los primeros siglos de exploración europea se inició una etapa de conocimiento mucho más detallado de los continentes y océanos. Se cartografiaron en detalle, por ejemplo, las alineaciones magnéticas en el océano Atlántico, que serían de gran utilidad para la navegación intercontinental. En 1596, por ejemplo, Abraham Ortelius vislumbra ya la hipótesis de la deriva continental, precursora de la teoría de la tectónica de placas. Antes, los exploradores españoles y portugueses, habían acumulado un detallado conocimiento del campo magnético terrestre. El nacimiento de los conceptos básicos de la geología (gradualismo, superposición, etc), en el y (p.e., James Hutton) o la meteorología, dio paso a una eclosión en el estudio de la Tierra. Hoy, las ciencias de la Tierra son parte de las ciencias físicas cuantitativas basadas en el empirismo, la experimentación y la reproducibilidad de las observaciones. Por otra parte también son ciencias que ayudan a mejorar la comprensión del planeta Tierra, para poder brindar respuestas frente a los desafíos para preservar el medio ambiente y alcanzar un desarrollo sostenible.
+
+Disciplinas 
+
+ Estudio de la Tierra sólida:
+ Geofísica, estudio del planeta desde el punto de vista de la física. Se analizan y modelan los fenómenos geológicos, con el fin de lograr una descripción matemática y geométrica de los mismos. Incluye disciplinas como la geodinámica o la sismología.
+ Geología, estudia la dinámica interna y externa de la tierra, lo referente a las rocas y su estructura, los yacimientos minerales, la evolución del planeta, fenómenos como la tectónica de placas, las orogenias, terremotos, vulcanismo, avalanchas, inundaciones, etc.
+ Estratigrafía, estudia las rocas sedimentarias, metamórficas y volcánicas estratificadas, las cuencas sedimentarias, la paleogeografía, las discontinuidades del registro geológico y la escala estratigráfica global.
+ Geología Histórica, estudia las transformaciones que ha experimentado la Tierra desde su formación, hace unos 4570 millones de años, hasta el presente.
+ Geomorfología, estudia las formas de la superficie terrestre, relacionadas con las estructuras y litología del subsuelo y los procesos erosivos que moldean las superficie.
+ Paleoclimatología, estudia las características climáticas de la Tierra a lo largo de su historia.
+ Paleogeografía, estudia la distribución a lo largo de los tiempos geológicos de las masas continentales y océanos en general, de la evolución de orogenias, cuencas sedimentarias, y de los medios sedimentarios en detalle.
+ Petrografía, se ocupa de la descripción de las rocas, en especial estructuras, texturas y composición mineralógica.
+ Petrología, estudia la composición y formación de las rocas, sus propiedades físicas y químicas, las relaciones mineralógicas, espaciales y cronológicas, y las asociaciones minerales (paragénesis) y rocosas. Estudia las rocas ígneas, metamórficas y sedimentarias.
+ Sedimentología, estudia los procesos de formación, transporte y deposición del material que se acumula como sedimento en ambientes continentales y marinos y que finalmente forman rocas sedimentarias. Trata de interpretar y reconstruir los ambientes sedimentarios del pasado.
+ Tectónica, estudia las estructuras geológicas producidas por deformación de la corteza terrestre, las que las rocas adquieren después de haberse formado, así como los procesos que las originan. Analiza la mecánica y la dinámica de la litosfera, para dar explicación a las deformaciones (pliegues y fallas) y formaciones estructurales como son las placas tectónicas.
+ Vulcanología, estudia el vulcanismo, el magmatismo y otros fenómenos geológicos relacionados.
+ Geografía, estudia la relación e interacción de la superficie terrestre con el hombre.
+ Geoquímica, estudia la abundancia absoluta y relativa, distribución y migración de los elementos que conforman la Tierra.
+ Paleontología, estudia e interpreta el pasado de la vida sobre la Tierra a través de los fósiles. Describe la evolución de la vida en nuestro planeta. Los datos paleontológicos proporcionan información cronoestratigráfica, paleogeográfica, paleoclimatológica, eventos catastróficos del pasado, etc.
+ Ciencia del suelo, estudia el suelo como recurso natural.
+ Geodesia, estudia la tierra teniendo en cuenta su curvatura.
+ Climatología, estudio del clima terrestre actual y en el pasado geológico.
+ Hidrología, estudia la distribución, espacial y temporal, y las propiedades del agua presente en la atmósfera y en la corteza terrestre.
+ Meteorología, estudia la dinámica atmosférica y el tiempo meteorológico.
+ Oceanografía u oceanología, estudia la dinámica oceánica como las mareas, el oleaje y las corrientes. Estudia la vida y el suelo oceánico con el fin de una comprensión completa de la formación y evolución del planeta Tierra (estudio de fosas, dorsales, islas y cordilleras sumergidas).
+ Biogeografía es una ciencia interdisciplinar entre la Biología y la Geografía, que estudia la distribución de los seres vivos sobre la Tierra.
+
+Metodología 
+Las metodologías varían en función de la naturaleza de los sujetos estudiados. Los estudios suelen clasificarse en una de estas tres categorías: observacionales, experimentales o teóricos. Los científicos de la Tierra a menudo realizan sofisticados análisis informáticos o visitan un lugar interesante para estudiar los fenómenos terrestres (por ejemplo, la Antártida o las cadenas de islas con puntos calientes).
+
+Una idea fundacional en las ciencias de la Tierra es la noción de Uniformismo, que afirma que "los rasgos geológicos antiguos se interpretan mediante la comprensión de los procesos activos que se observan fácilmente". En otras palabras, cualquier proceso geológico que actúe en el presente ha operado de la misma manera a lo largo del tiempo geológico. Esto permite a quienes estudian la historia de la Tierra aplicar el conocimiento de cómo funcionan los procesos de la Tierra en el presente para comprender cómo ha evolucionado y cambiado el planeta a lo largo de la historia.
+
+Desglose de las ciencias de la Tierra 
+
+ Atmósfera
+ Química atmosférica
+ Geografía
+ Climatología
+ Meteorología
+ Hidrometeorología
+ Paleoclimatología
+
+ Biosfera
+ Biogeoquímica
+ Biogeografía
+ Ecología
+ Ecología del paisaje
+ Geoarqueología
+ Geomicrobiología
+ Paleontología
+ Palinología
+ Micropaleontología
+
+ Hidrosfera
+ Hidrología
+ Hidrogeología
+ Limnología (ciencia del agua dulce)
+ Oceanografía (ciencia marina)
+ Oceanografía química
+ Oceanografía física
+ Oceanografía biológica (biología marina)
+ Oceanografía geológica (geología marina)
+ Paleoceanografía
+
+ Litosfera (geosfera)
+ Geología
+ Geología económica
+ Ingeniería geológica
+ Geología ambiental
+ Geología forense
+ Geología histórica
+ Geología cuaternaria
+ Geología planetaria y geografía planetaria
+ Sedimentología
+ Estratigrafía
+ Geología estructural
+ Geografía
+ Geografía humana
+ Geografía física
+ Geoquímica
+ Geomorfología
+ Geofísica
+ Geocronología
+ Geodinámica (véase también Tectónica)
+ Geomagnetismo
+ Gravimetría (también forma parte de Geodesia)
+ Sismología
+ Glaciología
+ Hidrogeología
+ Mineralogía
+ Cristalografía
+ Gemología
+ Petrología
+ Petrofísica
+ Espeleología
+ Vulcanología
+
+ Pedosfera
+ Geografía
+ Edafología
+ Edafología
+ Pedología
+
+ Sistemas
+ Ciencia del sistema Tierra
+ Ciencias ambientales
+ Geografía
+ Geografía humana
+ Geografía física
+ Hipótesis Gaia
+ Ecología de sistemas
+ Geología de sistemas
+
+ Otros
+ Geografía
+ Cartografía
+ Geoinformática 
+ Geoestadística
+ Geodesia y Topografía
+ Teledetección
+ Nanogeociencia
+
+Véase también 
+ Ciencia del sistema Tierra
+ Ciencias ambientales
+ Geología histórica
+ Ingeniería del petróleo
+ Minería
+ Ecología del paisaje 
+ Riesgos medioambientales 
+ Ciencias planetarias 
+ Riesgo natural
+
+Enlaces externos 
+
+ Nature Geoscience
+
+Referencias
+
+Bibliografía 
+ Allaby M., 2008. Dictionary of Earth Sciences, Oxford University Press, 
+ Korvin G., 1998. Fractal Models in the Earth Sciences, Elsvier, 
+ 
+ 
+ 
+ 
+ Tarbuck E. J., Lutgens F. K., and Tasa D., 2002. Earth Science, Prentice Hall, 
+
+Ciencias de la Tierra

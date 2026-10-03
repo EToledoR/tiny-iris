@@ -1,0 +1,159 @@
+Un cuadrado en geometría es un cuadrilátero regular, es decir, una figura plana de cuatro lados congruentes y paralelos dos a dos, y cuatro ángulos interiores rectos (90°), por lo que también cumple con la definición de rectángulo y paralelogramo
+
+También se puede definir como un rectángulo con dos lados adyacentes de igual longitud. Es el único polígono regular cuyo ángulo interno, ángulo central, y ángulo externo son todos iguales (90°), y cuyas diagonales son todas iguales en longitud. Un cuadrado con vértices ABCD se denotaría como ◻ABCD.
+
+Definición 
+Un cuadrado es una figura geométrica plana que consiste en cuatro puntos unidos por segmentos de igual medida, que encierran una región del plano, formando ángulos rectos
+
+Características
+Un cuadrilátero convexo es un cuadrado si y sólo si es cualquiera de los siguientes:
+ Un rectángulo con dos lados adyacentes iguales
+ Un rombo con un ángulo vértice recto
+ Un rombo con todos los ángulos iguales
+ Un paralelogramo con un ángulo vértice recto y dos lados adyacentes iguales
+ Un cuadrilátero con cuatro lados iguales y cuatro [[ángulos rectos
+ Un cuadrilátero en el que las diagonales son iguales y son bisectrices perpendiculares entre sí (es decir, un rombo con diagonales iguales).
+ Un cuadrilátero convexo con lados sucesivos a, b, c, d cuya área es
+
+Propiedades 
+Por ser cuadrilátero, hereda las siguientes propiedades:
+
+Tiene solo dos diagonales.
+Sus ángulos internos suman 360°.
+
+A partir de la definición euclidiana reducida y aplicando deducción se pueden demostrar las siguientes propiedades del cuadrado:
+
+Es un paralelogramo.
+Tiene lados opuestos paralelos.
+Sus diagonales tienen la misma longitud.
+Sus diagonales se bisecan en el baricentro.
+Sus diagonales son perpendiculares entre sí.
+Sus diagonales bisecan los ángulos por los que pasa.
+Tiene cuatro ejes de simetría que pasan por el baricentro; un par son perpendiculares a los lados y el otro par contiene las diagonales.
+
+Formulario 
+Fórmulas en función del lado del cuadrado:
+ Perímetro: 
+ Longitud de cada diagonal: 
+ Área: 
+
+Fórmulas en función de la diagonal del cuadrado:
+ Longitud de cada lado: 
+ Perímetro: 
+ Área:
+
+Construcciones
+Según Símbolo de Schläfli se pueden obtener:
+{4/1} es el cuadrado.
+{4,4} es el teselado del plano.
+{4,3} es el cubo.
+
+Propiedades relativas a la circunferencia inscrita o circunscrita.
+ El lado de un cuadrado es igual al diámetro de la circunferencia inscrita en este.
+ La diagonal de un cuadrado es igual al diámetro de la circunferencia circunscrita a este.
+
+Dual del cuadrado
+ Si se inscribe un cuadrilátero en un cuadrado, colocando los vértices en los puntos medios de los lados de este, resulta el dual, que es otro cuadrado cuya área es la mitad de la del cuadrado exterior.
+
+Otros datos 
+ Las diagonales de un cuadrado son (aproximadamente 1,414) veces la longitud de un lado del cuadrado. Este valor, conocido como raíz cuadrada de 2 o constante de Pitágoras, fue el primer número que se demostró que era irracional.
+ Un cuadrado también puede definirse como un paralelogramo con diagonales iguales que bisecan los ángulos.
+ Si una figura es a la vez un rectángulo (ángulos rectos) y un rombo (longitudes de arista iguales), entonces es un cuadrado.
+ Un cuadrado tiene un área mayor que cualquier otro cuadrilátero con el mismo perímetro.
+ Un mosaico cuadrado es uno de los tres mosaicos regulares del plano (los otros son el triángulo equilátero y el hexágono regular).
+ El cuadrado pertenece a dos familias de politopos en dos dimensiones: hipercubo y el politopo de cruce. El símbolo de Schläfli para el cuadrado es {4}.
+ El cuadrado es un objeto altamente simétrico. Tiene cuatro líneas de simetría de reflexión y tiene simetría rotacional de orden 4 (a través de 90°, 180° y 270°). Su grupo de simetría es el grupo diedro D4.
+ Un cuadrado puede estar inscrito dentro de cualquier polígono regular. El único otro polígono con esta propiedad es el triángulo equilátero.
+ Si el círculo inscrito de un cuadrado ABCD tiene puntos de tangencia E en AB, F en BC, G en CD, y H en DA, entonces para cualquier punto P en el círculo inscrito,
+
+ Si es la distancia desde un punto arbitrario del plano al vértice i de un cuadrado y es el circunradio del cuadrado, entonces
+
+ Si y son las distancias desde un punto arbitrario del plano al centroide del cuadrado y a sus cuatro vértices respectivamente, entonces
+
+y
+
+donde es el circunradio del cuadrado.
+
+Coordenadas y ecuaciones 
+
+Las coordenadas de los vértices de un cuadrado de lados verticales y horizontales, centrado en el origen y de lado 2 son (±1,  ±1), mientras que el interior de este cuadrado está formado por todos los puntos (xi, yi) con y . La ecuación
+
+especifica el límite de este cuadrado. Esta ecuación significa "x2 o y2, el que sea mayor, es igual a 1". El circunradio de este cuadrado (el radio de una circunferencia trazada a través de los vértices del cuadrado) es la mitad de la diagonal del cuadrado, y es igual a Luego la circunferencia tiene la ecuación
+
+Alternativamente la ecuación
+
+también se puede utilizar para describir el límite de un cuadrado con centro coordenadas (a, b), y un radio horizontal o vertical de r. El cuadrado tiene, por tanto, la forma de una bola topológica según la métrica de distancias L1.
+
+Construcción
+Las siguientes animaciones muestran cómo construir un cuadrado utilizando Regla y compás. Esto es posible ya que 4 = 22, una potencia de dos.
+
+.
+
+Simetría 
+
+El cuadrado tiene simetría Dih4, orden 8. Hay 2 subgrupos diedros: Dih2, Dih1, y 3 subgrupos cíclico: Z4, Z2, y Z1.
+
+Un cuadrado es un caso especial de muchos cuadriláteros de simetría inferior:
+ Un rectángulo con dos lados iguales adyacentes
+ Un cuadrilátero con cuatro lados iguales y cuatro [[ángulos rectos
+ Un paralelogramo con un ángulo recto y dos lados iguales adyacentes
+ Un rombo con un ángulo recto
+ Un rombo con todos los ángulos iguales
+ Un rombo con diagonales iguales
+Estas 6 simetrías expresan 8 simetrías distintas en un cuadrado. John Conway las etiqueta con una letra y un orden de grupo.
+
+Cada simetría de subgrupo permite uno o más grados de libertad para los cuadriláteros irregulares. r8 es simetría completa del cuadrado, y a1 no tiene simetría. d4 es la simetría de un rectángulo, y p4 es la simetría de un rombo. Estas dos formas son duales entre sí, y tienen la mitad del orden de simetría del cuadrado. d2 es la simetría de un trapecio isósceles, y p2 es la simetría de una cometa. g2 define la geometría de un paralelogramo.
+
+Sólo el subgrupo g4 no tiene grados de libertad, pero puede verse como un cuadrado con arista dirigida.
+
+Cuadrados inscritos en triángulos
+
+Todo triángulo agudo tiene tres inscritos cuadrados (cuadrados en su interior tales que los cuatro vértices de un cuadrado se encuentran en un lado del triángulo, por lo que dos de ellos se encuentran en el mismo lado y, por tanto, un lado del cuadrado coincide con parte de un lado del triángulo). En un triángulo rectángulo dos de los cuadrados coinciden y tienen un vértice en el ángulo recto del triángulo, por lo que un triángulo rectángulo sólo tiene dos cuadrados inscritos distintos. Un triángulo obtuso sólo tiene un cuadrado inscrito, con un lado que coincide con parte del lado mayor del triángulo.
+
+La fracción del área del triángulo que ocupa el cuadrado no es mayor que 1/2.
+
+La cuadratura del círculo
+La cuadratura del círculo, propuesta por los antiguos geómetras, es el problema de construir un cuadrado con la misma área que un círculo dado, utilizando sólo un número finito de pasos con regla y compás.
+
+En 1882, se demostró que la tarea era imposible como consecuencia del teorema de Lindemann-Weierstrass, que demuestra que el número π (π) es un número trascendental y no un número irracional algebraico; es decir, no es la raíz de ningún polinomio con coeficientes racionales.
+
+Geometría no euclidiana 
+En geometría no euclidiana, los cuadrados son más generalmente polígonos con 4 lados iguales y ángulos iguales.
+
+En geometría esférica, un cuadrado es un polígono cuyos bordes son grandes arcos de círculo de igual distancia, que se encuentran en ángulos iguales. A diferencia del cuadrado de la geometría plana, los ángulos de dicho cuadrado son mayores que un ángulo recto. Los cuadrados esféricos más grandes tienen ángulos más grandes.
+
+En geometría hiperbólica no existen cuadrados con ángulos rectos. Más bien, los cuadrados en geometría hiperbólica tienen ángulos menores que los ángulos rectos. Los cuadrados hiperbólicos más grandes tienen ángulos más pequeños.
+
+Ejemplos:
+
+Cuadrado cruzado 
+
+Un cuadrado cruzado es una faceta del cuadrado, un polígono auto-intersecante creado eliminando dos aristas opuestas de un cuadrado y volviendo a conectar por sus dos diagonales. Tiene la mitad de simetría que el cuadrado, Dih2, orden 4. Tiene la misma disposición de vértices que el cuadrado, y es vértice-transitivo. Aparece como dos triángulo 45-45-90 con un vértice común, pero la intersección geométrica no se considera un vértice.
+
+Un cuadrado cruzado se asemeja a veces a una pajarita o a una mariposa. El rectángulo cruzado está relacionado, como faceta del rectángulo, en ambos casos especiales de cuadrilátero cruzados.
+
+El interior de un cuadrado cruzado puede tener una densidad de polígonos de ±1 en cada triángulo, dependiendo de la orientación del arrollamiento como sentido horario o antihorario.
+
+Un cuadrado y un cuadrado cruzado tienen las siguientes propiedades en común:
+ Los lados opuestos son iguales en longitud.
+ Las dos diagonales son iguales en longitud.
+ Tiene dos líneas de simetría reflexional y simetría rotacional de orden 2 (por 180°).
+
+Existe en la figura de vértice de un poliedro estrellado uniforme, el tetrahemihexaedro.
+
+Véase también 
+ Cubo
+ Área
+ Anexo:Figuras geométricas
+
+Referencias
+
+Enlaces externos 
+
+ 
+ ¿Cómo se construye un cuadrado? el análisis de una síntesis euclidiana. Clara Helena Sánchez B. Universidad Nacional de Colombia, Bogotá
+
+Cuadriláteros
+Símbolos
+Polígonos construibles
+Formas elementales

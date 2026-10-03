@@ -1,0 +1,39 @@
+El autogiro o girocóptero es una aerodino de alas móviles, es decir, en este caso, esta aeronave vuela como los aviones pero su ala es un rotor que gira por la acción del viento relativo que lo atraviesa de abajo arriba. Por ello, se puede considerar un híbrido entre el aeroplano y el helicóptero: al igual que el aeroplano, su propulsión se realiza mediante una hélice, pero, además de alas, tiene un rotor como el helicóptero. Este rotor no está conectado al motor de la aeronave, por lo que autogira, impulsado por el aire, generando así la fuerza de sustentación. En el helicóptero, por el contrario, la propulsión y la sustentación se producen en el rotor, que sí está impulsado por el motor.
+
+Historia 
+
+El autogiro fue invención del ingeniero español Juan de la Cierva, quien desarrolló el rotor articulado que más tarde usarían los helicópteros (aunque es pasivo, este sistema diseñado por Juan de la Cierva compensaba la diferencia de empuje del aire batido, cuando la pala va adelante, con el batido, cuando va atrás, que hacía volcar tanto al autogiro como al helicóptero). En su primer vuelo, el autogiro logró recorrer 200 metros en 1917 y más tarde, realizó el primer viaje entre aeródromos desde Getafe a Cuatro Vientos en 1918. Hay que destacar que Juan de la Cierva nunca se interesó por los helicópteros, a los que consideraba demasiado complicados para volar y proclives a los accidentes.
+
+Los primeros modelos de autogiros fabricados por Juan de la Cierva disponían de unas pequeñas alas que hacían la función de alerones para controlar el alabeo. Posteriormente su inventor introdujo una articulación en la cabeza del rotor y le aplicó «mando directo» haciendo innecesarias las citadas alas. Así mismo, en los modelos más avanzados se podría transmitir fuerza del motor al rotor por medio de un prelanzador, acortando así la carrera de despegue, hasta llegar al «despegue de salto», prácticamente vertical. El primer prelanzador fue diseñado por Heraclio Alfaro Fournier. Un perfeccionamiento posterior fue el llamado rotor autodinámico, introduciendo un ángulo respecto a la vertical en la articulación de arrastre, sistema que mantenía las palas del rotor en «paso fino» hasta que alcanzada una cierta velocidad y se desembragaba el motor, momento en el que las palas se desplazaban en arrastre aumentando bruscamente su ángulo de ataque, y generando así la sustentación necesaria para el «despegue de salto».
+
+El nacimiento de los helicópteros propició el declive de los autogiros hasta su práctica desaparición, aunque en tiempos más recientes ha habido un cierto resurgir entre la aviación deportiva, tanto por iniciativas comerciales como por aficionados que construyen sus propios autogiros. Igualmente se desarrollaron aparatos experimentales como el Wallis WA-116 Agile, famoso por su participación en la película de James Bond de 1967 Sólo se vive dos veces.
+
+Tras varios años de trabajo en la Maestranza Aérea de Albacete, el 15 de enero de 1998 se voló de nuevo un autogiro Cierva C.30. Fue pilotado por el teniente coronel Fernando Iglesia Manix. Después de un accidente en junio de 2000 fue entregado al Museo del Aire, ubicado en la base aérea de Cuatro Vientos (Madrid).
+
+Autorrotación con motor parado 
+En caso de una parada del motor en vuelo, el autogiro planea y comienza a descender lentamente, tal como cae la semilla de un sicomoro, que tiene una forma de hélice que hace que caiga suavemente del árbol en autorrotación. Cuanto más rápido lo haga, tanto más rápidamente giran las palas del rotor, almacenando energía y proporcionando mayor sustentación. También en un helicóptero se puede recurrir a la autorrotación para tomar tierra sin motor, pero el piloto tiene que actuar sobre el paso colectivo y colocar el rotor en régimen de autorrotación. En cambio, un autogiro vuela siempre en autorrotación. Cabe aclarar que para que las palas autorroten, el ángulo de ataque debe ser negativo.
+
+Véase también 
+ Feria Aerosport
+ Helicóptero
+ Juan de la Cierva
+ Pere de Son Gall
+ Historia de la aviación
+ Anexo:Cronología de la aviación
+ Ígor Sikorski
+ Girodino
+
+Referencias
+
+Bibliografía
+
+Enlaces externos 
+
+ Giroaventura, aventuras de un grupo de autogiros.
+ Popular Rotorcraft Association. Asociación de gente que construye y vuela autogiros y helicópteros .
+ Rotorbyte .
+
+Aviación
+Aeronaves por tipo
+ 
+Inventos de España

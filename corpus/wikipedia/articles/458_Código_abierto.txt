@@ -1,0 +1,70 @@
+El código abierto () es un modelo de desarrollo de software basado en la colaboración abierta. Se enfoca en los beneficios prácticos (acceso al código fuente) y en cuestiones éticas o de libertad que tanto se destacan en el software libre. Para muchos el término «libre» hace referencia al hecho de adquirir un software de manera gratuita. Sin embargo, de lo que se trata es de abaratar los costos y ampliar la participación; que sea libre no necesariamente implica que sea gratuito, lo importante sigue siendo ampliar la participación y extender libertades.
+
+Historia 
+
+Se utilizó por primera vez en 1990 en las comunidades de software libre, tratando de usarlo como reemplazo al ambiguo nombre original en inglés del software libre (free software). Lo cual implica, para el caso que nos ocupa, «software que podemos usar, escribir, modificar y redistribuir libremente».
+
+La expresión, para algunos, no resultó apropiada como reemplazo para el ya tradicional free software, pues eliminaba la idea de libertad, confundida con la simple gratuidad. No obstante continúa siendo ambivalente, puesto que se usa en la actualidad por parte de programadores que no ofrecen software libre pero, en cambio, sí ofrecen el código fuente de los programas para su revisión o modificación previamente autorizada por parte de sus pares académicos.
+
+Dada la ausencia de tal ambigüedad en la lengua española, el término software libre es adecuado para referirse a programas que se ofrecen con total libertad de modificación, uso y distribución bajo la regla implícita de no modificar dichas libertades hacia el futuro. De hecho en inglés también se usa el término «libre software» para evitar ambigüedades semánticas.
+
+Desde el punto de vista de una «traducción estrictamente literal», el significado textual de código abierto es que «se puede examinar el código fuente», por lo que puede ser interpretado como un término más débil y flexible que el del software libre. Sin embargo, ambos movimientos reconocen el mismo conjunto de licencias y mantienen principios equivalentes.
+
+Sin embargo, hay que diferenciar los programas de código abierto, que dan a los usuarios la libertad de mejorarlos, de los programas que simplemente tienen el código fuente disponible, previa restricciones sobre su uso o modificación.
+
+En la actualidad el código abierto se utiliza para definir un movimiento nuevo de software (la Iniciativa Open Source), diferente al movimiento del software libre, incompatible con este último desde el punto de vista filosófico, y completamente equivalente desde el punto de vista práctico, de hecho, ambos movimientos trabajan juntos en el desarrollo práctico de proyectos.
+
+La idea bajo el concepto de código abierto es sencilla: cuando los programadores (en Internet) pueden leer, modificar y redistribuir el código fuente de un programa, este evoluciona, se desarrolla y mejora. Los usuarios lo adaptan a sus necesidades, corrigen sus errores con un tiempo de espera menor a la aplicada en el desarrollo de software convencional o cerrado, dando como resultado la producción de un mejor software.
+
+Movimiento del código abierto 
+
+La idea del código abierto se centra en la premisa de que al compartir el código, el programa resultante tiende a ser de calidad superior al software propietario, es una visión técnica. Por otro lado, el software libre tiene tendencias filosóficas e incluso morales: el software propietario, al no poder compartirse, es «antiético» dado que prohibir compartir entre seres humanos va en contra del sentido común. Ninguna adaptación ni cambios que no haya realizado previamente la empresa fabricante.
+
+Al igual que el software libre, el código abierto tiene una serie de requisitos necesarios para que un programa pueda considerarse dentro de este movimiento, estos son:
+
+ Libre redistribución: el software debe poder ser regalado o vendido libremente.
+ Código fuente: el código fuente debe estar incluido u obtenerse libremente.
+ Trabajos derivados: la redistribución de modificaciones debe estar permitida.
+ Integridad del código fuente del autor: las licencias pueden requerir que las modificaciones sean redistribuidas solo como parches.
+ La licencia no debe discriminar a ninguna persona o grupo: nadie puede dejarse fuera.
+ Sin discriminación de áreas de iniciativa: los usuarios comerciales no pueden ser excluidos.
+ Distribución de la licencia: deben aplicarse los mismos derechos a todo el que reciba el programa.
+ La licencia no debe ser específica de un producto: el programa no puede licenciarse solo como parte de una distribución mayor.
+ La licencia no debe restringir otro software: la licencia no puede obligar a que algún otro software que sea distribuido con el software abierto deba también ser de código abierto.
+ La licencia debe ser tecnológicamente neutral: no debe requerirse la aceptación de la licencia por medio de un acceso por clic de ratón o de otra forma específica del medio de soporte del software.
+
+Este decálogo es compatible con las cuatro libertades del software libre.
+
+Programas en código abierto 
+
+ Sistemas operativos: los más conocidos, Red Hat (Centos), Ubuntu y Debian, basados en Linux. Android, de Google, para teléfonos inteligentes y tabletas.
+ Programas: Existen programas de código abierto en diferentes áreas, algunos de ellos son: las suites ofimáticas LibreOffice y Open Office , el navegador Firefox, el cliente de correo electrónico Thunderbird, el reproductor multimedia VLC, editores de imágenes GIMP o InkScape, editor de video Kdenlive, editor de audio Audacity, videojuegos Frets on fire, 0 A.D., Hypnotix es una aplicación de transmisión de IPTV con soporte para transmisión en vivo, películas y programas. También puedes obtener una enorme lista de canales de televisión gratuitos de todo el mundo. Apertium Apertium es una plataforma de software libre y de código abierto para la traducción automática, con licencia GNU. La plataforma ofrece: traducción automática independiente del idioma; herramientas de recogida de datos lingüísticos para la traducción automática; datos lingüísticos de un gran número de pares de lenguas. Apertium es utilizado en particular por la Fundación Wikimedia para la traducción de artículos
+ Antivirus: ClamWin
+ Los programas de Apache Software Foundation y Github.
+ El lenguaje de programación de Apple Swift 2.
+ Plataformas de enseñanza como Moodle Chamilo (un ejemplo es sloodle)
+Hyperledger Fabric: Proyecto de código abierto de Linux Foundation, es una infraestructura modular de blockchain.
+
+Código abierto en educación 
+
+El software libre o de código abierto está siendo implementado en la educación, debido tanto a razones pragmáticas (menor coste, estabilidad, seguridad, eficiencia) como a razones éticas, sociales y políticas. Autores como Stallman insisten en que, a nivel educativo, debería utilizarse solamente software de código abierto, debido a que:
+
+ Dan la libertad de copiar y redistribuir, por lo que se genera un ahorro para las instituciones educativas.
+ Promueven que se siga utilizando software libre, lo que ayuda al desarrollo de ciudadanos más independientes en materia de tecnología.
+ Permite a los alumnos aprender realmente cómo funciona el software y a compartir lo aprendido dentro de una comunidad.
+
+Extensiones del concepto 
+
+Recientemente se está aplicando por extensión el término «código abierto» o su equivalente en inglés open source a creaciones que no son programas informáticos. En concreto se habla popularmente de cine open source para referirse a cine bajo distintos tipos de licencias libres. Otro ejemplo es el proyecto de una economía de código abierto de la plataforma Open Source Ecology, comenzado con el desarrollo de máquinas industriales de código abierto. Otro ejemplo es lo que sucede con el movimiento social para que liberen las vacunas contra el coronavirus COVID-19.
+
+Véase también
+
+Referencias
+
+Enlaces externos 
+ Open Source Initiative
+ Crítica de la FSF al término código abierto (open source)
+ Observatorio Nacional del Software de Fuentes Abiertas
+ Comunidad para la difusión del Open Source y de Gnu Linux
+ Varios, "Producir Software de Código Abierto: Como Llevar a Buen Puerto un Proyecto de Código Libre". O'Reilly, 2007. PDF | OpenLibra Libro gratuito (español).
+Video explicativo sobre software Libre

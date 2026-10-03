@@ -1,0 +1,96 @@
+Civilization es una serie de videojuegos de estrategia por turnos iniciada por Sid Meier cuando lanzó el videojuego Civilization en 1991 y que ha sido continuada hasta hoy con varias secuelas.
+
+Historia 
+El primer Civilization no fue publicado en España pero Civilization II y Civilization III sí, en 1996 y 2002 respectivamente. Mientras que las dos primeras versiones fueron publicadas por Microprose, la desaparición de esa empresa hizo que la francesa Infogrames (posteriormente rebautizada con el histórico nombre de Atari) adquiriera los derechos de ambos juegos y de la propia saga; en colaboración con Firaxis Games, la empresa del creador del juego Sid Meier, publicaron Civilization III y IV.
+
+Tras la desaparición de Microprose, los derechos de los tres juegos de la saga han estado en posesión de Atari (antes Infogrames) hasta noviembre de 2004, fecha en la que fueron vendidos por 15,5 millones de euros a la empresa Take Two Interactive, que distribuirá los productos de la franquicia a través de su filial 2K Games, para paliar la mala situación económica de Atari. Firaxis y 2K Games publicaron Civilization IV en octubre de 2005.
+
+Civilization ha creado el esquema que han seguido la mayoría de los juegos de estrategia basados en turnos; además, se han creado juegos a su sombra, como Freeciv o los juegos de Activision Civilization: Call to Power y Call to Power II. También Firaxis creó otro juego de similar mecánica pero de ambientación de ciencia ficción, Sid Meier's Alpha Centauri, publicado en 1999 y su secuela Alien Crossfire. En estos juegos se añadió la posibilidad de diseñar las unidades y una configuración detallada de la forma de gobierno (llamada «Ingeniería social»). Estas innovaciones se perdieron en Civilization III. 
+
+Civilization fue desarrollado originalmente para el sistema operativo DOS para PC. Tuvo que soportar numerosas revisiones para varias plataformas (incluyendo Microsoft Windows, Macintosh, Atari ST, GNU/Linux, AmigaOS y Super Nintendo) N-Gage. La última versión (Civilization Revolution) se encuentra para Nintendo DS, Wii, PlayStation 3 y xbox 360.
+
+Videojuegos
+
+Civilization 
+
+Civilization fue el primer videojuego de la serie, publicado en 1991. Es un juego de un solo jugador, con versión adaptada al modo multijugador. El jugador toma el rol del regente de una civilización empezando con una simple unidad-poblador (a veces con dos) y trata de construir un imperio compitiendo contra otras civilizaciones. El objetivo del juego es dirigir esta civilización desde su inicio hasta llegar al espacio o conquistar todo el planeta (que puede ser la Tierra o un planeta creado al azar). Considerado por muchos como el mejor juego de estrategia para ordenador de la historia, cuenta con una gran comunidad de aficionados.
+
+Civilization II 
+
+Este juego llegaría de la mano de Sid Meier a la consola PlayStation y a las PC con una idea nueva entre todos los juegos de estrategia: empezar una civilización desde una tribu nómada y llevarla a lo más alto posible en tecnología, poder y dinero. Un juego bastante largo donde se debe hacer investigación científica, defensa de ciudades, planificación de ataques hasta a seis civilizaciones más, treguas, tratados de paz y alianzas. Está diseñado para ser ejecutado en ventana de Windows con una nueva interfaz y gráficos en perspectiva isométrica que mejoraban a los de visión aérea de la versión anterior.
+
+Civilization III 
+
+En esta edición se creó el concepto de «cultura» y «zona de influencia», con este último como resultado del crecimiento del primero. Los puntos de cultura se ganan por medio de la construcción, ya sea de estructuras que generan cultura en las ciudades como templos, catedrales, coliseos, bibliotecas, etc. o por medio de maravillas del mundo que traen cultura en grandes niveles. La cultura se gana por turnos y cuando se llega a ciertos niveles, se amplía el rango de cobertura de la zona de influencia de la ciudad en cuestión. La «zona de influencia» o «territorio» se refiere a la zona en la cual se ejerce soberanía por parte de una nación (más específicamente, se refiere a la suma de las zonas de influencia de las ciudades). Como normalmente las ciudades tienden a estar agrupadas (al menos al principio del juego), se forma un territorio el cual se considera nacional. Este concepto introdujo numerosos cambios relacionados en el sistema de juego. También se creó el concepto de «recursos», bienes presentes en el territorio del país cuyo consumo otorgará la posibilidad de crear mejores unidades y estructuras, o ayudará a hacer feliz a la población.
+
+Civilization III: Play the World 
+
+Play the World incluye la opción de juego en modo multijugador con la característica principal de que es posible jugarlo en tiempo real y no basado en turnos como las anteriores versiones. Además de nuevas tropas, e imágenes incluye dos nuevos modos de juego: regicidio y eliminación. En regicidio existe una nueva tropa, el rey o la reina y el objetivo del juego es destruir al rey enemigo.
+
+Civilization III: Conquests 
+
+Conquests incluye más mapas, diferentes tipos de gobierno (fascismo, imperialismo, consejo tribal, feudalismo), nuevos especialistas en la ciudad (unidades de policía e ingenieros civiles), más recursos, más maravillas, más civilizaciones, nuevas características del mapa (como volcanes) y algunas nuevas habilidades para las tropas como lo son el esclavismo y los ataques silenciosos.
+
+Civilization IV 
+
+Desarrollado por Firaxis y publicado por 2K Games el 25 de octubre de 2005, a agosto del 2006. Contiene todo el bagaje de experiencias de las versiones previas de Civilization así como nuevas mejoras que incorporan más responsabilidades al juego. Desde cierto punto de vista, cada vez es más difícil el juego pues cada vez hay más elementos a tener en cuenta. En Civilization IV aparece el concepto de religión. Ahora, en el árbol de tecnologías se ha incorporado el descubrimiento de siete religiones, las cuales podrán ser acogidas por la población de las ciudades para maximizar el nacionalismo y/o para controlar a la población. La ciudad sagrada tiene un gran ventaja: Puede ver todas las ciudades con templos de esa religión y recibe oro de esos templos, aunque sean de otra civilización. También aparece el concepto de grandes personajes para reemplazar el concepto del «Gran líder». Es posible conseguir grandes personajes como «gran mercader» o «gran artista», que podrán hacer avanzar la investigación científica de la civilización, o incluso introducirla en una edad de oro.
+
+Civilization IV: Warlords 
+
+Como se ha mencionado antes, existe una expansión llamada Warlords, la cual introduce algunos elementos nuevos como el vasallaje entre civilizaciones, así como ciertas mejoras en el sistema de juego. Por otro lado, la expansión incluye la actualización de la versión del juego original, donde se solventan problemas de incompatibilidad que tenía el juego con tarjetas gráficas de la marca ATI, problema que incluso indujo a introducir una guía explicativa con un procedimiento alternativo para la solución de este problema en la página web oficial del juego.
+
+Civilization IV: Beyond the Sword 
+
+Civilization IV: Beyond the Sword es una expansión oficial de Civilization IV lanzada durante la primavera de 2007. Esta expansión introdujo el concepto de espionaje para esta entrega, además de nuevos edificios, unidades y maravillas.
+
+Civilization IV: Colonization 
+
+Civilization IV: Colonization es la segunda entrega de la saga Colonization, en el cual el objetivo es conquistar un continente inexplorado, poblado por indígenas. También recrea la economía de la época, como el comercio con Europa y los nativos. Utiliza el motor gráfico de Civilization IV y fue lanzado durante 2008.
+
+Civilization Revolution 
+
+En primavera de 2008 se lanzó una nueva versión para consolas de esta saga llamada Civilization Revolution. El juego toma muchas características de Civilization IV, como el detalle de que una unidad de batalla esté compuesta a efectos visuales de un pelotón de hombres, además de esos típicos gráficos al estilo «caricatura». Posee características únicas, como por ejemplo la ausencia de trabajadores o que las rutas se compran y no se construyen.
+
+Civilization V 
+
+En febrero de 2010 se anuncia el desarrollo de Civilization V con su salida anunciada para el 24 de septiembre para los mercados fuera de Estados Unidos. Como primera novedad por las imágenes mostradas se puede deducir que el tablero de juego pasará a utilizar casillas hexagonales. En esta edición se mejoran en gran medida los combates militares, agregando mayor realismo en cada batalla. Ahora las unidades de asedio y las de largo alcance son muy útiles, permitiéndonos debilitar a unidades y ciudades antes de ingresar en el combate cuerpo a cuerpo.
+
+Civilization: Beyond Earth
+
+El 24 de octubre de 2014 sale a la venta Civilization: Beyond Earth. Como sucesor espiritual de Alpha Centauri, comparte parte del equipo de desarrollo de dicho juego, así como muchos conceptos introducidos en el título de 1999. Su puesta en escena es única en toda la saga Civilization, ya que está ambientado en el futuro, con la humanidad viajando a través del espacio y fundando colonias en planetas extra-terrestres. Beyond Earth es una entrega única en la saga. En contraste con el resto, que tienen lugar en diferentes periodos históricos de la historia humana, esta entrega está situada en un futuro distante. Utiliza el mismo motor que Civilization V (lo que significa que no hay unidades amontonadas, con la excepción de civiles y militares, unidades "orbitales" y hexágonos).
+
+Civilization VI
+
+Es la sexta entrega principal de la serie. Desarrollado por Firaxis Games. Un título publicado por 2K Games y distribuido por Take-Two Interactive. El juego fue lanzado el 21 de octubre de 2016 para Windows, para OS X y Linux.
+
+En la cultura popular 
+
+Civilization es considerado como un juego con un elevadísimo componente educativo. Se trata de un juego de estrategia y conquista basado en la evolución de la humanidad desde sus orígenes, desde el nacimiento de las primeras ciudades hasta la era espacial. Es un juego perfecto para interesar a los jóvenes por la historia del mundo, la organización, gestión, problemáticas sociales y económicas (polución, guerras, hambruna, catástrofes, etc.), diplomacia y el aspecto militar, ofreciendo la posibilidad de experimentar esa evolución bajo el propio mandato y dirección del jugador.
+
+El aspecto educativo estuvo presente desde el principio en el juego. Los programadores añadieron una sección al juego llamada Civilopedia, esto es, la enciclopedia de Civilization, en forma de ayuda del juego. El jugador podía consultarla cuando quisiera, por ejemplo para leer una introducción histórica acerca de cada unidad militar o avance científico. El concepto de Civilopedia tuvo tal éxito que se incorporó a varios de los juegos que Microprose publicó con posterioridad: por ejemplo, la «Colonizopedia» de Sid Meier's Colonization o la «UFOpaedia» de la saga X-COM.
+
+Referencias
+
+Véase también 
+ Sid Meier's Alpha Centauri
+ Videojuego de estrategia por turnos
+
+Enlaces externos 
+ 
+ Apolyton.net Sitio web de la Comunidad española de Civilization
+ TodoCivilization.com Sitio web de la Comunidad española de Civilization
+
+ 
+Franquicias de videojuegos
+Videojuegos de 1991
+Videojuegos para PlayStation
+Videojuegos para PlayStation 2
+Videojuegos para PlayStation 3
+Videojuegos para PlayStation 4
+Videojuegos para PlayStation Portable
+Videojuegos para Xbox
+Videojuegos para Xbox 360
+Videojuegos para Xbox One
+Videojuegos para Linux
+Videojuegos para Windows
+Videojuegos disponibles en Steam

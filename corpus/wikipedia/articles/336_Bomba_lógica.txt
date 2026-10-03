@@ -1,0 +1,57 @@
+Una bomba lógica es una parte de un código insertado intencionalmente en un programa informático que permanece oculto hasta cumplirse una o más condiciones preprogramadas, en ese momento se ejecuta una acción maliciosa. Por ejemplo, un programador puede ocultar una pieza de código que comience a borrar archivos cuando sea despedido de la compañía (en un disparador de base de datos, es decir, un trigger; que se dispare al cambiar la condición de trabajador activo del programador).
+
+El software que es inherentemente malicioso, como virus o gusanos informáticos, frecuentemente contiene bombas lógicas que ejecutan algún programa en un tiempo predefinido o cuando cierta condición se cumple. Esta técnica puede ser usada por un virus o un gusano para ganar ímpetu y para esparcirse antes de ser notado. Muchos virus atacan sus sistemas huéspedes en fechas específicas, tales como un viernes 13, el April Fools' Day (1 de abril) o el Día de los Inocentes (28 de diciembre). Los troyanos que se activan en ciertas fechas son llamados frecuentemente «bombas de tiempo».
+
+Para ser considerado una bomba lógica, la acción ejecutada debe ser indeseada y desconocida al usuario del software. Por ejemplo los programas demos, que desactivan cierta funcionalidad después de un tiempo prefijado, no son considerados como bombas lógicas.
+
+Algunos ejemplos de acciones que puede realizar una bomba lógica 
+
+ Borrar información del disco duro
+ Mostrar un mensaje 
+ Reproducir una canción
+ Enviar un correo electrónico
+ Apagar el monitor
+ Abre tu Porta CD
+Consumo excesivo de los recursos del sistema. 
+Rápida destrucción del mayor número de ficheros posibles. 
+Destrucción disimulada de un fichero de vez en cuando para permanecer invisible el mayor tiempo posible. 
+Ataque a la seguridad del sistema (implementación de derechos de acceso y envío del fichero de contraseña a una dirección de Internet, etc.) 
+Uso de la máquina para terrorismo informático como un DDOS (Distributed Denial Of Service)
+
+Bomba lógica exitosa 
+
+ Se ha divulgado que en 1982 el incidente del gasoducto transiberiano ocurrió debido a una bomba lógica o tiempo colapsado. Un operativo de la KGB dijo haber robado los planos para un sofisticado sistema de control y su software de una firma canadiense, para el uso en su gasoducto siberiano. La CIA supuestamente fue notificada por documentos en el Farewell Dossier e hizo a la compañía insertar una bomba lógica en el programa para propósitos de sabotaje. Esto finalmente resultó en «la más monumental explosión no nuclear y el primer fuego jamás visto desde el espacio». Desde entonces se ha divulgado que este informe inicial fue una broma del April Fools' Day.
+
+Intentos de bombas lógicas 
+
+ El 2 de octubre de 2003 Yung-Hsun Lin, también conocido como Andy Lin, cambió un código en un servidor de Medco Health Solutions Inc., las oficinas centrales en Fair Lawn Nueva Jersey), donde estaba empleado como administrador de Unix, creando un conjunto de bombas lógicas para activarse en su cumpleaños en 2004. Falló en funcionar debido a un error de programación, así que Lin corrigió el error y la reajustó para activarse en su siguiente cumpleaños, pero fue descubierta e inhabilitada por un administrador de los sistemas de computación de Medco algunos meses antes de la fecha del disparador. Lin se declaró culpable y fue sentenciado a 30 meses de cárcel en una prisión federal además de 81 200 dólares estadounidenses en restitución. Los cargos sostuvieron una máxima sentencia de 10 años y una multa por 250 000 dólares.
+ En junio de 2006 encargaron a Rogelio Duronio, un disgustado administrador de sistemas de UBS, se le imputaron cargos por usar una bomba lógica para dañar la red de computadores de la compañía sumándole el fraude de títulos de valores por su fallido plan para tumbar el estocaje de la compañía con la activación de la bomba lógica. Duronio fue posteriormente condenado y sentenciado a 8 años y 1 mes en prisión, así como una restitución 3,1 millones de dólares a UBS.
+ El 29 de octubre de 2008 fue descubierta una bomba lógica en el gigante hipotecario estadounidense Fannie Mae. La bomba fue presuntamente plantada por Rajendrasinh Makwana, un ciudadano indio y contratista de IT que trabajó en la fábrica de Fannie Mae en Urbana (Maryland). La bomba fue ajustada para activarse el 31 de enero de 2009 y habría podido borrar todos los 4000 servidores de Fannie Mae. Makwana había terminado alrededor de la 1:00 p. m. el 24 de octubre de 2008 y logró plantar la bomba antes de que su acceso de red fuera revocado. Makwana fue procesado en una corte de Maryland el 27 de enero de 2009 por acceso desautorizado a la computadora.
+En 2019 un programador fue condenado por programar bombas lógicas en el software de Siemens para asegurarse que lo llamaran regularmente a arreglar el software que él había desarrollado.
+
+Bombas lógicas ficticias 
+
+ En el «Fantasma de Moffett», un episodio de la serie de televisión Airwolf, Hawk pierde el control de la computadora de a bordo, que fue programada con un contador de tiempo por el creador del helicóptero Airwolf, el Dr. Charles Henry Moffet... que una vez activada, el Airwolf es ajustado para destruir cualquier aeronave en su rango.
+ En el libro Jurassic Park (de Michael Crichton), el técnico de computadores Dennis Nedry insertó un objeto en la codificación de la unidad central del parque que apagaría la energía de la isla entera (incluyendo la fuente de las cercas eléctricas) para robar varios embriones de dinosaurio durante el caos. El objeto de la bomba lógica fue nombrado «conejo blanco».
+ El libro Deuda de honor (de Tom Clancy) muestra una bomba lógica instalada en el código de varios computadores del mercado de valores.
+ Stanley Jobson ―el personaje de Hugh Jackman en la película Operación Swordfish―, expone que «soltó una bomba lógica a través de la trampilla» mientras está hackeando dentro de la red del Departamento de Defensa de Estados Unidos.
+ En el episodio «Dispersos» (Scattered) de Battlestar Galactica (Reimaginada) de 2004, los cylons dejan una bomba lógica en los computadores de la nave después de ganar acceso a ellas brevemente. Esto causa posteriormente una serie de casi catastróficas malfunciones del sistema.
+ En el nivel de la CIA del Splinter Cell de Tom Clancy, se puede oír una conversación acerca de una bomba lógica.
+ En el juego de estrategia para PC, Empire Earth, la unidad especial japonesa, el Cyber Ninja, tiene un ataque llamado "Bomba Lógica". Esto lleva poca semejanza a una bomba lógica verdadera, en lugar de ello simplemente inhabilita un edificio enemigo por un breve período.
+ En la temporada 3 de la serie de televisión 24, Nina Myers manipula a Jack Bauer para activar sin darse cuenta a un virus en los sistemas de computadores de CTU. Es activada por una llamada de telefónica a cierto número.
+ En el episodio 8 de la temporada 6 de la serie Spooks, la organización Yalta planta una bomba lógica dentro de la red estadounidense de defensa para desactivar todos los satélites controlados por Estados Unidos. Es activada por la entrada de un código en un juego que causa que la bomba lógica copie un virus a todos los satélites y los desactive.
+ En el episodio 2 de la temporada 6 de NCIS, Abby Sciuto y McGee tienen una conversación sobre lógica que le da la idea de usar una bomba lógica para hackear en las computadoras en un transportador naval de Estados Unidos para acceder a ciertos archivos. En la pantalla no se ven ni se discuten los detalles de la bomba en sí misma.
+
+Véase también 
+ Gusano informático
+ Malware
+ Troyano (informática)
+ Virus informático
+ Puerta trasera
+ Huevo de pascua (virtual)
+
+Referencias 
+
+Malware
+Seguridad informática
+Tipos de malware

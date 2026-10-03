@@ -1,0 +1,97 @@
+{{Ficha de taxón
+| name = Agrostis
+| image = Gewoon struisgras Agrostis tenuis.jpg
+| image_caption = A. tenuis
+| regnum = Plantae
+| divisio = Magnoliophyta
+| classis = Liliopsida
+| subclassis = Commelinidae
+| ordo = Poales
+| familia = Poaceae
+| subfamilia = Pooideae
+| tribus = Poeae
+| subtribus = Agrostidinae
+| genus_authority = L., 1753
+| genus = Agrostis
+| subdivision_ranks = Especies
+| subdivision = Ver Anexo:Especies de Agrostis
+| synonyms = * Agraulus P.Beauv. 
+ Agrestis Bubani (SUS) 
+ Anomalotis Steud.
+ Bromidium Nees & Meyen 
+ Candollea Steud. (SUS) 
+ Decandolia Bastard (SUS) 
+ Didymochaeta Steud. 
+ Heptaseta Koidz. (SUI) 
+ Lachnagrostis Trin. 
+ Linkagrostis Romero García, Blanca & C.Morales 
+ Neoschischkinia Tzvelev 
+ Notonema Raf. 
+ Pentatherum Nábelek 
+ Podagrostis (Griseb.) Scribn. & Merr. 
+ Senisetum Honda 
+ Trichodium Michx. 
+ Vilfa Adans.
+}}Agrostis es un género de plantas de la familia de las poáceas que consta de más de 100 especies de hierbas, la mayoría perennes. Algunas de ellas se utilizan para praderas de césped. Las flores aparecen en panículos sueltos; cada una de las pequeñas espiguillas contiene una sola flor. Como especie de interés forrajero presenta escaso valor nutritivo y son poco productivas. Entre las especies más corrientes destacan Agrostis castellana y Agrostis stolonifera, esta última muy usada en campos de golf ya que es muy invasora y crea un tapete perfecto para la práctica de este deporte.
+
+ Identificación 
+El género Agrostis se caracteriza por tener panículas más o menos abiertas, con espiguillas pequeñas y pediceladas sobre pedúnculos verticilados en el eje de la inflorescencia. Glumas más o menos iguales, agudas, apuntadas o aristadas y aquilladas, más largas que las glumillas, y encerrando una sola flor fértil, a menudo con otra rudimentaria. Con hojas puntiagudas de color verde azulado, lígula corta y sin aurículas. Tiene rizomas bien desarrollados, los tallos son rastreros y enraízan en las nudosidades. Son plantas de poca talla y consistencia, la mayoría son anuales, con hojas planas.
+
+El grano, en cariópside, está envuelto en las glumillas y puede tener forma oblonga o elipsoidea y coloración ámbar-oscuro o rojizo.
+
+Las semillas son muy pequeñas, un gramo contiene alrededor de 15 000 semillas, por lo que su recolección resulta complicada y el precio, elevado.
+
+ Distribución y hábitat 
+Son especies abundantes en los pastizales españoles. También se encuentran en el Norte de Europa, Argentina, Brasil y Norte América. Están adaptadas al período de invierno y resisten bien el frío y el exceso de humedad, motivo por el que suelen desarrollarse en depresiones inundadas, orillas y márgenes de zanjas.
+
+Entre las especies más interesantes en la península ibérica se encuentran:
+ Agrostis stolonifera vive en casi toda España, en altitudes medias, aunque sube hasta el piso montano.
+ Agrostis castellana vive en menores altitudes, en toda la mitad oeste de la Península, principalmente en Extremadura, junto a especies del género Lollium.
+ Agrostis nevadensis se localiza en Sierra Nevada.
+ Agrostis alpina en la cordillera Cantábrica y Pirineos.
+ Agrostis rupestris, se encuentra también en pastos alpinos y subalpinos del norte y centro de la Península.
+
+ Cultivo y necesidades ambientales 
+
+Son plantas rústicas capaces de crecer en medios pobres y ácidos. Además resisten bien el exceso de humedad del invierno y es bastante apetecible para el ganado. Proporcionan una cantidad apreciable de material vegetal que no sería posible obtener con especies más exigentes.
+
+Cada especie tiene sus requerimientos específicos, pero de forma general, no se desarrollan en altitudes superiores a los 1000 metros de altitud. El terreno debe estar bien preparado, con abundante tierra fina, debido al pequeño tamaño de sus semillas.
+
+La época más adecuada para su siembra es a finales de verano o principios de otoño. La temperatura óptima de germinación oscila entre los 20-30 °C. Tarda entre 10 y 15 días en germinar desde la siembra si las condiciones son las adecuadas. Se trata una especie de fotoperiodo largo, siendo necesarias más de 16 horas de luz al día. Tiene unas necesidades de agua, en términos de ETc anual aproximada, de 1200 mm.
+
+Para la producción de semilla, su período de fructificación puede ser bastante largo, desarrollándose entre abril y septiembre, aunque la mayor cantidad de semilla se puede recoger durante el mes de julio.
+
+ Adversidades del cultivo 
+
+Es relativamente delicado al ataque de hongos patógenos, principalmente Pythium y Fusarium roseum.
+Los tratamientos fungicidas preventivos deben ser aplicados de forma sistemática en los momentos de mayor riesgo.
+
+Son especies poco agresivas al implantarse y tienen un índice de ocurrencia bajo, es decir, poca facilidad de implantación.
+
+Su producción se ve superada en cantidad y calidad por otras especies, por lo que su objetivo no son los pastos productivos sino céspedes ornamentales o deportivos, y en menor grado, revegetaciones.
+
+ Usos y aprovechamientos 
+
+Las especies espontáneas en los pastizales de la península ibérica son abundantes, aunque de escaso valor nutritivo.
+
+El forraje de A. stolonifera es poco apetecible por el ganado ovino y algo más por el vacuno, siendo su composición media: agua, 15 %; materia seca, 80 %; proteína bruta, 7 %; grasas, 2 %; fibras, 25 %; cenizas, 6,5 %. Esta especie es típica en los greens de campos de golf, ya que presenta una superficie vegetal uniforme y baja susceptibilidad de ser degradada.
+
+El género Agrostis incluye especies que aun no siendo muy productivas, con un correcto abonado, pueden producir de 2 a 3 cortes anuales de un forraje que admite una buena henificación.
+
+ Taxonomía 
+El género fue descrito por Carlos Linneo y publicado en Species Plantarum 1: 61. 1753. La especie tipo es: Agrostis canina L. 
+EtimologíaAgrostis: nombre genérico que deriva del griego agrostis = (una planta forrajera, una especie de hierba), cf. agros = (campo).
+
+Híbrido intergenérico
+ Agrostis + Polypogon'' (×'Agropogon' P.Fourn.).
+
+Referencias
+
+Bibliografía
+ 
+
+ 
+
+ 
+Plantas descritas por Linnaeus
+Plantas descritas en 1753

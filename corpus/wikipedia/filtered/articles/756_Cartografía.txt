@@ -1,0 +1,123 @@
+La cartografía (del griego χάρτης, chartēs = mapa y γραφειν, graphein = escrito) es la ciencia aplicada que se encarga de reunir, realizar y analizar medidas y datos de regiones de la Tierra, para representarlas gráficamente con diferentes dimensiones lineales a escala reducida. Por extensión, también se denomina cartografía a un conjunto de documentos territoriales referidos a un ámbito concreto de estudio. La Asociación Cartográfica Internacional define la cartografía como la disciplina relacionada con la concepción, producción, diseminación y estudio de mapas.
+
+Fundamentos 
+
+Al ser la Tierra esférica, o más bien geoide, lo cual es una derivación del término "esférico", ha de valerse de un sistema de proyecciones para pasar de la esfera al plano. El problema es aún mayor, porque la forma de la Tierra no es perfectamente esférica; su forma se achata más en los polos que en la zona ecuatorial. Por eso se le considera geoide.
+
+Además de representar los contornos de las cosas, las superficies y los ángulos, la cartografía se ocupa de representar la información que aparece sobre el mapa, según se considere qué es relevante y qué no. Esto, normalmente, depende de lo que se quiera representar en el mapa y de su escala.
+
+Actualmente estas representaciones cartográficas se pueden realizar con programas informáticos llamados SIG, con georreferencia.
+
+La cartografía en la época de la Web 2.0 se ha extendido hasta Internet, propiciando el surgimiento del contenido creado por el usuario. Este término implica que existan mapas creados en forma tradiciona, mediante contribuciones de cartógrafos profesionales, o con información aportada por el público general. En la actualidad son numerosos los portales que permiten visualizar y consultar mapas de todo el mundo.
+
+Historia 
+
+El mapa conocido más antiguo es una cuestión polémica, porque la definición de mapa no es unívoca y porque para la creación de mapas se utilizaron diversos materiales. Existe una pintura mural, que puede representar la antigua ciudad de Çatalhöyük, en Anatolia (conocida previamente como Huyuk o Çatal Hüyük), datada en el VII milenio a. C. Otros mapas conocidos del mundo antiguo incluyen a la civilización minoica: la «Casa del almirante» es una pintura mural datada en 1.600 a. C., en la que se observa una comunidad costera en perspectiva oblicua. También hay un mapa grabado de la Sagrada Ciudad de Babilonia de Nippur, del período Kassita, ( - )
+
+En la antigua Grecia y el Imperio romano se crearon mapas, como el de Anaximandro en el . o el mapamundi de Claudio Ptolomeo, que es un mapa del mundo conocido (Ecúmene) por la sociedad occidental en el . En el , los eruditos árabes tradujeron los trabajos de los geógrafos griegos al árabe.
+
+En la antigua China, los códigos geográficos datan del . Los mapas chinos más viejos son del Estado de Qin y se datan en el , durante los Reinos Combatientes. En el libro del Xin Yi Xiang Fa Yao, publicado en 1092 por el científico chino Su Song, hay una carta astronómica con una proyección cilíndrica similar a la actual y, al parecer, inventado por separado, a la Proyección de Mercator. Aunque este método de cálculo parece haber existido en China incluso antes de esta publicación y, científicamente, el significado más grande de las Cartas astronómicas de Su Song, es que representan los mapas impresos existentes más antiguos conocidos.
+
+Los primeros signos de la cartografía india incluyen pinturas legendarias; mapas de localizaciones descritas en epopeyas hindúes como el Rāmāyana. Las tradiciones cartográficas hindúes también situaron la localización de la Estrella Polar, así como otras constelaciones.
+
+Mapamundi es el término general usado para describir a los mapas europeos del Mundo Medieval. Aproximadamente mil cien mapamundis sobrevivieron a la Edad Media. De estos novecientos son ilustraciones manuscritas y el resto existe como documentos independientes (Woodward, P. 286).
+
+El geógrafo árabe Muhammad al-Idrisi elaboró su mapa, la Tabula Rogeriana, en 1154 incorporando el África conocida, el océano Índico y el Extremo Oriente conocido, compilando la información de los comerciantes y exploradores árabes y la heredada de los geógrafos clásicos para crear el mapa más exacto del mundo en su tiempo y durante los siguientes tres siglos.
+
+En la Era de los descubrimientos, del al , los cartógrafos europeos copiaron mapas antiguos (algunos datados muchos siglos atrás) y dibujaron sus propios mapas basados en las observaciones de los exploradores aunque con nuevas técnicas. La invención de la brújula, el telescopio y el desarrollo de la agrimensura les dieron mayor exactitud. En 1492, Martin Behaim, un cartógrafo alemán, hizo el primer globo terráqueo, el Erdapfel.
+
+Johannes Werner estudió y perfeccionó los sistemas de proyección de los mapas, desarrollando la proyección cordiforme. En 1507, Martin Waldseemüller elaboró un globo del mundo y un gran mapamundi mural distribuido en 12 hojas (Universalis Cosmographia), siendo el primer mapa en aplicar el nombre de «América» a las tierras recién descubiertas por los europeos y el primero en presentar este continente separado del asiático. El cartógrafo portugués, Diego Ribero, fue el autor del primer planisferio conocido con un Ecuador terrestre graduado (1527). El cartógrafo italiano Bautista Agnese elaboró por lo menos 71 atlas manuscritos de las cartas marinas.
+
+Debido a las dificultades inherentes en la cartografía, fabricantes de mapas copiaron con frecuencia el material de trabajos anteriores sin mencionar al cartógrafo original. Por ejemplo, uno de los mapas antiguos más famosos de Norteamérica, vulgarmente conocido como el “Mapa Castor”, publicado en 1715 de Herman Moll, es una reproducción exacta de un trabajo en 1698 de Nicolás De Fer. De Fer había copiado a su vez las imágenes impresas en libros de Louis Hennepin, publicados en 1697, y François Du Creux, en 1664. Por los años 1700, los fabricantes de mapas comenzaron a darle crédito al autor original imprimiendo la frase “Según [el cartógrafo original]”.
+
+Cartografía precolombina 
+
+En México, la cartografía tiene sus propias características. Si bien se inscribe en el contexto del pensamiento cartográfico de occidente su origen se encuentra en las formas de expresión empleadas por los antiguos pobladores de Mesoamérica para representar el conocimiento geográfico.
+
+Una lectura de estas menciones ha permitido a los estudiosos saber que, efectivamente, los indígenas mesoamericanos realizaban mapas con una gran destreza técnica y profesionalidad, y que eran relativamente habituales en la Mesoamérica precolombina.
+
+La mayoría de los mapas indígenas que se han conservado datan del , después de la llegada de los europeos, y están influidos por la cartografía de los mismos. De hecho, como ya hemos comentado, las referencias que tenemos de los mapas hechos por los nativos mexicanos son descripciones hechas por los españoles, es decir, consideraciones externas, realizadas desde el punto de vista europeo.
+
+No podemos saber con certeza cómo eran los mapas precolombinos, ni siquiera podemos estar seguros de la manera que tenían los nativos de entender los mapas.
+
+A partir de todos estos factores (entre otros), los estudiosos han logrado identificar cuatro categorías de mapas mesoamericanos, dependiendo de su función y representación:
+
+ Mapas que narran acontecimientos históricos.
+ Mapas que representan propiedades, planos de ciudades, y posiblemente itinerarios.
+ Mapas cosmográficos.
+ Mapas celestes, mostrando las estrellas y constelaciones.
+
+Cambios tecnológicos
+
+Las cartas planas 
+Son las que se construyen suponiendo que la superficie de la Tierra es plana, con lo que el rumbo y la distancia van acordes a ello. Se usaron mucho en el Mediterráneo hasta los inicios del .
+
+Los cambios en la producción de mapas corren paralelos a los cambios producidos en la tecnología. El salto más grande se produjo a partir de la Edad Media cuando se inventan instrumentos como el cuadrante y la brújula, que permiten medir los ángulos respecto a la estrella polar y el Sol. Estos instrumentos, permitieron determinar la latitud para finalmente plasmarla en los mapas.
+
+En las llamadas cartas planas, las latitudes observadas y las direcciones magnéticas se representan directamente en el mapa, con una escala constante, como si la Tierra fuese plana.
+
+Evolución posterior 
+En la cartografía, la tecnología ha cambiado continuamente para resolver las demandas de nuevas generaciones de fabricantes de mapas y de lectores de mapas. Los primeros mapas fueron elaborados manualmente con plumas sobre pergaminos; por lo tanto, variaban en calidad y su distribución fue muy limitada. La introducción de dispositivos magnéticos, tales como la brújula permitían la creación de mapas de diferentes escalas más exactos y más fáciles de almacenar y manipular.
+
+Los avances en dispositivos mecánicos tales como la imprenta, el cuadrante y el nonio, utilizados para que la producción en masa de mapas y la capacidad de hacer reproducciones más exactas de datos. La tecnología óptica, como el telescopio, el sextante y otros dispositivos, permitían examinar de forma más exacta la Tierra y aumentaron la capacidad de los creadores de mapas y navegantes para encontrar su latitud midiendo ángulos con la Estrella Polar de noche o al mediodía.
+
+Avances en tecnología fotoquímica, tales como los procesos litógráficos y fotomecánicos, han tenido en cuenta la creación de mapas que tienen detalles finos, no se tuercen en su forma y resistentes a la humedad y el desgaste. Esto también eliminó la necesidad del grabado, que en un futuro acortó el tiempo que toma para hacer y para reproducir mapas.
+
+Los avances en tecnología electrónica en el condujeron a otra revolución en la cartografía. La disponibilidad de los avances en computación, de hardware, junto a sus periféricos, por ejemplo monitores, los trazadores, las impresoras, los escáneres (remotos y de documentos) y los trazadores estéreos analíticos, junto con los programas de computadora para la visualización, el proceso de imagen, el análisis espacial, y la gerencia de la base de datos, han contribuido a lo que se ha denominado neogeografía, popularizando su conocimiento y ampliado la fabricación de mapas.
+
+La capacidad espaciales para localizar variables sobre mapas existentes, junto a la creación de nuevas aplicaciones para la gestión de mapas, han posibilitado el surgimiento de nuevas industrias de exploración de estos potenciales. El uso de técnicas actuales como la fotografía por satélite, ha facilitado, en los últimos tiempos, la elaboración de mapas cartográficos de forma más precisa. Esto tiene unas consecuencias inmediatas para las demás ciencias y estudios que dependen de la cartografía para su desarrollo.
+Además, en la actualidad podemos desarrollar mapas en 3D usando softwares destinados a esto, lo que lleva un paso más allá la visualización de estos mapas.
+
+Actualmente la mayoría de los mapas de calidad comercial se hacen usando software, que se agrupa en tres tipos principales: 
+Diseño asistido por ordenador (DAO).
+Sistema de Información Geográfica (SIG).
+ Software de ilustración especializada.
+
+La información espacial se puede almacenar en una base de datos, de la que puede ser extraída bajo demanda. Estas herramientas conducen cada vez más a mapas dinámicos y mapas interactivos, pudiendo ser manipulados digitalmente.
+
+Tipos de mapas
+
+General y cartografía temática 
+
+De acuerdo a mapas básicos, el campo de la cartografía, se puede dividir o separar en dos categorías generales: la Cartografía general y la Cartografía temática. La Cartografía general implica esos mapas que se construyen para una audiencia general y contengan así una variedad de características. Los mapas generales exhiben muchas referencias y los sistemas de localización se producen a menudo en series. Por ejemplo, los mapas topográficos de escala 1:24,000 de la United States Geological Survey (USGS) es un estándar con respecto a los mapas canadienses de escala de 1:50,000. El gobierno de Reino Unido produce los clásicos "Ordnance Survey" mapas de 1:63,360 (1 pulgada por milla) del Reino Unido entero junto con una gama de mapas más grandes y escala muy pequeña correlacionados a gran detalle.
+
+La Cartografía temática implica los mapas de temas geográficos específicos, orientados hacia las audiencias específicas. Un par de ejemplos puede ser el mapa del punto demostrar la producción del maíz en Indiana o un mapa sombreado del área de los condados de Ohio, dividido en clases numéricas. Mientras que el volumen de datos geográficos ha evolucionado enormemente durante el siglo pasado, la cartografía temática ha llegado a ser cada vez más útil y necesaria para interpretar datos espaciales, culturales y sociales. Por ejemplo las redes sociales se mapean georeferencialmente, también se hacen mapas que muestren distancia entre personas (en número de vínculos o pasos que los separan). La línea del tiempo también puede considerarse un mapa o carta. A partir de su uso en la navegación se han perfeccionado técnicas que son recuperadas para guiar la navegación web. En sociología y comunicación, el oficio del cartógrafo también es citado como estrategia para sostener el rumbo en un mundo fluido.
+
+El mapa del deporte de orientación combina la cartografía general y temática, diseñada para una comunidad de usuario muy específica. El elemento temático más prominente está sombreado, eso indica grados de dificultad del recorrido debido a la vegetación. La vegetación en sí mismo no es identificada, clasificándose simplemente por la dificultad (“lucha”) que él presenta.
+
+Características de la geometrización 
+La geometrización atravesó gran parte de la cultura visual de la ciencias modernas, afecto a las imágenes propiamente dichas y también a los modos de ver. El hombre creó métodos, que hacían que fenómenos que no podían ser conocidos, sino por medio del sentido del tacto, del gusto o del olfato, ahora podían ser visualizados, esa racionalización de la mirada reposaba en las producciones de los clásicos de la modernidad, y los mapas de la modernidad no resultaban ajenos a esa mirada, representando isomorfismos y proporcionalidad, inventando una nueva geometría de la representaciones geográficas. Esa proporcionalidad es la que busca definir a la miniatura geográfica. El filósofo francés Gastón Bachelard sostenía que, las miniaturas son objetos faltos de provistos de una objetividad psicológica real, y que miniaturizar el mundo, implicaba poseerlo.
+
+Topográfico y topológico 
+
+El mapa topográfico se trata sobre todo de la descripción topográfica de un lugar (zona provincial, región, un país o el mundo), incluyendo (especialmente en el ) el uso de líneas de isolíneas para demostrar la altimetría (hipsometría) o batimetría del relieve. El relieve terrestre en la cartografía se puede demostrar en una variedad de maneras. En estos mapas se utilizan colores, símbolos y diferentes tipos de trazos para diferentes tipos de paisajes y relieves como montañas, valles, llanuras, lagos, depresiones del terreno y muchas características más. Además, se suelen agregar también diferentes tipos de señalizaciones que refieren a construcciones hechas por el hombre, como por ejemplo: vías de transporte, zonas de producción energética o diferentes tipos de cultivos.
+
+El mapa topológico es un tipo muy general de mapa o plano. Desatiende a menudo la escala y el detalle en el interés de la claridad de la información emparentada. El mapa del Metro de Caracas es un ejemplo. Sin embargo el mapa utilizado preserva poco de realidad. Varía la escala constantemente y precipitadamente, y las direcciones de los contornos casuales. Los únicos rasgos importantes del mapa son la ubicación fácil de las estaciones y travesías a lo largo de pistas y si una estación o una travesía está del norte o sur del Río Guaire. Satisfacen todos los deseos típicos que un pasajero requiere informarse, satisfaciendo el propósito cartográfico.
+
+El poder de la cartografía 
+La cartografía determina el poder de cada Estado. La ubicación, los tamaños y la forma en que cada Estado es representado, le otorga un poder que, aunque no explícito, se puede inducir en cada una de sus representaciones.
+
+Mercator 
+Este es una de las representaciones cartográficas más importantes de la superficie terrestre, y fue muy importante para la navegación en el , ayudó, gracias a los ejes que proporcionaron los meridianos y paralelos, a que los barcos pudieran seguir sus rutas con mayor facilidad.
+
+Pero también podemos observar que en el centro de esa representación se encuentra el continente europeo. Esta representación le otorgó a este continente un mayor poder, frente a otros. No solo por el tamaño real de sus territorios, que se ven más grandes de lo que son en realidad, sino también la posición en la que se representa (el centro).
+
+"Por esta razón, la cartografía se presenta como un mecanismo que salva las distancias, un instrumento que sirve al monarca para enfrentarse al espacio y al tiempo, y que, por tanto, había que producir de la manera más fidedigna posible."
+
+Véase también 
+
+ Agencia cartográfica nacional
+ Geodesia
+ Proyección cartográfica
+ Mapamundis antiguos
+Historia de la cartografía
+
+Referencias
+
+Bibliografía
+
+Enlaces externos 
+
+ Cartesia Artículos, noticias y recursos del campo de la Geomática y la Cartografía.
+
+Ciencias históricas

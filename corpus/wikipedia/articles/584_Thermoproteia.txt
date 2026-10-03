@@ -1,0 +1,29 @@
+Thermoproteia o Thermoprotei, es una clase de arqueas del filo Thermoproteota. Estos organismos se tiñen en gram negativo y son morfológicamente diversos, con bastoncillos, cocos, células filamentosas y de formas extrañas.
+
+Sulfolobus 
+Uno de los miembros mejor caracterizados de Thermoproteia es Sulfolobus solfataricus. Este organismo se aisló originalmente de manantiales sulfúricos calentados geotérmicamente en Italia y crece a 80 °C y un pH de 2–4. Desde su caracterización inicial por Wolfram Zillig, un pionero en la investigación de termófilos y arqueas, se han encontrado especies similares del mismo género en todo el mundo. A diferencia de la gran mayoría de los termófilos cultivados, Sulfolobus crece de forma aeróbica y quimioorganotrófica (obteniendo su energía de fuentes orgánicas como los azúcares). Estos factores permiten un crecimiento mucho más fácil en condiciones de laboratorio que organismos anaerobios y han llevado a Sulfolobus a convertirse en un organismo modelo para el estudio de los hipertermófilos y un gran grupo de virus diversos que se replican dentro de ellos.
+
+Reparación recombinante del daño en el ADN 
+
+La irradiación de células de Sufolobus solfataricus con luz ultravioleta induce fuertemente la formación de pili tipo IV que luego pueden promover la agregación celular. Ajon et al. demostraron la agregación celular inducida por luz ultravioleta para mediar en el intercambio de marcadores cromosómicos intercelulares de alta frecuencia. Los cultivos inducidos por luz ultravioleta tenían tasas de recombinación superiores a las de los cultivos no inducidos en hasta tres órdenes de magnitud. Las células de Sulfolobus solfataricus solo pueden agregarse con otros miembros de su propia especie. Frols et al. y Ajon et al. consideraron que el proceso de transferencia de ADN inducible por luz ultravioleta, seguido de la reparación por recombinación homóloga del ADN dañado, es un mecanismo importante para promover la integridad cromosómica. Este proceso de transferencia de ADN puede considerarse como una forma primitiva de interacción sexual.
+
+Especies marinas 
+
+A partir de 1992 se publicaron datos que reportaban secuencias de genes pertenecientes a Thermoproteia en ambientes marinos. Desde entonces, el análisis de los abundantes lípidos de las membranas de Thermoproteia extraídas del océano abierto se ha utilizado para determinar la concentración de estas "crenarchaea de baja temperatura". Según estas mediciones de sus lípidos característicos, se cree que la termoproteota es muy abundante y uno de los principales contribuyentes a la fijación de carbono. También se han encontrado secuencias de ADN de Thermoproteia en suelos y ambientes de agua dulce, lo que sugiere que es ubicuo en la mayoría de los ambientes.
+
+Cladograma 
+
+Una filogenia algo consensuada en el GTDB database y el Annotree es la siguiente:
+
+Véase también 
+ Hipótesis del eocito
+ Thermoproteota
+
+Enlaces externos 
+
+ Crenarchaeota at the Tree of Life
+ Crenarchaeota from the University of Wisconsin Virtual Microbiology site.
+ NCBI taxonomy page for Crenarchaeota
+ LSPN page for Crenarchaeota
+
+Referencias

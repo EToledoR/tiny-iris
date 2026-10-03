@@ -1,0 +1,86 @@
+En sistemas de computación, Binary-Coded Decimal (BCD) o Decimal codificado en binario es un estándar para representar números decimales en el sistema binario, en donde cada dígito decimal es codificado con una secuencia de 4 bits. Con esta codificación especial de los dígitos decimales en el sistema binario, se pueden realizar operaciones aritméticas como suma, resta, multiplicación y división.
+
+Cada dígito decimal tiene una representación binaria codificada con 4 bits:
+
+ Decimal: 0 1 2 3 4 5 6 7 8 9
+ BCD: 0000 0001 0010 0011 0100 0101 0110 0111 1000 1001
+
+Los números decimales, se codifican en BCD con los bits que representan sus dígitos. Por ejemplo, la codificación en BCD del número decimal 59237 es:
+ Decimal: 5 9 2 3 7
+ BCD: 0101 1001 0010 0011 0111
+
+La representación anterior (en BCD) es diferente de la representación del mismo número decimal en binario puro:
+
+ 1110011101100101 = jfjfjfj
+
+Fundamentos 
+
+En BCD cada cifra que representa un dígito decimal (0, 1,...8 y 9) se representa con su equivalente binario en cuatro bits (nibble o cuarteto) (esto es así porque es el número de bits necesario para representar el nueve, el número más alto que se puede representar en BCD). En la siguiente tabla se muestran los códigos BCD más empleados:
+
+Como se observa, con el BCD solo se utilizan 10 de las 16 posibles combinaciones que se pueden formar con números de 4 bits, por lo que el sistema pierde capacidad de representación, aunque se facilita la compresión de los números. Esto es porque el BCD solo se usa para representar cifras, no números en su totalidad. Esto quiere decir que para números de más de una cifra hacen falta dos números BCD.
+ Una forma sencilla de calcular números en BCD es sumando normalmente bit a bit, y si el conjunto de 4 bits sobrepasa el número 9, entonces se le suma un 6 (0110) en binario, para poder volver a empezar, como si hiciéramos un módulo al elemento sumante.
+
+Desde que los sistemas informáticos empezaron a almacenar los datos en conjuntos de ocho bits (octeto), hay dos maneras comunes de almacenar los datos BCD:
+
+ Omisión de los cuatro bits más significativos (como sucede en el EBCDIC)
+ Almacenamiento de dos datos BCD; es el denominado BCD "empaquetado", en el que también se incluye en primer lugar el signo, por lo general con 1100 para el + y 1101 para el -.
+
+De este modo, el número 127 sería representado como (11110001, 11110010, 11110111) en el EBCDIC o (11000001, 00100111) en el BCD empaquetado.
+
+El BCD sigue siendo ampliamente utilizado para almacenar datos, en aritmética binaria o en electrónica. Los números se pueden mostrar fácilmente en visualizadores de siete segmentos enviando cada cuarteto BCD a un visualizador. La BIOS de un ordenador personal almacena generalmente la fecha y la hora en formato BCD; probablemente por razones históricas se evitó la necesidad de su conversión en ASCII.
+
+La ventaja del código BCD frente a la representación binaria clásica es que no hay límite para el tamaño de un número. Los números que se representan en formato binario están generalmente limitados por el número mayor que se pueda representar con 8, 16, 32 o 64 bits. Por el contrario, utilizando BCD, añadir un nuevo dígito solo implica añadir una nueva secuencia de 4 bits.
+
+Conversiones de decimal A XS3 (Exceso 3) 
+La conversión de números decimales a exceso 3 (XS3) se realiza de la siguiente forma:
+
+Ejemplo: Transformar el decimal 67 a XS3
+
+Tomamos cada dígito y le sumamos 3: 29=
+
+6+3=9
+
+7+3=10
+32,000
+
+Ahora cada cantidad es transformada a binario:
+
+9=1001
+
+10= 1010
+
+Por lo que el resultado de la conversión a XS3 será el número 10011010x100011010
+
+El BCD en electrónica 
+
+El BCD es muy común en sistemas electrónicos donde se debe mostrar un valor numérico, especialmente en los sistemas digitales no programados (sin microprocesador o microcontrolador).
+
+Utilizando el código BCD, se simplifica la manipulación de los datos numéricos que deben ser mostrados por ejemplo en un visualizador de siete segmentos. Esto lleva a su vez una simplificación en el diseño físico del circuito (hardware). Si la cantidad numérica fuera almacenada y manipulada en binario natural, el circuito sería mucho más complejo que si se utiliza el BCD.
+Hay un programa que se llama b1411 que sirve para dividir al sistema binario en dos combinaciones.
+Una por ejemplo es la de sistemas digitales.
+
+IBM y el BCD 
+IBM utilizó los términos decimal codificado en binario y BCD, para el código binario de seis bits con el que se podían representar números, letras mayúsculas, y caracteres especiales. Una variante del BCD fue utilizada en la mayoría de las primeras computadoras de IBM, incluyendo IBM1620 e IBM 1400. Con la introducción del System/360, el BCD fue substituido por el EBCDIC, de ocho bits.
+
+Las posiciones de los bits, en el BCD de seis bits, generalmente fueron etiquetadas como B, A, 8, 4, 2 y 1. Para codificar los dígitos numéricos, A y B eran cero. La letra A fue codificada como (B, A, 1), etcétera.
+
+Historia legal 
+
+En 1972, el Tribunal Supremo de Estados Unidos anuló la decisión de una instancia más baja de la corte que había permitido una patente para convertir números codificados BCD a binario en una computadora (véase Gottschalk v Benson en inglés). Este fue uno de los primeros casos importantes en la determinación de la patentabilidad del software y de los algoritmos.
+
+Véase también 
+ Código binario
+ Código biquinario
+ Sistema binario
+ Código Gray
+ BCD (6-bit)
+
+Enlaces externos 
+ IBM: Codificación Chen-Ho 
+ IBM: Codificación decimal en empaquetado denso .
+ Binary To Decimal Converter at binaryconverterpro.com
+
+Teoría de la información
+Aritmética computacional
+Sistemas de numeración posicional
+Códigos binarios

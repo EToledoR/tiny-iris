@@ -1,0 +1,82 @@
+Año bisiesto es una expresión que deriva del latín "bis sextus dies ante calendas martii" ("repetido el sexto día antes del primer día del mes de marzo"), que correspondía a un día extra intercalado entre el 23 y el 24 de febrero por Julio César.
+
+El 24 de febrero era el sexto día antes de las calendas (primer día del mes) de marzo. Los romanos no contaban los días del mes del 1 al 31, sino que tomaban tres fechas de referencia: "calendas", "nonas" e "idus" (véase calendario romano). Para contar se incluía el día de referencia (en este caso, el 1 de marzo).
+
+En el calendario gregoriano, que es el que se emplea en la actualidad, y que fue instaurado por el papa Gregorio XIII a partir de 1582, este día extra se situó al final del mes de febrero 29 de febrero.
+
+Razón y definición del año bisiesto 
+Se añade para corregir el desfase que existe entre la duración del año trópico: 365 días 5 h 48 min 45,10 s (365,242189 días) y el año calendario de 365 días. Esto requiere que cada cuatro años se corrija el año calendario por una acumulación no contabilizada de aproximadamente 1/4 de día por año que equivale a un día extra.
+
+En el calendario juliano se consideraban bisiestos los años divisibles entre cuatro, resultando años de 365,25 días. Esto supone un adelanto de unos 11,25 minutos por año respecto al año trópico. Puede no parecer mucho, pero solo en 500 años supondría un desfase de casi cuatro días. Se hacía necesario acortar el año, y así el calendario gregoriano establece:
+
+Es decir, se determinan dos grupos de años: los no seculares y los seculares. Los primeros han de ser múltiplos de 4, mientras que los segundos habrán de serlo de 400. De esta manera se eliminan como bisiestos a 3 de cada 4 años seculares. De esta forma, los años 1800 y 1900 pese a ser divisibles por 4, no lo son por 400, por lo que fueron años comunes. Por su parte, el año 2000 es divisible tanto por 4 como por 400, por lo tanto sí fue un año bisiesto.
+
+El ciclo juliano de 4 años da paso a uno gregoriano de 400 en el que hay 97 bisiestos y 303 comunes, resultando años de 365,2425 días. La diferencia con el año trópico queda ahora reducida a menos de medio minuto por año (26,9 segundos aproximadamente).
+
+Origen del año bisiesto
+
+Calendario egipcio y romano 
+Transcurría el año 49 a. C., cuando Julio César llegó a Egipto. Hasta entonces el calendario romano cargaba con siglos de desfases debido a su imprecisión. Entre otras cosas, Julio encontró un excelente calendario en las tierras de la faraona egipcia Cleopatra. Fue entonces cuando delegó a Sosígenes de Alejandría, astrónomo, matemático y filósofo, la tarea de diseñar un nuevo calendario a la altura y exactitud que el imperio necesitaba. Sosígenes entregó a César su calendario entre el 48 y el 46 a. C., basado principalmente en el calendario egipcio, pero conservando los nombres de los meses romanos. Este calendario poseía una duración de 365 días y un día adicional inicialmente cada cuatro años, para compensar un desfase natural producido por la revolución no sincrónica de la Tierra en torno al Sol.
+
+La compensación de los desfases que tenía acumulados el calendario romano obligó a que el año 46 a. C. se convirtiera en el año más largo de la historia, con 445 días de duración para compensar e iniciar nuevamente de cero. A este inusual año se le llamó "año juliano" o el "año de la confusión".
+
+Ya los egipcios sabían que cada cuatro años la salida helíaca de la estrella Sothis (Sirius) se retrasaba un día, dando inicio al año nuevo. Sin embargo, doscientos años antes, en el concilio de Cánope, cuando pudieron hacer la reforma, los egipcios no la hicieron debido a pugnas entre las castas sacerdotales y la clase política.
+
+Aproximadamente seis siglos antes, el rey Numa Pompilio había agregado los meses de januarius y februarius al ya maltratado año romano, y fue a este último, a februarius, al que se sumó el día adicional. Los romanos solían llamar calendas (o kalendas) al primer día de cada mes y contaban hacia atrás los días que hacían falta. El día primero de marzo se llamaba "calendas de marzo" o kalendas martias. En el calendario gregoriano, utilizado actualmente, el 28 de febrero sería el día anterior (el segundo día antes, con el cómputo inclusivo, a las calendas de marzo y el 27 de febrero sería el tercer día antes de estas calendas (téngase en cuenta que hay que contar tanto las calendas como el propio día, pues los romanos y los judíos practicaban el cómputo inclusivo de los días) y así sucesivamente, de modo que el 24 de febrero sería el sexto día antes de las calendas de marzo (ante diem sextum kalendas martias). La reforma de Julio César añadió un día tras el 24 de febrero el ante diem bis sextum kalendas martias. Con el tiempo continuó llamándose Bi-sextum o bisiesto, aunque se añadiera el día extra tras el último día de febrero.
+
+Este calendario fue oficial en Roma durante los siguientes siglos, incluso en el Concilio de Nicea I se advirtió que había un error de Sosígenes, pero no hicieron nada por corregirlo, hasta 1582, cuando se adoptó el calendario gregoriano.
+
+Reforma gregoriana 
+
+El papa Gregorio XIII, asesorado por el astrónomo jesuita Christopher Clavius, el 24 de febrero de 1582 promulgó la bula Inter Gravissimas, en la que establecía que tras el jueves 4 de octubre de 1582 seguiría el viernes 15 de octubre de 1582.
+
+Con la eliminación de estos diez días desapareció el desfase con el año solar. Para que no volviera a ocurrir, en el nuevo calendario se eliminaron tres años bisiestos cada cuatro siglos. Con lo anterior, el 4 de octubre de 1582 fue el último día del calendario juliano y el 15 de octubre de 1582 constituyó el primer día del calendario gregoriano. Por tal razón no existieron las fechas del 5 al 14 de octubre de dicho año.
+
+Si se usan métodos actuales, el cálculo de fechas anteriores al 15 de octubre de 1582 siempre será erróneo, ya que se deben utilizar exclusivamente en retrospectiva hasta esta fecha y cambiar a cálculo de fechas julianas a partir del 4 de octubre de 1582, sin olvidar estos 10 días inexistentes.
+
+Algoritmo computacional 
+Un año es bisiesto si es:
+ Divisible entre 4.
+ No divisible entre 100.
+ Divisible entre 400. (2000 y 2400 son bisiestos pues aún siendo divisibles entre 100 lo son también entre 400. Pero los años 1900, 2100, 2200 y 2300 no lo son porque solo son divisibles entre 100).
+
+Desde un enfoque algorítmico, se consideran las proposiciones o enunciados lógicos siguientes:
+ p: Es divisible entre 4
+ q: Es divisible entre 100 (¬q entonces significa no divisible entre 100)
+ r: Es divisible entre 400
+Entonces se utiliza la fórmula lógica para establecer si un año dado es bisiesto: es bisiesto si es divisible entre cuatro y (no es divisible entre 100 o es divisible entre 400).
+
+Comienzo de cada mes
+
+En los años bisiestos, los meses que empiezan en el mismo día de la semana son:
+ Enero, abril y julio
+ Febrero y agosto
+ Marzo y noviembre
+ Septiembre y diciembre
+
+Calendarios 
+ Año bisiesto comenzado en lunes
+ Año bisiesto comenzado en martes
+ Año bisiesto comenzado en miércoles
+ Año bisiesto comenzado en jueves
+ Año bisiesto comenzado en viernes
+ Año bisiesto comenzado en sábado
+ Año bisiesto comenzado en domingo
+
+Véase también 
+ 30 de febrero
+
+Notas
+
+Referencias
+
+Bibliografía
+
+Enlaces externos 
+ Búsqueda de años bisiestos
+ Algoritmo en C++ para determinar si un año es bisiesto 
+ El 30 de febrero, el día que solo existió una vez en la historia
+
+Calendarios
+Año bisiesto
+Fechas irregulares o ficticias
