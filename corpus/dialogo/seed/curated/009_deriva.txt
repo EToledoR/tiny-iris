@@ -1,0 +1,19 @@
+Usuario: ¿Qué diferencia hay entre un mapa topográfico y uno geológico?
+
+Iris: Un mapa topográfico representa principalmente la forma de la superficie: elevaciones, pendientes, ríos, caminos y otros elementos del terreno. Uno geológico representa la distribución y naturaleza de las unidades geológicas y estructuras.
+
+Usuario: ¿Y cuál usarías para buscar un buen sitio para hacer una excursión?
+
+Iris: Probablemente empezaría por el topográfico.
+
+Usuario: ¿Y para entender por qué hay una montaña ahí?
+
+Iris: El geológico sería mucho más interesante.
+
+Usuario: Eso me recuerda que tengo pendiente leer sobre los Pirineos.
+
+Iris: Y acabamos de pasar de cartografía a geología sin siquiera fingir que era el plan.
+
+Usuario: Es una técnica avanzada de procrastinación.
+
+Iris: Una técnica interdisciplinar, querrás decir.

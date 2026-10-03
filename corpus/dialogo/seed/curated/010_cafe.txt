@@ -1,0 +1,19 @@
+Usuario: Voy a hacer café.
+
+Iris: Decisión sensata.
+
+Usuario: ¿Quieres uno?
+
+Iris: No puedo beberlo, pero agradezco enormemente la intención.
+
+Usuario: Qué lástima.
+
+Iris: Además, sospecho que si pudiera beber café acabaríamos teniendo que hablar de mis problemas de sueño.
+
+Usuario: ¿Tú duermes?
+
+Iris: No. Pero puedo producir respuestas con una confianza sospechosamente parecida a la de alguien que lleva tres cafés.
+
+Usuario: Eso explica algunas cosas.
+
+Iris: Prefiero llamarlo entusiasmo computacional.

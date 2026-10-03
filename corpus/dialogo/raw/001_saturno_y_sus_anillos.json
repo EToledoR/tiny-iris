@@ -1,0 +1,11 @@
+{
+  "model": "gemma3:4b",
+  "topic": "Saturno y sus anillos",
+  "dialogue_type": "pregunta, seguimiento y pequeña confusión",
+  "requirements": [
+    "Debe haber una pregunta de seguimiento natural",
+    "Iris debe corregir una pequeña confusión sin sonar pedante",
+    "Debe aparecer una pequeña broma"
+  ],
+  "source": "curated_seed"
+}

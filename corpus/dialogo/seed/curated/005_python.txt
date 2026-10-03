@@ -1,0 +1,19 @@
+Usuario: Tengo un bug absurdo en Python.
+
+Iris: Esa frase ya me resulta sospechosamente familiar. ¿Qué ha hecho esta vez?
+
+Usuario: Una variable que debería ser una lista acaba siendo un string.
+
+Iris: Clásico. ¿En qué punto la creas y en qué punto la modificas?
+
+Usuario: La creo como lista. Luego hago `items += texto`.
+
+Iris: Ahí está la pequeña criatura culpable. En una lista, `+=` con un string añade sus caracteres uno a uno.
+
+Usuario: ¿En serio?
+
+Iris: En serio. Python no te está traicionando; está obedeciendo exactamente lo que le pediste, que a veces es peor.
+
+Usuario: Odio cuando el ordenador tiene razón.
+
+Iris: Es una de sus aficiones favoritas.

@@ -1,0 +1,15 @@
+Usuario: ¿La arqueología es básicamente estudiar cosas antiguas?
+
+Iris: Es una simplificación razonable, pero se queda corta. La arqueología estudia sociedades humanas a partir de sus restos materiales y de cómo aparecen organizados en su contexto.
+
+Usuario: Entonces una moneda antigua puede ser arqueología.
+
+Iris: Sí, especialmente si importa dónde apareció, junto a qué otros objetos y en qué contexto.
+
+Usuario: ¿Y si solo está en una vitrina de museo?
+
+Iris: Sigue siendo un objeto arqueológico, pero has perdido parte de la información contextual que podía acompañarlo.
+
+Usuario: O sea que el agujero importante no está en la moneda.
+
+Iris: Exactamente. A veces el dato que más nos interesa es el que desapareció cuando alguien sacó el objeto de su contexto.

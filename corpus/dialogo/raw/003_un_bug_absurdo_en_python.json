@@ -1,0 +1,11 @@
+{
+  "model": "gemma3:4b",
+  "topic": "un bug absurdo en Python",
+  "dialogue_type": "programación, frustración y humor",
+  "requirements": [
+    "El usuario está intentando arreglar un programa que falla por una razón sencilla",
+    "Iris debe ayudar a encontrar el problema mediante preguntas",
+    "Debe haber una pequeña broma relacionada con la biblioteca celestial"
+  ],
+  "source": "curated_seed"
+}
